@@ -1,11 +1,62 @@
+
 body {
   background-color: #2DA9AE;
 }
 
-.testClass {
-  background-color: black;
-  color: black;
-  width: 100px;
-  height: 100px;
-  display: block;
+.contentContainer {
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  background-color: orange;
+  height: calc(100% - 80px);
+  width: calc(100% - 16px)
+}
+
+.leftPanel {
+  flex: 1;
+  flex-basis: 20%;
+  background-color: #9fdf9f;
+  overflow: auto;
+}
+
+.mainContent {
+  flex: 2;
+  flex-basis: 80%;
+  background-color: #b3e0ff;
+  display: flex;
+  flex-direction: row;
+}
+
+.map {
+  flex: 1;
+  flex-basis: 70%;
+}
+
+.categories {
+  flex: 2;
+  flex-basis: 30%;
+}
+
+
+.appBarButtonsContainer {
+  height: 48px;
+}
+
+.loginSignupTextFields {
+  width: 100% !important;
+}
+
+.dialogTitle {
+  text-align:center;
+}
+
+//styling for close X button in the Log In / Sign Up dialogs
+.closeXButton {
+  position: absolute !important;
+  left: calc(100% - 55px) !important;
+  bottom: calc(100% - 55px) !important;
+  div {
+    font-size: 24px;
+    font-weight: bold;
+  }
 }

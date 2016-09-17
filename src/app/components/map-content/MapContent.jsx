@@ -39,7 +39,7 @@ export default class MapContent extends Component {
             lng: _data[j][0],
           });
         }
-        console.log(entry[0].lat + ' - ' + entry[0].lng);
+        //console.log(entry[0].lat + ' - ' + entry[0].lng);
         var nbrhood = new this.state.maps.Polygon({
           paths: entry,
           strokeColor: '#ff4d4d',

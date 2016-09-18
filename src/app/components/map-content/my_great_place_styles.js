@@ -1,4 +1,4 @@
-const K_WIDTH = 40;
+/* const K_WIDTH = 40;
 const K_HEIGHT = 40;
 
 const greatPlaceStyle = {
@@ -21,3 +21,5 @@ const greatPlaceStyle = {
 };
 
 export {greatPlaceStyle};
+
+*/

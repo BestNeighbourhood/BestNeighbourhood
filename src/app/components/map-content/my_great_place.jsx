@@ -1,4 +1,4 @@
-import React, {PropTypes, Component} from 'react';
+/*import React, {PropTypes, Component} from 'react';
 import shouldPureComponentUpdate from 'react-pure-render/function';
 
 import {greatPlaceStyle} from './my_great_place_styles.js';
@@ -23,3 +23,4 @@ export default class MyGreatPlace extends Component {
 }
 
 MyGreatPlace.propTypes = propTypes;
+*/

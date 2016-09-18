@@ -5,9 +5,10 @@ import baseTheme from 'material-ui/styles/baseThemes/lightBaseTheme';
 import getMuiTheme from 'material-ui/styles/getMuiTheme';
 import LoginDialog from './LoginDialog.jsx';
 import SignupDialog from './SignupDialog.jsx';
-import StockList from './StockList.jsx';
+import LeftMenu from './LeftMenu.jsx';
 import MapContent from './map-content/MapContent.jsx';
 import neighborhoods_borders from '../../data/neighborhoods_borders.js';
+import PreferencesList from './PreferencesList.jsx';
 
 export default class App extends React.Component {
 
@@ -102,13 +103,15 @@ export default class App extends React.Component {
         />
         <div className="contentContainer">
           <div className="leftPanel" style={leftMenuStyles}>
-            <StockList neighborhoods_borders={neighborhoods_borders}/>
+            <LeftMenu neighborhoods_borders={neighborhoods_borders}/>
           </div>
           <div className="mainContent">
             <div className="map">
               <MapContent neighborhoods_borders={neighborhoods_borders}/>
             </div>
-            <div className="categories"> </div>
+            <div className="categories">
+              <PreferencesList />
+            </div>
           </div>
         </div>
         { this.state.loginDialog ?

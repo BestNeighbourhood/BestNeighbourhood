@@ -268,9 +268,6 @@ adminRouter.route('/loadRecreation').get(function (req, res) {
         var schools  = require('../config/School Locations All Types.json');
         createQueryBuilder('schools',{ primaryKey : "Gen_Use_Code, CNTL_ID", containsNbrhood : false}, schools[0]);
         insertIntoTable('schools', schools , false);
-
-        
-
   });
 
 /// OTHER /// 
@@ -303,6 +300,8 @@ adminRouter.route('/loadHealthCare').get(function (req, res) {
         insertIntoTable('childCareCentres', childCareCentres , false);
 });
 
+
+  //used for testing, remove later
   adminRouter.route('/CreateTables').get(function (req, res) {
         var schools  = require('../config/School Locations All Types.json');
         createQueryBuilder('schools',{ primaryKey : "Gen_Use_Code, CNTL_ID", containsNbrhood : false}, schools[0]);

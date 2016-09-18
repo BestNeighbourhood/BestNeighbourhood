@@ -13,6 +13,7 @@ var routesFolder = './src/server/routes';
 // pull out Routers
 var authRouter = require(routesFolder + '/authRoutes')();
 var adminRouter = require(routesFolder + '/adminRoutes')();
+var optionsRouter = require(routesFolder + '/optionsRoutes')();
 
 
 // Set up middleware
@@ -30,10 +31,14 @@ app.set('views', './src/client'); /* TEST CLIENT */
 // Set up Routes
 app.use('/Admin', adminRouter);
 app.use('/Auth', authRouter);
+app.use('/Options', optionsRouter);
+
 
 app.get('/', function(req, res) {
     res.sendFile(path.join(__dirname, 'src/client/index.html'));
 });
+
+
 
 app.listen(3000, function(err) {
     console.log('Listening at http://... 3000');

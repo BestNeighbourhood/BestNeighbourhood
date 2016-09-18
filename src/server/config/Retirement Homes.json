@@ -1,0 +1,582 @@
+[
+  {
+    "geometry": "POINT (-79.4000386393 43.6842478701)",
+    "str_id": "RH1",
+    "name": "Amica at the Balmoral Club",
+    "bed_capacity": 66,
+    "address": "155 Balmoral Ave",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M4V1J5"
+  },
+  {
+    "geometry": "POINT (-79.3023381451 43.6772579631)",
+    "str_id": "RH2",
+    "name": "Beach Arms Retirement Lodge",
+    "bed_capacity": 80,
+    "address": "505 Kingston Rd",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M4L1V5"
+  },
+  {
+    "geometry": "POINT (-79.3909658505 43.6746815772)",
+    "str_id": "RH3",
+    "name": "Belmont House",
+    "bed_capacity": 90,
+    "address": "55 Belmont St",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M5R1R1"
+  },
+  {
+    "geometry": "POINT (-79.4346965396 43.6516222582)",
+    "str_id": "RH4",
+    "name": "Bill McMurray Residence",
+    "bed_capacity": 84,
+    "address": "180 Sheridan Ave",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M6K3C7"
+  },
+  {
+    "geometry": "POINT (-79.400701227 43.6857791545)",
+    "str_id": "RH5",
+    "name": "Bradgate Arms",
+    "bed_capacity": 85,
+    "address": "54 Foxbar Rd",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M4V 2G6"
+  },
+  {
+    "geometry": "POINT (-79.4055043859 43.6717521233)",
+    "str_id": "RH6",
+    "name": "Central Park Lodge",
+    "bed_capacity": 102,
+    "address": "123 Spadina Rd",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M5R2T1"
+  },
+  {
+    "geometry": "POINT (-79.5043140778 43.7071873268)",
+    "str_id": "RH7",
+    "name": "Central Park Lodge (Queens Dr.#1)",
+    "bed_capacity": 115,
+    "address": "265 Queen's Dr",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M6L3C6"
+  },
+  {
+    "geometry": "POINT (-79.5021774996 43.7074930416)",
+    "str_id": "RH8",
+    "name": "Central Park Lodge (Queens Dr.#2)",
+    "bed_capacity": 145,
+    "address": "303 Queen's Dr",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M6L3C1"
+  },
+  {
+    "geometry": "POINT (-79.3526281309 43.7517180662)",
+    "str_id": "RH9",
+    "name": "Leaside Retirement Residence (formerly Central Park Lodge)",
+    "bed_capacity": 335,
+    "address": "18 Dyas Rd",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M3B1V5"
+  },
+  {
+    "geometry": "POINT (-79.4473062103 43.6402015643)",
+    "str_id": "RH10",
+    "name": "Copernicus Lodge",
+    "bed_capacity": 150,
+    "address": "66 Roncesvalles Ave",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M6R 3A7"
+  },
+  {
+    "geometry": "POINT (-79.3898412845 43.7031033098)",
+    "str_id": "RH11",
+    "name": "Desavery Manor Retirement Home",
+    "bed_capacity": 20,
+    "address": "14 De-Savery Cres",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M4S2L2"
+  },
+  {
+    "geometry": "POINT (-79.401670851 43.6729201259)",
+    "str_id": "RH12",
+    "name": "Eden Manor",
+    "bed_capacity": 22,
+    "address": "251 St George St",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M5R2M2"
+  },
+  {
+    "geometry": "POINT (-79.4388044864 43.7024437779)",
+    "str_id": "RH13",
+    "name": "Elm Ridge Group Living Residence",
+    "bed_capacity": 14,
+    "address": "165 Elm Ridge Dr",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M6B1B2"
+  },
+  {
+    "geometry": "POINT (-79.3879747766 43.6742595997)",
+    "str_id": "RH14",
+    "name": "Fellowship Towers",
+    "bed_capacity": 270,
+    "address": "877 Yonge St",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M4W3M2"
+  },
+  {
+    "geometry": "POINT (-79.4252375437 43.7062560238)",
+    "str_id": "RH15",
+    "name": "Forest Hill Place",
+    "bed_capacity": 159,
+    "address": "645 Castlefield Ave",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M5N3A5"
+  },
+  {
+    "geometry": "POINT (-79.3976988526 43.7004643886)",
+    "str_id": "RH16",
+    "name": "Glebe Manor",
+    "bed_capacity": 34,
+    "address": "17 Glebe Rd W",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M5P 1C8"
+  },
+  {
+    "geometry": "POINT (-79.4697889682 43.6979475512)",
+    "str_id": "RH17",
+    "name": "Harold And Grace Baker Centre",
+    "bed_capacity": 113,
+    "address": "1 Northwestern Ave",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M6M2J7"
+  },
+  {
+    "geometry": "POINT (-79.395482736 43.6732025166)",
+    "str_id": "RH18",
+    "name": "Hazleton Place",
+    "bed_capacity": 170,
+    "address": "111 Avenue Rd",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M5R3J8"
+  },
+  {
+    "geometry": "POINT (-79.3967462883 43.6937071407)",
+    "str_id": "RH19",
+    "name": "Lawton Park Retirement Apartments",
+    "bed_capacity": 66,
+    "address": "101 Lawton Blvd",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M4V1Z6"
+  },
+  {
+    "geometry": "POINT (-79.3931987993 43.6995292373)",
+    "str_id": "RH20",
+    "name": "Meighen Retirement Residence",
+    "bed_capacity": 89,
+    "address": "84 Davisville Ave",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M4S1G1"
+  },
+  {
+    "geometry": "POINT (-79.4360218339 43.6599450996)",
+    "str_id": "RH21",
+    "name": "New Horizons Tower",
+    "bed_capacity": 194,
+    "address": "1140 Bloor St W",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M6H4E6"
+  },
+  {
+    "geometry": "POINT (-79.3636211686 43.7029345735)",
+    "str_id": "RH22",
+    "name": "Nine Twenty-One Millwood",
+    "bed_capacity": 60,
+    "address": "921 Millwood Rd",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M4G1X2"
+  },
+  {
+    "geometry": "POINT (-79.4039127277 43.7334688111)",
+    "str_id": "RH23",
+    "name": "Number Four Teddington Park Avenue",
+    "bed_capacity": 54,
+    "address": "4 Teddington Park Ave",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M4N2C3"
+  },
+  {
+    "geometry": "POINT (-79.4322739452 43.699298284)",
+    "str_id": "RH24",
+    "name": "Pine Villa Retirement Residence",
+    "bed_capacity": 82,
+    "address": "1035 Eglinton Ave W",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M6C2C8"
+  },
+  {
+    "geometry": "POINT (-79.3297382403 43.6635824447)",
+    "str_id": "RH25",
+    "name": "Queen's Retirement Residence",
+    "bed_capacity": 120,
+    "address": "1238 Queen St E",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M4L1C3"
+  },
+  {
+    "geometry": "POINT (-79.3898145572 43.7065398078)",
+    "str_id": "RH26",
+    "name": "The Briton House Retirement Centre",
+    "bed_capacity": 220,
+    "address": "720 Mount Pleasant Rd",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M4S2N6"
+  },
+  {
+    "geometry": "POINT (-79.3869500696 43.6989718644)",
+    "str_id": "RH27",
+    "name": "The Claremont",
+    "bed_capacity": 85,
+    "address": "305 Balliol St",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M4S3H5"
+  },
+  {
+    "geometry": "POINT (-79.418600504 43.6647886493)",
+    "str_id": "RH28",
+    "name": "The O'Neill Centre",
+    "bed_capacity": 10,
+    "address": "33 Christie St",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M6G3B1"
+  },
+  {
+    "geometry": "POINT (-79.5652835322 43.6291664001)",
+    "str_id": "RH29",
+    "name": "Dom Lipa",
+    "bed_capacity": 32,
+    "address": "52 Neilson Dr",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M9C1V7"
+  },
+  {
+    "geometry": "POINT (-79.4961052075 43.6114421735)",
+    "str_id": "RH30",
+    "name": "Goldent Sunset Residence",
+    "bed_capacity": 14,
+    "address": "197 Royal York Rd",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M8V2V5"
+  },
+  {
+    "geometry": "POINT (-79.5144543392 43.6588828979)",
+    "str_id": "RH31",
+    "name": "Kingsway Retirement Residence",
+    "bed_capacity": 115,
+    "address": "4251 Dundas St W",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M8X2Z5"
+  },
+  {
+    "geometry": "POINT (-79.5001076627 43.5977108682)",
+    "str_id": "RH32",
+    "name": "Lake Side Lodge",
+    "bed_capacity": 20,
+    "address": "51 Lake Shore Dr",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M8V1Z3"
+  },
+  {
+    "geometry": "POINT (-79.5820565891 43.6532676868)",
+    "str_id": "RH33",
+    "name": "Meadowcroft Place Retirement Residenc",
+    "bed_capacity": 52,
+    "address": "25 Centennial Park Rd",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M9C5H1"
+  },
+  {
+    "geometry": "POINT (-79.4531051595 43.7545597539)",
+    "str_id": "RH34",
+    "name": "Ahavath Achim Retirement Home Ltd",
+    "bed_capacity": 40,
+    "address": "33 Wilmington Ave",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M3H5J1"
+  },
+  {
+    "geometry": "POINT (-79.4857724614 43.7511344328)",
+    "str_id": "RH36",
+    "name": "Casa Verde Retirement Residence",
+    "bed_capacity": 101,
+    "address": "3595 Keele St",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M3J1M7"
+  },
+  {
+    "geometry": "POINT (-79.3423461206 43.7341409251)",
+    "str_id": "RH37",
+    "name": "Don Mills Senior's Apartments",
+    "bed_capacity": 143,
+    "address": "1057 Don Mills Rd",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M3C1W9"
+  },
+  {
+    "geometry": "POINT (-79.3404557443 43.7347236184)",
+    "str_id": "RH38",
+    "name": "Donway Place",
+    "bed_capacity": 235,
+    "address": "8 The Donway E",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M3C3R7"
+  },
+  {
+    "geometry": "POINT (-79.348764112 43.7363733859)",
+    "str_id": "RH39",
+    "name": "Greenview Lodge",
+    "bed_capacity": 126,
+    "address": "880 Lawrence Ave E",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M3C1P6"
+  },
+  {
+    "geometry": "POINT (-79.3201760128 43.7631236081)",
+    "str_id": "RH40",
+    "name": "Meadowcroft Retirement Communities - Rayoak Place",
+    "bed_capacity": 77,
+    "address": "1340 York Mills Rd",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M3A3R1"
+  },
+  {
+    "geometry": "POINT (-79.43313501 43.735314065)",
+    "str_id": "RH41",
+    "name": "Terrace Gardens Retirement Residence",
+    "bed_capacity": 85,
+    "address": "3705 Bathurst St",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M6A2E8"
+  },
+  {
+    "geometry": "POINT (-79.2654180676 43.68823666)",
+    "str_id": "RH42",
+    "name": "Abbeyfield House Lakeside Avenue",
+    "bed_capacity": 10,
+    "address": "38 Lakeside Ave",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M1N 3C1"
+  },
+  {
+    "geometry": "POINT (-79.288656871 43.7637469846)",
+    "str_id": "RH43",
+    "name": "Alexis Lodge Retirement Residence",
+    "bed_capacity": 32,
+    "address": "707 Ellesmere Rd",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M1P2W1"
+  },
+  {
+    "geometry": "POINT (-79.2249179845 43.7548787952)",
+    "str_id": "RH44",
+    "name": "Cedarbrook Lodge Retirement Residence",
+    "bed_capacity": 250,
+    "address": "520 Markham Rd",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M1H3A1"
+  },
+  {
+    "geometry": "POINT (-79.1980975883 43.7459021195)",
+    "str_id": "RH45",
+    "name": "Livingston Lodge",
+    "bed_capacity": 106,
+    "address": "65 Livingston Rd",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M1E1L1"
+  },
+  {
+    "geometry": "POINT (-79.3360126449 43.805775364)",
+    "str_id": "RH46",
+    "name": "McNicoll Manor + Moll Berczy Haus",
+    "bed_capacity": 102,
+    "address": "1020 McNicoll Ave",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M1W2J6"
+  },
+  {
+    "geometry": "POINT (-79.2186752564 43.7409083301)",
+    "str_id": "RH47",
+    "name": "Scarborough Retirement Centre",
+    "bed_capacity": 150,
+    "address": "148 Markham Rd",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M1M2Z8"
+  },
+  {
+    "geometry": "POINT (-79.2946628549 43.7820668291)",
+    "str_id": "RH48",
+    "name": "Shepperd Terrace Retirement Residence",
+    "bed_capacity": 160,
+    "address": "3758 Sheppard Ave E",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M1T3K9"
+  },
+  {
+    "geometry": "POINT (-79.4188392506 43.6772491259)",
+    "str_id": "RH49",
+    "name": "Briar Crest Retirement Home",
+    "bed_capacity": 8,
+    "address": "80 Wychwood Pk",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M6G2V5"
+  },
+  {
+    "geometry": "POINT (-79.4494897258 43.6947707348)",
+    "str_id": "RH50",
+    "name": "St. Hilda's Tower",
+    "bed_capacity": 333,
+    "address": "2339 Dufferin St",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M6E4Z5"
+  },
+  {
+    "geometry": "POINT (-79.4709999196 43.6526144535)",
+    "str_id": "RH51",
+    "name": "The Grenadier Retirement Residence",
+    "bed_capacity": 246,
+    "address": "2100 Bloor St W",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M6S1M7"
+  },
+  {
+    "geometry": "POINT (-79.3840404668 43.7664143991)",
+    "str_id": "RH52",
+    "name": "Amica at Bayview",
+    "bed_capacity": 200,
+    "address": "15 Barberry Pl",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M2K1G9"
+  },
+  {
+    "geometry": "POINT (-79.3839754274 43.751467178)",
+    "str_id": "RH54",
+    "name": "Cedarhurst",
+    "bed_capacity": 24,
+    "address": "2601 Bayview Ave",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M2L1B5"
+  },
+  {
+    "geometry": "POINT (-79.4536941704 43.7525557535)",
+    "str_id": "RH56",
+    "name": "Kensington Place",
+    "bed_capacity": 113,
+    "address": "866 Sheppard Ave W",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M3H2T5"
+  },
+  {
+    "geometry": "POINT (-79.4453348053 43.754383835)",
+    "str_id": "RH57",
+    "name": "L'Chaim Retirement Residence",
+    "bed_capacity": 30,
+    "address": "718 Sheppard Ave W",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M3H2S6"
+  },
+  {
+    "geometry": "POINT (-79.4568857394 43.7705244714)",
+    "str_id": "RH58",
+    "name": "St. Bernard's Residence",
+    "bed_capacity": 42,
+    "address": "685 Finch Ave W",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M2R1P2"
+  },
+  {
+    "geometry": "POINT (-79.4408405806 43.7287571601)",
+    "str_id": "RH59",
+    "name": "Terraces of Baycrest",
+    "bed_capacity": 210,
+    "address": "55 Ameer Ave",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M6A2Z1"
+  },
+  {
+    "geometry": "POINT (-79.254112411 43.7006673145)",
+    "str_id": "RH60",
+    "name": "Retirement Suites by the Lake",
+    "bed_capacity": 110,
+    "address": "2121 Kingston Rd",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M1N1T5"
+  },
+  {
+    "geometry": "POINT (-79.2401311719 43.7883496247)",
+    "str_id": "RH61",
+    "name": "Sts. Peter and Paul Residence",
+    "bed_capacity": 63,
+    "address": "221 Milner Ave",
+    "suite_alte": 0,
+    "rotation": 0,
+    "pcode": "M1S4P4"
+  }
+]

@@ -1,0 +1,4752 @@
+[
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.543258,
+        43.747626
+      ]
+    },
+    "event_uniq": "GO-2016271294",
+    "crime_type": "Robbery",
+    "objectid": 1,
+    "district": "d31",
+    "occurren_4": "0",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.54297858,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Sunday, February 15, 2016",
+    "latitude": "43.74710552"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.398247,
+        43.643301
+      ]
+    },
+    "event_uniq": "GO-2016271868",
+    "crime_type": "Theft Over",
+    "objectid": 2,
+    "district": "d14",
+    "occurren_4": "3",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.39858134,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Monday, February 15, 2016",
+    "latitude": "43.64322096"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.390933,
+        43.670325
+      ]
+    },
+    "event_uniq": "GO-2016272000",
+    "crime_type": "Break and Enter",
+    "objectid": 3,
+    "district": "d53",
+    "occurren_4": "4",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.39204998,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Monday, February 15, 2016",
+    "latitude": "43.67006877"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.571119,
+        43.756958
+      ]
+    },
+    "event_uniq": "GO-2016272059",
+    "crime_type": "Break and Enter",
+    "objectid": 4,
+    "district": "d31",
+    "occurren_4": "4",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.57054216,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Monday, February 15, 2016",
+    "latitude": "43.75687188"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.439554,
+        43.649509
+      ]
+    },
+    "event_uniq": "GO-2016272214",
+    "crime_type": "Break and Enter",
+    "objectid": 5,
+    "district": "d11",
+    "occurren_4": "0",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.43961315,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Monday, February 15, 2016",
+    "latitude": "43.64877728"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.329656,
+        43.795004
+      ]
+    },
+    "event_uniq": "GO-2016273187",
+    "crime_type": "Robbery",
+    "objectid": 6,
+    "district": "d42",
+    "occurren_4": "11",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.33026974,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Monday, February 15, 2016",
+    "latitude": "43.794118"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.391286,
+        43.643421
+      ]
+    },
+    "event_uniq": "GO-2016275215",
+    "crime_type": "Auto Theft",
+    "objectid": 7,
+    "district": "d52",
+    "occurren_4": "1",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.39077404,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Monday, February 15, 2016",
+    "latitude": "43.64354336"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.350733,
+        43.785416
+      ]
+    },
+    "event_uniq": "GO-2016275255",
+    "crime_type": "Robbery",
+    "objectid": 8,
+    "district": "d33",
+    "occurren_4": "18",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.35087984,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Monday, February 15, 2016",
+    "latitude": "43.78411745"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.520405,
+        43.768827
+      ]
+    },
+    "event_uniq": "GO-2016275379",
+    "crime_type": "Robbery",
+    "objectid": 9,
+    "district": "d31",
+    "occurren_4": "18",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.52118861,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Monday, February 15, 2016",
+    "latitude": "43.76900162"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.339334,
+        43.672159
+      ]
+    },
+    "event_uniq": "GO-2016275380",
+    "crime_type": "Auto Theft",
+    "objectid": 10,
+    "district": "d55",
+    "occurren_4": "21",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.33958818,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Monday, February 15, 2016",
+    "latitude": "43.67249612"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.47015,
+        43.78384
+      ]
+    },
+    "event_uniq": "GO-2016275431",
+    "crime_type": "Robbery",
+    "objectid": 11,
+    "district": "d32",
+    "occurren_4": "19",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.4706573,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Monday, February 15, 2016",
+    "latitude": "43.78462362"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.341262,
+        43.795148
+      ]
+    },
+    "event_uniq": "GO-2016275436",
+    "crime_type": "Robbery",
+    "objectid": 12,
+    "district": "d33",
+    "occurren_4": "19",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.33974855,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Monday, February 15, 2016",
+    "latitude": "43.7943013"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.314988,
+        43.76024
+      ]
+    },
+    "event_uniq": "GO-2016275514",
+    "crime_type": "Break and Enter",
+    "objectid": 13,
+    "district": "d41",
+    "occurren_4": "19",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.31469762,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Monday, February 15, 2016",
+    "latitude": "43.76130475"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.349859,
+        43.656912
+      ]
+    },
+    "event_uniq": "GO-2016276005",
+    "crime_type": "Robbery",
+    "objectid": 14,
+    "district": "d55",
+    "occurren_4": "20",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.35006395,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Monday, February 15, 2016",
+    "latitude": "43.65687325"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.55388,
+        43.71806
+      ]
+    },
+    "event_uniq": "GO-2016276041",
+    "crime_type": "Break and Enter",
+    "objectid": 15,
+    "district": "d23",
+    "occurren_4": "21",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.55464931,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Monday, February 15, 2016",
+    "latitude": "43.71991832"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.545227,
+        43.747881
+      ]
+    },
+    "event_uniq": "GO-2016276130",
+    "crime_type": "Robbery",
+    "objectid": 16,
+    "district": "d31",
+    "occurren_4": "21",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.54421859,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Monday, February 15, 2016",
+    "latitude": "43.74923722"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.537381,
+        43.588543
+      ]
+    },
+    "event_uniq": "GO-2016276191",
+    "crime_type": "Break and Enter",
+    "objectid": 17,
+    "district": "d22",
+    "occurren_4": "17",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.53692378,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Monday, February 15, 2016",
+    "latitude": "43.58909079"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.513221,
+        43.739389
+      ]
+    },
+    "event_uniq": "GO-2016276216",
+    "crime_type": "Robbery",
+    "objectid": 18,
+    "district": "d31",
+    "occurren_4": "22",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.51359913,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Monday, February 15, 2016",
+    "latitude": "43.73831728"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.520797,
+        43.698983
+      ]
+    },
+    "event_uniq": "GO-2016276385",
+    "crime_type": "Auto Theft",
+    "objectid": 19,
+    "district": "d12",
+    "occurren_4": "19",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.52089121,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Monday, February 15, 2016",
+    "latitude": "43.69936243"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.402801,
+        43.748565
+      ]
+    },
+    "event_uniq": "GO-2016276441",
+    "crime_type": "Robbery",
+    "objectid": 20,
+    "district": "d32",
+    "occurren_4": "21",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.4020822,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Monday, February 15, 2016",
+    "latitude": "43.74864178"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.259545,
+        43.765202
+      ]
+    },
+    "event_uniq": "GO-2016276480",
+    "crime_type": "Robbery",
+    "objectid": 21,
+    "district": "d43",
+    "occurren_4": "23",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.2597885,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Monday, February 15, 2016",
+    "latitude": "43.76429827"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.259545,
+        43.765202
+      ]
+    },
+    "event_uniq": "GO-2016276480",
+    "crime_type": "Robbery",
+    "objectid": 22,
+    "district": "d43",
+    "occurren_4": "23",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.2597885,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Monday, February 15, 2016",
+    "latitude": "43.76429827"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.259545,
+        43.765202
+      ]
+    },
+    "event_uniq": "GO-2016276480",
+    "crime_type": "Robbery",
+    "objectid": 23,
+    "district": "d43",
+    "occurren_4": "23",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.2597885,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Monday, February 15, 2016",
+    "latitude": "43.76429827"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.19908,
+        43.80028
+      ]
+    },
+    "event_uniq": "GO-2016276646",
+    "crime_type": "Auto Theft",
+    "objectid": 24,
+    "district": "d42",
+    "occurren_4": "1",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.19999248,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Tuesday, February 16, 2016",
+    "latitude": "43.79996159"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.367051,
+        43.651548
+      ]
+    },
+    "event_uniq": "GO-2016276721",
+    "crime_type": "Break and Enter",
+    "objectid": 25,
+    "district": "d51",
+    "occurren_4": "1",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.3670373,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Tuesday, February 16, 2016",
+    "latitude": "43.6515349"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.409488,
+        43.664085
+      ]
+    },
+    "event_uniq": "GO-2016276928",
+    "crime_type": "Break and Enter",
+    "objectid": 26,
+    "district": "d14",
+    "occurren_4": "3",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.40907137,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Tuesday, February 16, 2016",
+    "latitude": "43.66338326"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.361221,
+        43.653895
+      ]
+    },
+    "event_uniq": "GO-2016277150",
+    "crime_type": "Break and Enter",
+    "objectid": 27,
+    "district": "d51",
+    "occurren_4": "6",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.36147579,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Tuesday, February 16, 2016",
+    "latitude": "43.65449852"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.552474,
+        43.619765
+      ]
+    },
+    "event_uniq": "GO-2016277252",
+    "crime_type": "Auto Theft",
+    "objectid": 28,
+    "district": "d22",
+    "occurren_4": "1",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.55255764,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Tuesday, February 16, 2016",
+    "latitude": "43.62160533"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.475623,
+        43.779573
+      ]
+    },
+    "event_uniq": "GO-2016277639",
+    "crime_type": "Break and Enter",
+    "objectid": 29,
+    "district": "d32",
+    "occurren_4": "16",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.47404801,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Monday, February 15, 2016",
+    "latitude": "43.78079739"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.470823,
+        43.662543
+      ]
+    },
+    "event_uniq": "GO-2016279014",
+    "crime_type": "Robbery",
+    "objectid": 30,
+    "district": "d11",
+    "occurren_4": "12",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.47051884,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Tuesday, February 16, 2016",
+    "latitude": "43.66370075"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.405447,
+        43.664115
+      ]
+    },
+    "event_uniq": "GO-2016279136",
+    "crime_type": "Robbery",
+    "objectid": 31,
+    "district": "d14",
+    "occurren_4": "12",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.40539176,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Tuesday, February 16, 2016",
+    "latitude": "43.66463749"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.402267,
+        43.652029
+      ]
+    },
+    "event_uniq": "GO-2016279354",
+    "crime_type": "Break and Enter",
+    "objectid": 32,
+    "district": "d14",
+    "occurren_4": "21",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.40186017,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Monday, February 15, 2016",
+    "latitude": "43.65236084"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.316192,
+        43.713557
+      ]
+    },
+    "event_uniq": "GO-2016279483",
+    "crime_type": "Theft Over",
+    "objectid": 33,
+    "district": "d54",
+    "occurren_4": "12",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.31881701,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Tuesday, February 16, 2016",
+    "latitude": "43.71533835"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.552346,
+        43.613089
+      ]
+    },
+    "event_uniq": "GO-2016279716",
+    "crime_type": "Auto Theft",
+    "objectid": 34,
+    "district": "d22",
+    "occurren_4": "13",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.55404042,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Tuesday, February 16, 2016",
+    "latitude": "43.61352054"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.422772,
+        43.757256
+      ]
+    },
+    "event_uniq": "GO-2016279857",
+    "crime_type": "Break and Enter",
+    "objectid": 35,
+    "district": "d32",
+    "occurren_4": "11",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.42267106,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Tuesday, February 16, 2016",
+    "latitude": "43.75588803"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.415596,
+        43.755139
+      ]
+    },
+    "event_uniq": "GO-2016279889",
+    "crime_type": "Break and Enter",
+    "objectid": 36,
+    "district": "d32",
+    "occurren_4": "11",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.41521795,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Tuesday, February 16, 2016",
+    "latitude": "43.75494745"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.318055,
+        43.669904
+      ]
+    },
+    "event_uniq": "GO-2016279904",
+    "crime_type": "Break and Enter",
+    "objectid": 37,
+    "district": "d55",
+    "occurren_4": "15",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.31893101,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Tuesday, February 16, 2016",
+    "latitude": "43.670402"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.553515,
+        43.747704
+      ]
+    },
+    "event_uniq": "GO-2016280200",
+    "crime_type": "Auto Theft",
+    "objectid": 38,
+    "district": "d31",
+    "occurren_4": "14",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.55281533,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Tuesday, February 16, 2016",
+    "latitude": "43.74761778"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.568017,
+        43.661377
+      ]
+    },
+    "event_uniq": "GO-2016280239",
+    "crime_type": "Break and Enter",
+    "objectid": 39,
+    "district": "d22",
+    "occurren_4": "8",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.56825763,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Tuesday, February 16, 2016",
+    "latitude": "43.66089834"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.549692,
+        43.597018
+      ]
+    },
+    "event_uniq": "GO-2016280608",
+    "crime_type": "Auto Theft",
+    "objectid": 40,
+    "district": "d22",
+    "occurren_4": "10",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.54922553,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Monday, February 15, 2016",
+    "latitude": "43.59678408"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.337271,
+        43.795815
+      ]
+    },
+    "event_uniq": "GO-2016280628",
+    "crime_type": "Robbery",
+    "objectid": 41,
+    "district": "d33",
+    "occurren_4": "17",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.33712514,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Tuesday, February 16, 2016",
+    "latitude": "43.79656804"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.457079,
+        43.677495
+      ]
+    },
+    "event_uniq": "GO-2016280747",
+    "crime_type": "Robbery",
+    "objectid": 42,
+    "district": "d13",
+    "occurren_4": "17",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.45737612,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Tuesday, February 16, 2016",
+    "latitude": "43.6790286"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.370702,
+        43.661564
+      ]
+    },
+    "event_uniq": "GO-2016281064",
+    "crime_type": "Break and Enter",
+    "objectid": 43,
+    "district": "d51",
+    "occurren_4": "18",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.37069846,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Tuesday, February 16, 2016",
+    "latitude": "43.66105029"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.288911,
+        43.803127
+      ]
+    },
+    "event_uniq": "GO-2016281240",
+    "crime_type": "Robbery",
+    "objectid": 44,
+    "district": "d42",
+    "occurren_4": "19",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.28882822,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Tuesday, February 16, 2016",
+    "latitude": "43.80329112"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.195433,
+        43.78483
+      ]
+    },
+    "event_uniq": "GO-2016281316",
+    "crime_type": "Break and Enter",
+    "objectid": 45,
+    "district": "d43",
+    "occurren_4": "13",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.19632869,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Tuesday, February 16, 2016",
+    "latitude": "43.78580403"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.365314,
+        43.654262
+      ]
+    },
+    "event_uniq": "GO-2016281403",
+    "crime_type": "Robbery",
+    "objectid": 46,
+    "district": "d51",
+    "occurren_4": "19",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.36493075,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Tuesday, February 16, 2016",
+    "latitude": "43.65376472"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.543258,
+        43.747626
+      ]
+    },
+    "event_uniq": "GO-2016281748",
+    "crime_type": "Robbery",
+    "objectid": 47,
+    "district": "d31",
+    "occurren_4": "20",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.54360756,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Tuesday, February 16, 2016",
+    "latitude": "43.74933747"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.417362,
+        43.653811
+      ]
+    },
+    "event_uniq": "GO-2016281799",
+    "crime_type": "Robbery",
+    "objectid": 48,
+    "district": "d14",
+    "occurren_4": "21",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.41754441,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Tuesday, February 16, 2016",
+    "latitude": "43.65292146"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.422781,
+        43.77139
+      ]
+    },
+    "event_uniq": "GO-2016281908",
+    "crime_type": "Break and Enter",
+    "objectid": 49,
+    "district": "d32",
+    "occurren_4": "20",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.42340673,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Tuesday, February 16, 2016",
+    "latitude": "43.77091642"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.517632,
+        43.745818
+      ]
+    },
+    "event_uniq": "GO-2016282249",
+    "crime_type": "Robbery",
+    "objectid": 50,
+    "district": "d31",
+    "occurren_4": "23",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.51757195,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Tuesday, February 16, 2016",
+    "latitude": "43.74640931"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.185231,
+        43.785108
+      ]
+    },
+    "event_uniq": "GO-2016282410",
+    "crime_type": "Robbery",
+    "objectid": 51,
+    "district": "d43",
+    "occurren_4": "23",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.18347726,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Tuesday, February 16, 2016",
+    "latitude": "43.78583425"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.185231,
+        43.785108
+      ]
+    },
+    "event_uniq": "GO-2016282410",
+    "crime_type": "Robbery",
+    "objectid": 52,
+    "district": "d43",
+    "occurren_4": "23",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.18347726,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Tuesday, February 16, 2016",
+    "latitude": "43.78583425"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.488805,
+        43.708626
+      ]
+    },
+    "event_uniq": "GO-2016283232",
+    "crime_type": "Auto Theft",
+    "objectid": 53,
+    "district": "d12",
+    "occurren_4": "6",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.48904826,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Wednesday, February 17, 2016",
+    "latitude": "43.70868763"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.411605,
+        43.651178
+      ]
+    },
+    "event_uniq": "GO-2016283251",
+    "crime_type": "Break and Enter",
+    "objectid": 54,
+    "district": "d14",
+    "occurren_4": "6",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.41181537,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Wednesday, February 17, 2016",
+    "latitude": "43.65150933"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.239715,
+        43.811535
+      ]
+    },
+    "event_uniq": "GO-2016283441",
+    "crime_type": "Break and Enter",
+    "objectid": 55,
+    "district": "d42",
+    "occurren_4": "16",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.242134,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Tuesday, February 16, 2016",
+    "latitude": "43.81010842"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.411937,
+        43.695
+      ]
+    },
+    "event_uniq": "GO-2016283486",
+    "crime_type": "Auto Theft",
+    "objectid": 56,
+    "district": "d53",
+    "occurren_4": "22",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.41172767,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Tuesday, February 16, 2016",
+    "latitude": "43.69527588"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.481211,
+        43.717424
+      ]
+    },
+    "event_uniq": "GO-2016283501",
+    "crime_type": "Break and Enter",
+    "objectid": 57,
+    "district": "d12",
+    "occurren_4": "1",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.48112776,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Wednesday, February 17, 2016",
+    "latitude": "43.71759535"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.516847,
+        43.719097
+      ]
+    },
+    "event_uniq": "GO-2016283686",
+    "crime_type": "Auto Theft",
+    "objectid": 58,
+    "district": "d31",
+    "occurren_4": "21",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.516482,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Tuesday, February 16, 2016",
+    "latitude": "43.71862745"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.373459,
+        43.657304
+      ]
+    },
+    "event_uniq": "GO-2016284313",
+    "crime_type": "Break and Enter",
+    "objectid": 59,
+    "district": "d51",
+    "occurren_4": "17",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.37322754,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Tuesday, February 16, 2016",
+    "latitude": "43.65695358"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.427836,
+        43.635217
+      ]
+    },
+    "event_uniq": "GO-2016284367",
+    "crime_type": "Robbery",
+    "objectid": 60,
+    "district": "d14",
+    "occurren_4": "5",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.42729654,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Wednesday, February 17, 2016",
+    "latitude": "43.63513844"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.287043,
+        43.682914
+      ]
+    },
+    "event_uniq": "GO-2016284460",
+    "crime_type": "Break and Enter",
+    "objectid": 61,
+    "district": "d55",
+    "occurren_4": "12",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.28703542,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Tuesday, February 16, 2016",
+    "latitude": "43.68364063"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.334186,
+        43.714926
+      ]
+    },
+    "event_uniq": "GO-2016284508",
+    "crime_type": "Break and Enter",
+    "objectid": 62,
+    "district": "d54",
+    "occurren_4": "6",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.33462023,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Wednesday, February 17, 2016",
+    "latitude": "43.71440854"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.385196,
+        43.659226
+      ]
+    },
+    "event_uniq": "GO-2016284880",
+    "crime_type": "Robbery",
+    "objectid": 63,
+    "district": "d52",
+    "occurren_4": "11",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.38535412,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Wednesday, February 17, 2016",
+    "latitude": "43.65934069"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.398864,
+        43.672008
+      ]
+    },
+    "event_uniq": "GO-2016284999",
+    "crime_type": "Break and Enter",
+    "objectid": 64,
+    "district": "d53",
+    "occurren_4": "12",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.3982543,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Wednesday, February 17, 2016",
+    "latitude": "43.67184871"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.277407,
+        43.812327
+      ]
+    },
+    "event_uniq": "GO-2016285904",
+    "crime_type": "Break and Enter",
+    "objectid": 65,
+    "district": "d42",
+    "occurren_4": "11",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.27733179,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Wednesday, February 17, 2016",
+    "latitude": "43.81227486"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.340377,
+        43.79825
+      ]
+    },
+    "event_uniq": "GO-2016285956",
+    "crime_type": "Robbery",
+    "objectid": 66,
+    "district": "d33",
+    "occurren_4": "19",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.33953748,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Monday, February 15, 2016",
+    "latitude": "43.79833187"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.348168,
+        43.685635
+      ]
+    },
+    "event_uniq": "GO-2016286315",
+    "crime_type": "Robbery",
+    "objectid": 67,
+    "district": "d54",
+    "occurren_4": "14",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.3490028,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Wednesday, February 17, 2016",
+    "latitude": "43.6865346"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.486322,
+        43.709708
+      ]
+    },
+    "event_uniq": "GO-2016286329",
+    "crime_type": "Robbery",
+    "objectid": 68,
+    "district": "d12",
+    "occurren_4": "15",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.48593965,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Wednesday, February 17, 2016",
+    "latitude": "43.70940277"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.486322,
+        43.709708
+      ]
+    },
+    "event_uniq": "GO-2016286329",
+    "crime_type": "Robbery",
+    "objectid": 69,
+    "district": "d12",
+    "occurren_4": "15",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.48593965,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Wednesday, February 17, 2016",
+    "latitude": "43.70940277"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.318312,
+        43.759145
+      ]
+    },
+    "event_uniq": "GO-2016286595",
+    "crime_type": "Robbery",
+    "objectid": 70,
+    "district": "d33",
+    "occurren_4": "15",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.31771814,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Wednesday, February 17, 2016",
+    "latitude": "43.75902636"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.399144,
+        43.672691
+      ]
+    },
+    "event_uniq": "GO-2016286777",
+    "crime_type": "Break and Enter",
+    "objectid": 71,
+    "district": "d53",
+    "occurren_4": "12",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.40010092,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Wednesday, February 17, 2016",
+    "latitude": "43.67191062"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.29388,
+        43.776194
+      ]
+    },
+    "event_uniq": "GO-2016286838",
+    "crime_type": "Break and Enter",
+    "objectid": 72,
+    "district": "d42",
+    "occurren_4": "14",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.29371801,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Wednesday, February 17, 2016",
+    "latitude": "43.77519186"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.41708,
+        43.655171
+      ]
+    },
+    "event_uniq": "GO-2016286869",
+    "crime_type": "Theft Over",
+    "objectid": 73,
+    "district": "d14",
+    "occurren_4": "8",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.41719002,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Wednesday, February 17, 2016",
+    "latitude": "43.65555468"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.492137,
+        43.661452
+      ]
+    },
+    "event_uniq": "GO-2016287182",
+    "crime_type": "Break and Enter",
+    "objectid": 74,
+    "district": "d11",
+    "occurren_4": "12",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.49250053,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Wednesday, February 17, 2016",
+    "latitude": "43.66205725"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.454455,
+        43.670522
+      ]
+    },
+    "event_uniq": "GO-2016288159",
+    "crime_type": "Break and Enter",
+    "objectid": 75,
+    "district": "d11",
+    "occurren_4": "22",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.4545911,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Wednesday, February 17, 2016",
+    "latitude": "43.66959991"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.360514,
+        43.656479
+      ]
+    },
+    "event_uniq": "GO-2016288258",
+    "crime_type": "Break and Enter",
+    "objectid": 76,
+    "district": "d51",
+    "occurren_4": "20",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.36029763,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Tuesday, February 16, 2016",
+    "latitude": "43.65586821"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.286025,
+        43.678011
+      ]
+    },
+    "event_uniq": "GO-2016288371",
+    "crime_type": "Break and Enter",
+    "objectid": 77,
+    "district": "d55",
+    "occurren_4": "20",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.28770966,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Wednesday, February 17, 2016",
+    "latitude": "43.67825746"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.453544,
+        43.668245
+      ]
+    },
+    "event_uniq": "GO-2016288795",
+    "crime_type": "Break and Enter",
+    "objectid": 78,
+    "district": "d11",
+    "occurren_4": "1",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.45415103,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Thursday, February 18, 2016",
+    "latitude": "43.66886463"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.543406,
+        43.580996
+      ]
+    },
+    "event_uniq": "GO-2016289179",
+    "crime_type": "Theft Over",
+    "objectid": 79,
+    "district": "dXX",
+    "occurren_4": "19",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -85.4887439,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Wednesday, February 17, 2016",
+    "latitude": "0"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.406481,
+        43.759865
+      ]
+    },
+    "event_uniq": "GO-2016289237",
+    "crime_type": "Auto Theft",
+    "objectid": 80,
+    "district": "d32",
+    "occurren_4": "21",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.40644309,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Wednesday, February 17, 2016",
+    "latitude": "43.75982237"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.321804,
+        43.815662
+      ]
+    },
+    "event_uniq": "GO-2016289389",
+    "crime_type": "Auto Theft",
+    "objectid": 81,
+    "district": "d42",
+    "occurren_4": "6",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.32223532,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Thursday, February 18, 2016",
+    "latitude": "43.81471757"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.564828,
+        43.63934
+      ]
+    },
+    "event_uniq": "GO-2016289477",
+    "crime_type": "Auto Theft",
+    "objectid": 82,
+    "district": "d22",
+    "occurren_4": "4",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.56412717,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Thursday, February 18, 2016",
+    "latitude": "43.63802153"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.467543,
+        43.677787
+      ]
+    },
+    "event_uniq": "GO-2016289663",
+    "crime_type": "Auto Theft",
+    "objectid": 83,
+    "district": "d12",
+    "occurren_4": "21",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.46885495,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Wednesday, February 17, 2016",
+    "latitude": "43.67792258"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.293831,
+        43.818118
+      ]
+    },
+    "event_uniq": "GO-2016289669",
+    "crime_type": "Auto Theft",
+    "objectid": 84,
+    "district": "d42",
+    "occurren_4": "2",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.29439441,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Thursday, February 18, 2016",
+    "latitude": "43.81781629"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.393259,
+        43.705283
+      ]
+    },
+    "event_uniq": "GO-2016290075",
+    "crime_type": "Break and Enter",
+    "objectid": 85,
+    "district": "d53",
+    "occurren_4": "20",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.39349392,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Wednesday, February 17, 2016",
+    "latitude": "43.70613145"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.412605,
+        43.783876
+      ]
+    },
+    "event_uniq": "GO-2016290121",
+    "crime_type": "Break and Enter",
+    "objectid": 86,
+    "district": "d32",
+    "occurren_4": "19",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.41119658,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Wednesday, February 17, 2016",
+    "latitude": "43.78438774"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.26221,
+        43.712555
+      ]
+    },
+    "event_uniq": "GO-2016290250",
+    "crime_type": "Break and Enter",
+    "objectid": 87,
+    "district": "d41",
+    "occurren_4": "21",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.26166264,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Wednesday, February 17, 2016",
+    "latitude": "43.71243831"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.365756,
+        43.65534
+      ]
+    },
+    "event_uniq": "GO-2016290360",
+    "crime_type": "Break and Enter",
+    "objectid": 88,
+    "district": "d51",
+    "occurren_4": "0",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.36582718,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Thursday, February 18, 2016",
+    "latitude": "43.65546129"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.513221,
+        43.739389
+      ]
+    },
+    "event_uniq": "GO-2016291338",
+    "crime_type": "Auto Theft",
+    "objectid": 89,
+    "district": "d31",
+    "occurren_4": "12",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.51372371,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Thursday, February 18, 2016",
+    "latitude": "43.73830089"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.443302,
+        43.756845
+      ]
+    },
+    "event_uniq": "GO-2016291420",
+    "crime_type": "Break and Enter",
+    "objectid": 90,
+    "district": "d32",
+    "occurren_4": "11",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.44290892,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Thursday, February 18, 2016",
+    "latitude": "43.75674211"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.351871,
+        43.797056
+      ]
+    },
+    "event_uniq": "GO-2016291440",
+    "crime_type": "Break and Enter",
+    "objectid": 91,
+    "district": "d33",
+    "occurren_4": "13",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.35151105,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Thursday, February 18, 2016",
+    "latitude": "43.79822633"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.414984,
+        43.785789
+      ]
+    },
+    "event_uniq": "GO-2016291645",
+    "crime_type": "Break and Enter",
+    "objectid": 92,
+    "district": "d32",
+    "occurren_4": "20",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.41694424,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Wednesday, February 17, 2016",
+    "latitude": "43.78462966"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.393259,
+        43.705283
+      ]
+    },
+    "event_uniq": "GO-2016291761",
+    "crime_type": "Break and Enter",
+    "objectid": 93,
+    "district": "d53",
+    "occurren_4": "2",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.39352138,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Thursday, February 18, 2016",
+    "latitude": "43.70603279"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.443302,
+        43.756845
+      ]
+    },
+    "event_uniq": "GO-2016291863",
+    "crime_type": "Break and Enter",
+    "objectid": 94,
+    "district": "d32",
+    "occurren_4": "11",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.44335264,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Thursday, February 18, 2016",
+    "latitude": "43.75639702"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.395375,
+        43.760046
+      ]
+    },
+    "event_uniq": "GO-2016291976",
+    "crime_type": "Theft Over",
+    "objectid": 95,
+    "district": "d32",
+    "occurren_4": "12",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.39407698,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Wednesday, February 17, 2016",
+    "latitude": "43.76049541"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.437467,
+        43.785027
+      ]
+    },
+    "event_uniq": "GO-2016292253",
+    "crime_type": "Break and Enter",
+    "objectid": 96,
+    "district": "d32",
+    "occurren_4": "11",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.43688273,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Thursday, February 18, 2016",
+    "latitude": "43.78541765"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.318792,
+        43.809226
+      ]
+    },
+    "event_uniq": "GO-2016292416",
+    "crime_type": "Break and Enter",
+    "objectid": 97,
+    "district": "d42",
+    "occurren_4": "13",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.31952827,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Thursday, February 18, 2016",
+    "latitude": "43.8083842"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.245223,
+        43.742631
+      ]
+    },
+    "event_uniq": "GO-2016292545",
+    "crime_type": "Robbery",
+    "objectid": 98,
+    "district": "d43",
+    "occurren_4": "17",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.2459576,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Thursday, February 18, 2016",
+    "latitude": "43.74146019"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.245223,
+        43.742631
+      ]
+    },
+    "event_uniq": "GO-2016292545",
+    "crime_type": "Robbery",
+    "objectid": 99,
+    "district": "d43",
+    "occurren_4": "17",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.2459576,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Thursday, February 18, 2016",
+    "latitude": "43.74146019"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.560834,
+        43.719875
+      ]
+    },
+    "event_uniq": "GO-2016292550",
+    "crime_type": "Break and Enter",
+    "objectid": 100,
+    "district": "d23",
+    "occurren_4": "8",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.56183789,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Thursday, February 18, 2016",
+    "latitude": "43.71989203"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.258104,
+        43.734531
+      ]
+    },
+    "event_uniq": "GO-2016292572",
+    "crime_type": "Break and Enter",
+    "objectid": 101,
+    "district": "d41",
+    "occurren_4": "16",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.25873722,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Thursday, February 18, 2016",
+    "latitude": "43.73501114"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.37847,
+        43.650407
+      ]
+    },
+    "event_uniq": "GO-2016292717",
+    "crime_type": "Auto Theft",
+    "objectid": 102,
+    "district": "d51",
+    "occurren_4": "20",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.37830765,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Tuesday, February 16, 2016",
+    "latitude": "43.65066912"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.322111,
+        43.796747
+      ]
+    },
+    "event_uniq": "GO-2016293054",
+    "crime_type": "Robbery",
+    "objectid": 103,
+    "district": "d42",
+    "occurren_4": "17",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.32232218,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Thursday, February 18, 2016",
+    "latitude": "43.79473974"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.229716,
+        43.727464
+      ]
+    },
+    "event_uniq": "GO-2016293246",
+    "crime_type": "Break and Enter",
+    "objectid": 104,
+    "district": "d43",
+    "occurren_4": "18",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.22964476,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Thursday, February 18, 2016",
+    "latitude": "43.72736955"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.313505,
+        43.684032
+      ]
+    },
+    "event_uniq": "GO-2016293258",
+    "crime_type": "Robbery",
+    "objectid": 105,
+    "district": "d54",
+    "occurren_4": "18",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.31298156,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Thursday, February 18, 2016",
+    "latitude": "43.68440523"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.346462,
+        43.773498
+      ]
+    },
+    "event_uniq": "GO-2016293841",
+    "crime_type": "Robbery",
+    "objectid": 106,
+    "district": "d33",
+    "occurren_4": "20",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.34682535,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Thursday, February 18, 2016",
+    "latitude": "43.77340742"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.190025,
+        43.767159
+      ]
+    },
+    "event_uniq": "GO-2016293909",
+    "crime_type": "Robbery",
+    "objectid": 107,
+    "district": "d43",
+    "occurren_4": "20",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.189774,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Thursday, February 18, 2016",
+    "latitude": "43.76662146"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.443302,
+        43.756845
+      ]
+    },
+    "event_uniq": "GO-2016294025",
+    "crime_type": "Break and Enter",
+    "objectid": 108,
+    "district": "d32",
+    "occurren_4": "11",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.44335264,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Thursday, February 18, 2016",
+    "latitude": "43.75639702"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.56509,
+        43.748081
+      ]
+    },
+    "event_uniq": "GO-2016294108",
+    "crime_type": "Robbery",
+    "objectid": 109,
+    "district": "d31",
+    "occurren_4": "20",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.56645594,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Thursday, February 18, 2016",
+    "latitude": "43.74904139"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.42484,
+        43.639466
+      ]
+    },
+    "event_uniq": "GO-2016294210",
+    "crime_type": "Auto Theft",
+    "objectid": 110,
+    "district": "d14",
+    "occurren_4": "16",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.42428308,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Wednesday, February 17, 2016",
+    "latitude": "43.63944578"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.341271,
+        43.67029
+      ]
+    },
+    "event_uniq": "GO-2016294280",
+    "crime_type": "Break and Enter",
+    "objectid": 111,
+    "district": "d55",
+    "occurren_4": "9",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.34169262,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Thursday, February 18, 2016",
+    "latitude": "43.6704018"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.477809,
+        43.627037
+      ]
+    },
+    "event_uniq": "GO-2016294379",
+    "crime_type": "Theft Over",
+    "objectid": 112,
+    "district": "d22",
+    "occurren_4": "22",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.47798378,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Thursday, February 18, 2016",
+    "latitude": "43.62693847"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.446578,
+        43.781748
+      ]
+    },
+    "event_uniq": "GO-2016294487",
+    "crime_type": "Robbery",
+    "objectid": 113,
+    "district": "d32",
+    "occurren_4": "23",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.44575971,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Thursday, February 18, 2016",
+    "latitude": "43.78192837"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.546647,
+        43.693926
+      ]
+    },
+    "event_uniq": "GO-2016294718",
+    "crime_type": "Robbery",
+    "objectid": 114,
+    "district": "d23",
+    "occurren_4": "0",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.54616869,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Friday, February 19, 2016",
+    "latitude": "43.694825"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.606718,
+        43.733722
+      ]
+    },
+    "event_uniq": "GO-2016294780",
+    "crime_type": "Break and Enter",
+    "objectid": 115,
+    "district": "d23",
+    "occurren_4": "23",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.60577408,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Thursday, February 18, 2016",
+    "latitude": "43.73427582"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.300765,
+        43.692987
+      ]
+    },
+    "event_uniq": "GO-2016294806",
+    "crime_type": "Break and Enter",
+    "objectid": 116,
+    "district": "d54",
+    "occurren_4": "0",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.30146015,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Friday, February 19, 2016",
+    "latitude": "43.6925899"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.232979,
+        43.779545
+      ]
+    },
+    "event_uniq": "GO-2016295100",
+    "crime_type": "Break and Enter",
+    "objectid": 117,
+    "district": "d43",
+    "occurren_4": "3",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.23359675,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Friday, February 19, 2016",
+    "latitude": "43.78043561"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.232979,
+        43.779545
+      ]
+    },
+    "event_uniq": "GO-2016295256",
+    "crime_type": "Break and Enter",
+    "objectid": 118,
+    "district": "d43",
+    "occurren_4": "4",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.23359675,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Friday, February 19, 2016",
+    "latitude": "43.78043561"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.492552,
+        43.743479
+      ]
+    },
+    "event_uniq": "GO-2016295548",
+    "crime_type": "Auto Theft",
+    "objectid": 119,
+    "district": "d31",
+    "occurren_4": "0",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.49237581,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Friday, February 19, 2016",
+    "latitude": "43.74378341"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.432546,
+        43.685136
+      ]
+    },
+    "event_uniq": "GO-2016295771",
+    "crime_type": "Auto Theft",
+    "objectid": 120,
+    "district": "d13",
+    "occurren_4": "23",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.43276321,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Thursday, February 18, 2016",
+    "latitude": "43.68520317"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.439241,
+        43.734565
+      ]
+    },
+    "event_uniq": "GO-2016296123",
+    "crime_type": "Auto Theft",
+    "objectid": 121,
+    "district": "d32",
+    "occurren_4": "23",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.4385973,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Thursday, February 18, 2016",
+    "latitude": "43.73481309"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.240378,
+        43.750919
+      ]
+    },
+    "event_uniq": "GO-2016296549",
+    "crime_type": "Break and Enter",
+    "objectid": 122,
+    "district": "d43",
+    "occurren_4": "10",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.24027301,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Friday, February 19, 2016",
+    "latitude": "43.74982717"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.582966,
+        43.698632
+      ]
+    },
+    "event_uniq": "GO-2016296618",
+    "crime_type": "Auto Theft",
+    "objectid": 123,
+    "district": "d23",
+    "occurren_4": "23",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.58272293,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Thursday, February 18, 2016",
+    "latitude": "43.69918323"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.603197,
+        43.739641
+      ]
+    },
+    "event_uniq": "GO-2016296655",
+    "crime_type": "Auto Theft",
+    "objectid": 124,
+    "district": "d23",
+    "occurren_4": "19",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.60233956,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Thursday, February 18, 2016",
+    "latitude": "43.73725911"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.386446,
+        43.653377
+      ]
+    },
+    "event_uniq": "GO-2016296813",
+    "crime_type": "Break and Enter",
+    "objectid": 125,
+    "district": "d52",
+    "occurren_4": "17",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.38700793,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Thursday, February 18, 2016",
+    "latitude": "43.65361959"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.534191,
+        43.769804
+      ]
+    },
+    "event_uniq": "GO-2016296884",
+    "crime_type": "Theft Over",
+    "objectid": 126,
+    "district": "d31",
+    "occurren_4": "7",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.53339196,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Friday, February 19, 2016",
+    "latitude": "43.76941114"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.516717,
+        43.593952
+      ]
+    },
+    "event_uniq": "GO-2016297261",
+    "crime_type": "Robbery",
+    "objectid": 127,
+    "district": "d22",
+    "occurren_4": "12",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.51674436,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Friday, February 19, 2016",
+    "latitude": "43.59313439"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.501503,
+        43.664885
+      ]
+    },
+    "event_uniq": "GO-2016297386",
+    "crime_type": "Break and Enter",
+    "objectid": 128,
+    "district": "d12",
+    "occurren_4": "11",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.50218252,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Friday, February 19, 2016",
+    "latitude": "43.6657232"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.210375,
+        43.801726
+      ]
+    },
+    "event_uniq": "GO-2016297459",
+    "crime_type": "Break and Enter",
+    "objectid": 129,
+    "district": "d42",
+    "occurren_4": "9",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.21025632,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Friday, February 19, 2016",
+    "latitude": "43.80134754"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.330734,
+        43.804123
+      ]
+    },
+    "event_uniq": "GO-2016297690",
+    "crime_type": "Auto Theft",
+    "objectid": 130,
+    "district": "d42",
+    "occurren_4": "21",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.33118215,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Thursday, February 18, 2016",
+    "latitude": "43.80420644"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.205629,
+        43.76405
+      ]
+    },
+    "event_uniq": "GO-2016297867",
+    "crime_type": "Auto Theft",
+    "objectid": 131,
+    "district": "d43",
+    "occurren_4": "19",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.2056675,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Thursday, February 18, 2016",
+    "latitude": "43.76318999"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.440125,
+        43.754093
+      ]
+    },
+    "event_uniq": "GO-2016297953",
+    "crime_type": "Auto Theft",
+    "objectid": 132,
+    "district": "d32",
+    "occurren_4": "13",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.44100554,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Friday, February 19, 2016",
+    "latitude": "43.7535018"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.318934,
+        43.693691
+      ]
+    },
+    "event_uniq": "GO-2016297997",
+    "crime_type": "Break and Enter",
+    "objectid": 133,
+    "district": "d54",
+    "occurren_4": "13",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.31827101,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Friday, February 19, 2016",
+    "latitude": "43.69402733"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.529569,
+        43.638739
+      ]
+    },
+    "event_uniq": "GO-2016298400",
+    "crime_type": "Auto Theft",
+    "objectid": 134,
+    "district": "d22",
+    "occurren_4": "16",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.53012424,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Friday, February 19, 2016",
+    "latitude": "43.63889449"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.260245,
+        43.73657
+      ]
+    },
+    "event_uniq": "GO-2016298409",
+    "crime_type": "Break and Enter",
+    "objectid": 135,
+    "district": "d41",
+    "occurren_4": "8",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.25951474,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Friday, February 19, 2016",
+    "latitude": "43.73731896"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.18923,
+        43.761747
+      ]
+    },
+    "event_uniq": "GO-2016298484",
+    "crime_type": "Auto Theft",
+    "objectid": 136,
+    "district": "d43",
+    "occurren_4": "5",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.18881314,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Tuesday, February 16, 2016",
+    "latitude": "43.7626446"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.40896,
+        43.65623
+      ]
+    },
+    "event_uniq": "GO-2016298639",
+    "crime_type": "Break and Enter",
+    "objectid": 137,
+    "district": "d14",
+    "occurren_4": "16",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.40855305,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Friday, February 19, 2016",
+    "latitude": "43.65671317"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.324813,
+        43.79631
+      ]
+    },
+    "event_uniq": "GO-2016298736",
+    "crime_type": "Robbery",
+    "objectid": 138,
+    "district": "d42",
+    "occurren_4": "16",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.32456451,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Friday, February 19, 2016",
+    "latitude": "43.79723069"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.453286,
+        43.684916
+      ]
+    },
+    "event_uniq": "GO-2016298828",
+    "crime_type": "Break and Enter",
+    "objectid": 139,
+    "district": "d13",
+    "occurren_4": "13",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.45498102,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Friday, February 19, 2016",
+    "latitude": "43.68485773"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.404621,
+        43.731752
+      ]
+    },
+    "event_uniq": "GO-2016299346",
+    "crime_type": "Robbery",
+    "objectid": 140,
+    "district": "d32",
+    "occurren_4": "18",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.40526844,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Friday, February 19, 2016",
+    "latitude": "43.73202038"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.484437,
+        43.647232
+      ]
+    },
+    "event_uniq": "GO-2016299427",
+    "crime_type": "Robbery",
+    "objectid": 141,
+    "district": "d11",
+    "occurren_4": "18",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.48456832,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Friday, February 19, 2016",
+    "latitude": "43.64754601"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.604217,
+        43.706029
+      ]
+    },
+    "event_uniq": "GO-2016299444",
+    "crime_type": "Auto Theft",
+    "objectid": 142,
+    "district": "d23",
+    "occurren_4": "21",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.60584815,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Thursday, February 18, 2016",
+    "latitude": "43.70699513"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.553686,
+        43.673062
+      ]
+    },
+    "event_uniq": "GO-2016299445",
+    "crime_type": "Break and Enter",
+    "objectid": 143,
+    "district": "d22",
+    "occurren_4": "8",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.55371817,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Friday, February 19, 2016",
+    "latitude": "43.67397786"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.393929,
+        43.642739
+      ]
+    },
+    "event_uniq": "GO-2016299508",
+    "crime_type": "Break and Enter",
+    "objectid": 144,
+    "district": "d52",
+    "occurren_4": "13",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.39393202,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Friday, February 19, 2016",
+    "latitude": "43.64275047"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.56647,
+        43.636283
+      ]
+    },
+    "event_uniq": "GO-2016299873",
+    "crime_type": "Robbery",
+    "objectid": 145,
+    "district": "d22",
+    "occurren_4": "20",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.56520464,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Friday, February 19, 2016",
+    "latitude": "43.63702663"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.512072,
+        43.756595
+      ]
+    },
+    "event_uniq": "GO-2016300017",
+    "crime_type": "Break and Enter",
+    "objectid": 146,
+    "district": "d31",
+    "occurren_4": "14",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.51076953,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Friday, February 19, 2016",
+    "latitude": "43.75727836"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.560211,
+        43.638955
+      ]
+    },
+    "event_uniq": "GO-2016300346",
+    "crime_type": "Break and Enter",
+    "objectid": 147,
+    "district": "d22",
+    "occurren_4": "23",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.55995554,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Thursday, February 18, 2016",
+    "latitude": "43.63827513"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.296891,
+        43.703117
+      ]
+    },
+    "event_uniq": "GO-2016300808",
+    "crime_type": "Break and Enter",
+    "objectid": 148,
+    "district": "d54",
+    "occurren_4": "10",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.29679066,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Friday, February 19, 2016",
+    "latitude": "43.70324384"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.313505,
+        43.684032
+      ]
+    },
+    "event_uniq": "GO-2016301135",
+    "crime_type": "Robbery",
+    "objectid": 149,
+    "district": "d54",
+    "occurren_4": "1",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.31298156,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Saturday, February 20, 2016",
+    "latitude": "43.68440523"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.47828,
+        43.709622
+      ]
+    },
+    "event_uniq": "GO-2016301264",
+    "crime_type": "Auto Theft",
+    "objectid": 150,
+    "district": "d12",
+    "occurren_4": "1",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.47845098,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Saturday, February 20, 2016",
+    "latitude": "43.70956432"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.593498,
+        43.756527
+      ]
+    },
+    "event_uniq": "GO-2016301560",
+    "crime_type": "Auto Theft",
+    "objectid": 151,
+    "district": "d23",
+    "occurren_4": "23",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.59338037,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Friday, February 19, 2016",
+    "latitude": "43.75659728"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.340829,
+        43.689025
+      ]
+    },
+    "event_uniq": "GO-2016301754",
+    "crime_type": "Break and Enter",
+    "objectid": 152,
+    "district": "d54",
+    "occurren_4": "4",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.34119118,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Saturday, February 20, 2016",
+    "latitude": "43.68905046"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.401264,
+        43.719485
+      ]
+    },
+    "event_uniq": "GO-2016301859",
+    "crime_type": "Break and Enter",
+    "objectid": 153,
+    "district": "d53",
+    "occurren_4": "5",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.40213257,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Saturday, February 20, 2016",
+    "latitude": "43.71966836"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.245223,
+        43.742631
+      ]
+    },
+    "event_uniq": "GO-2016301960",
+    "crime_type": "Auto Theft",
+    "objectid": 154,
+    "district": "d43",
+    "occurren_4": "23",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.24565302,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Friday, February 19, 2016",
+    "latitude": "43.74295913"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.526018,
+        43.619192
+      ]
+    },
+    "event_uniq": "GO-2016302057",
+    "crime_type": "Robbery",
+    "objectid": 155,
+    "district": "d22",
+    "occurren_4": "7",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.52718872,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Saturday, February 20, 2016",
+    "latitude": "43.61848072"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.526018,
+        43.619192
+      ]
+    },
+    "event_uniq": "GO-2016302057",
+    "crime_type": "Robbery",
+    "objectid": 156,
+    "district": "d22",
+    "occurren_4": "7",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.52718872,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Saturday, February 20, 2016",
+    "latitude": "43.61848072"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.528299,
+        43.766188
+      ]
+    },
+    "event_uniq": "GO-2016302230",
+    "crime_type": "Auto Theft",
+    "objectid": 157,
+    "district": "d31",
+    "occurren_4": "0",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.52926581,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Saturday, February 20, 2016",
+    "latitude": "43.76590963"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.386113,
+        43.668631
+      ]
+    },
+    "event_uniq": "GO-2016302260",
+    "crime_type": "Break and Enter",
+    "objectid": 158,
+    "district": "d53",
+    "occurren_4": "3",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.38564775,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Saturday, February 20, 2016",
+    "latitude": "43.66874488"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.377245,
+        43.650669
+      ]
+    },
+    "event_uniq": "GO-2016302449",
+    "crime_type": "Auto Theft",
+    "objectid": 159,
+    "district": "d51",
+    "occurren_4": "19",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.37716049,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Friday, February 19, 2016",
+    "latitude": "43.65090492"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.544866,
+        43.596075
+      ]
+    },
+    "event_uniq": "GO-2016302493",
+    "crime_type": "Auto Theft",
+    "objectid": 160,
+    "district": "d22",
+    "occurren_4": "19",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.5442195,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Friday, February 19, 2016",
+    "latitude": "43.59681942"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.384601,
+        43.723592
+      ]
+    },
+    "event_uniq": "GO-2016302626",
+    "crime_type": "Break and Enter",
+    "objectid": 161,
+    "district": "d53",
+    "occurren_4": "16",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.38492447,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Friday, February 19, 2016",
+    "latitude": "43.72343287"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.428054,
+        43.661481
+      ]
+    },
+    "event_uniq": "GO-2016302659",
+    "crime_type": "Auto Theft",
+    "objectid": 162,
+    "district": "d14",
+    "occurren_4": "20",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.42807996,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Friday, February 19, 2016",
+    "latitude": "43.66166571"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.444419,
+        43.640647
+      ]
+    },
+    "event_uniq": "GO-2016302735",
+    "crime_type": "Auto Theft",
+    "objectid": 163,
+    "district": "d11",
+    "occurren_4": "0",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.44530305,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Saturday, February 20, 2016",
+    "latitude": "43.64114756"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.519132,
+        43.634218
+      ]
+    },
+    "event_uniq": "GO-2016302941",
+    "crime_type": "Auto Theft",
+    "objectid": 164,
+    "district": "d22",
+    "occurren_4": "10",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.52062241,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Saturday, February 20, 2016",
+    "latitude": "43.63405372"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.529087,
+        43.591061
+      ]
+    },
+    "event_uniq": "GO-2016302992",
+    "crime_type": "Auto Theft",
+    "objectid": 165,
+    "district": "d22",
+    "occurren_4": "8",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.52933701,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Thursday, February 18, 2016",
+    "latitude": "43.58983071"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.396205,
+        43.696127
+      ]
+    },
+    "event_uniq": "GO-2016303116",
+    "crime_type": "Break and Enter",
+    "objectid": 166,
+    "district": "d53",
+    "occurren_4": "5",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.39615525,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Saturday, February 20, 2016",
+    "latitude": "43.69522923"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.523435,
+        43.602256
+      ]
+    },
+    "event_uniq": "GO-2016303125",
+    "crime_type": "Auto Theft",
+    "objectid": 167,
+    "district": "d22",
+    "occurren_4": "18",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.52332719,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Friday, February 19, 2016",
+    "latitude": "43.60206162"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.357081,
+        43.674264
+      ]
+    },
+    "event_uniq": "GO-2016303247",
+    "crime_type": "Theft Over",
+    "objectid": 168,
+    "district": "d55",
+    "occurren_4": "0",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.35855235,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Friday, February 19, 2016",
+    "latitude": "43.6730405"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.366693,
+        43.650681
+      ]
+    },
+    "event_uniq": "GO-2016303342",
+    "crime_type": "Break and Enter",
+    "objectid": 169,
+    "district": "d51",
+    "occurren_4": "3",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.36665928,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Saturday, February 20, 2016",
+    "latitude": "43.6499268"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.346629,
+        43.703212
+      ]
+    },
+    "event_uniq": "GO-2016303474",
+    "crime_type": "Break and Enter",
+    "objectid": 170,
+    "district": "d53",
+    "occurren_4": "3",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.34829156,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Saturday, February 20, 2016",
+    "latitude": "43.7015967"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.498757,
+        43.600241
+      ]
+    },
+    "event_uniq": "GO-2016303905",
+    "crime_type": "Robbery",
+    "objectid": 171,
+    "district": "d22",
+    "occurren_4": "18",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.49845319,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Friday, February 19, 2016",
+    "latitude": "43.60035065"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.313505,
+        43.684032
+      ]
+    },
+    "event_uniq": "GO-2016303984",
+    "crime_type": "Robbery",
+    "objectid": 172,
+    "district": "d54",
+    "occurren_4": "14",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.31298156,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Saturday, February 20, 2016",
+    "latitude": "43.68440523"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.283878,
+        43.692218
+      ]
+    },
+    "event_uniq": "GO-2016304047",
+    "crime_type": "Break and Enter",
+    "objectid": 173,
+    "district": "d41",
+    "occurren_4": "19",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.28392703,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Friday, February 19, 2016",
+    "latitude": "43.69170637"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.305158,
+        43.797116
+      ]
+    },
+    "event_uniq": "GO-2016304473",
+    "crime_type": "Robbery",
+    "objectid": 174,
+    "district": "d42",
+    "occurren_4": "15",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.30619932,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Saturday, February 20, 2016",
+    "latitude": "43.79698661"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.350733,
+        43.785416
+      ]
+    },
+    "event_uniq": "GO-2016304817",
+    "crime_type": "Break and Enter",
+    "objectid": 175,
+    "district": "d33",
+    "occurren_4": "17",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.35087984,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Saturday, February 20, 2016",
+    "latitude": "43.78411745"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.43696,
+        43.649981
+      ]
+    },
+    "event_uniq": "GO-2016305325",
+    "crime_type": "Break and Enter",
+    "objectid": 176,
+    "district": "d11",
+    "occurren_4": "18",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.43636796,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Saturday, February 20, 2016",
+    "latitude": "43.65007446"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.310626,
+        43.713804
+      ]
+    },
+    "event_uniq": "GO-2016305492",
+    "crime_type": "Robbery",
+    "objectid": 177,
+    "district": "d54",
+    "occurren_4": "2",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.30969587,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Saturday, February 20, 2016",
+    "latitude": "43.71259254"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.310626,
+        43.713804
+      ]
+    },
+    "event_uniq": "GO-2016305492",
+    "crime_type": "Robbery",
+    "objectid": 178,
+    "district": "d54",
+    "occurren_4": "2",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.30969587,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Saturday, February 20, 2016",
+    "latitude": "43.71259254"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.372078,
+        43.653958
+      ]
+    },
+    "event_uniq": "GO-2016305671",
+    "crime_type": "Robbery",
+    "objectid": 179,
+    "district": "d51",
+    "occurren_4": "19",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.37110829,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Saturday, February 20, 2016",
+    "latitude": "43.65415016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.474403,
+        43.648969
+      ]
+    },
+    "event_uniq": "GO-2016305680",
+    "crime_type": "Robbery",
+    "objectid": 180,
+    "district": "d11",
+    "occurren_4": "19",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.47429899,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Saturday, February 20, 2016",
+    "latitude": "43.6496062"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.318055,
+        43.669904
+      ]
+    },
+    "event_uniq": "GO-2016305723",
+    "crime_type": "Auto Theft",
+    "objectid": 181,
+    "district": "d55",
+    "occurren_4": "18",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.31952499,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Saturday, February 20, 2016",
+    "latitude": "43.67089696"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.500558,
+        43.768519
+      ]
+    },
+    "event_uniq": "GO-2016305923",
+    "crime_type": "Robbery",
+    "objectid": 182,
+    "district": "d31",
+    "occurren_4": "20",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.50084857,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Saturday, February 20, 2016",
+    "latitude": "43.76904247"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.299145,
+        43.699132
+      ]
+    },
+    "event_uniq": "GO-2016306257",
+    "crime_type": "Robbery",
+    "objectid": 183,
+    "district": "d54",
+    "occurren_4": "20",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.3009416,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Saturday, February 20, 2016",
+    "latitude": "43.69820956"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.299145,
+        43.699132
+      ]
+    },
+    "event_uniq": "GO-2016306257",
+    "crime_type": "Robbery",
+    "objectid": 184,
+    "district": "d54",
+    "occurren_4": "20",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.3009416,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Saturday, February 20, 2016",
+    "latitude": "43.69820956"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.320975,
+        43.806349
+      ]
+    },
+    "event_uniq": "GO-2016306667",
+    "crime_type": "Break and Enter",
+    "objectid": 185,
+    "district": "d42",
+    "occurren_4": "21",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.32111151,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Saturday, February 20, 2016",
+    "latitude": "43.80601253"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.390529,
+        43.64849
+      ]
+    },
+    "event_uniq": "GO-2016306755",
+    "crime_type": "Theft Over",
+    "objectid": 186,
+    "district": "d52",
+    "occurren_4": "0",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.38996074,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Saturday, February 20, 2016",
+    "latitude": "43.64892523"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.301089,
+        43.667689
+      ]
+    },
+    "event_uniq": "GO-2016306817",
+    "crime_type": "Robbery",
+    "objectid": 187,
+    "district": "d55",
+    "occurren_4": "23",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.29951249,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Saturday, February 20, 2016",
+    "latitude": "43.66798045"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.604217,
+        43.706029
+      ]
+    },
+    "event_uniq": "GO-2016306869",
+    "crime_type": "Robbery",
+    "objectid": 188,
+    "district": "d23",
+    "occurren_4": "23",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.60584815,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Saturday, February 20, 2016",
+    "latitude": "43.70699513"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.601041,
+        43.732526
+      ]
+    },
+    "event_uniq": "GO-2016307237",
+    "crime_type": "Robbery",
+    "objectid": 189,
+    "district": "d23",
+    "occurren_4": "1",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.60120562,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Sunday, February 21, 2016",
+    "latitude": "43.73262627"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.256029,
+        43.732879
+      ]
+    },
+    "event_uniq": "GO-2016307596",
+    "crime_type": "Robbery",
+    "objectid": 190,
+    "district": "d41",
+    "occurren_4": "3",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.25637527,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Sunday, February 21, 2016",
+    "latitude": "43.73339042"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.429593,
+        43.718422
+      ]
+    },
+    "event_uniq": "GO-2016307937",
+    "crime_type": "Break and Enter",
+    "objectid": 191,
+    "district": "d32",
+    "occurren_4": "21",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.43002934,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Saturday, February 20, 2016",
+    "latitude": "43.71865083"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.42457,
+        43.681949
+      ]
+    },
+    "event_uniq": "GO-2016307968",
+    "crime_type": "Auto Theft",
+    "objectid": 192,
+    "district": "d13",
+    "occurren_4": "17",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.42432994,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Saturday, February 20, 2016",
+    "latitude": "43.68174666"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.353432,
+        43.675639
+      ]
+    },
+    "event_uniq": "GO-2016308041",
+    "crime_type": "Break and Enter",
+    "objectid": 193,
+    "district": "d54",
+    "occurren_4": "6",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.35346102,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Sunday, February 21, 2016",
+    "latitude": "43.67550626"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.358873,
+        43.676202
+      ]
+    },
+    "event_uniq": "GO-2016308135",
+    "crime_type": "Break and Enter",
+    "objectid": 194,
+    "district": "d54",
+    "occurren_4": "6",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.35841182,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Sunday, February 21, 2016",
+    "latitude": "43.67591971"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.434152,
+        43.666665
+      ]
+    },
+    "event_uniq": "GO-2016308236",
+    "crime_type": "Break and Enter",
+    "objectid": 195,
+    "district": "d14",
+    "occurren_4": "21",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.43459683,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Saturday, February 20, 2016",
+    "latitude": "43.66765279"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.433217,
+        43.643704
+      ]
+    },
+    "event_uniq": "GO-2016308263",
+    "crime_type": "Break and Enter",
+    "objectid": 196,
+    "district": "d11",
+    "occurren_4": "3",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.43385075,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Sunday, February 21, 2016",
+    "latitude": "43.64339508"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.378999,
+        43.802203
+      ]
+    },
+    "event_uniq": "GO-2016308449",
+    "crime_type": "Auto Theft",
+    "objectid": 197,
+    "district": "d33",
+    "occurren_4": "0",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.37885808,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Sunday, February 21, 2016",
+    "latitude": "43.80191338"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.320975,
+        43.806349
+      ]
+    },
+    "event_uniq": "GO-2016308467",
+    "crime_type": "Break and Enter",
+    "objectid": 198,
+    "district": "d42",
+    "occurren_4": "8",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.32123805,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Sunday, February 21, 2016",
+    "latitude": "43.80593336"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.292393,
+        43.695274
+      ]
+    },
+    "event_uniq": "GO-2016308489",
+    "crime_type": "Theft Over",
+    "objectid": 199,
+    "district": "d54",
+    "occurren_4": "5",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.29297498,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Saturday, February 20, 2016",
+    "latitude": "43.69425507"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.51741,
+        43.652723
+      ]
+    },
+    "event_uniq": "GO-2016308563",
+    "crime_type": "Break and Enter",
+    "objectid": 200,
+    "district": "d22",
+    "occurren_4": "11",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.51757258,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Saturday, February 20, 2016",
+    "latitude": "43.65271532"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.50063,
+        43.700999
+      ]
+    },
+    "event_uniq": "GO-2016308637",
+    "crime_type": "Break and Enter",
+    "objectid": 201,
+    "district": "d12",
+    "occurren_4": "8",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.50074212,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Sunday, February 21, 2016",
+    "latitude": "43.70115251"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.271971,
+        43.770447
+      ]
+    },
+    "event_uniq": "GO-2016308662",
+    "crime_type": "Break and Enter",
+    "objectid": 202,
+    "district": "d41",
+    "occurren_4": "12",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.27166508,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Saturday, February 20, 2016",
+    "latitude": "43.76991699"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.397381,
+        43.668033
+      ]
+    },
+    "event_uniq": "GO-2016308737",
+    "crime_type": "Theft Over",
+    "objectid": 203,
+    "district": "d53",
+    "occurren_4": "6",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.39661749,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Sunday, February 21, 2016",
+    "latitude": "43.66670253"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.366693,
+        43.650681
+      ]
+    },
+    "event_uniq": "GO-2016308934",
+    "crime_type": "Break and Enter",
+    "objectid": 204,
+    "district": "d51",
+    "occurren_4": "17",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.36665928,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Saturday, February 20, 2016",
+    "latitude": "43.6499268"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.366693,
+        43.650681
+      ]
+    },
+    "event_uniq": "GO-2016308937",
+    "crime_type": "Break and Enter",
+    "objectid": 205,
+    "district": "d51",
+    "occurren_4": "0",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.36665928,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Sunday, February 21, 2016",
+    "latitude": "43.6499268"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.378822,
+        43.648961
+      ]
+    },
+    "event_uniq": "GO-2016309104",
+    "crime_type": "Break and Enter",
+    "objectid": 206,
+    "district": "d52",
+    "occurren_4": "6",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.37954141,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Sunday, February 21, 2016",
+    "latitude": "43.64905693"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.254643,
+        43.772526
+      ]
+    },
+    "event_uniq": "GO-2016309345",
+    "crime_type": "Auto Theft",
+    "objectid": 207,
+    "district": "d43",
+    "occurren_4": "10",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.25459053,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Sunday, February 21, 2016",
+    "latitude": "43.77258331"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.342671,
+        43.69062
+      ]
+    },
+    "event_uniq": "GO-2016309395",
+    "crime_type": "Auto Theft",
+    "objectid": 208,
+    "district": "d54",
+    "occurren_4": "16",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.34344588,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Saturday, February 20, 2016",
+    "latitude": "43.6914332"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.47659,
+        43.764319
+      ]
+    },
+    "event_uniq": "GO-2016309419",
+    "crime_type": "Break and Enter",
+    "objectid": 209,
+    "district": "d32",
+    "occurren_4": "15",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.47446849,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Saturday, February 20, 2016",
+    "latitude": "43.76621698"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.366693,
+        43.650681
+      ]
+    },
+    "event_uniq": "GO-2016309582",
+    "crime_type": "Break and Enter",
+    "objectid": 210,
+    "district": "d51",
+    "occurren_4": "0",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.36665928,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Sunday, February 21, 2016",
+    "latitude": "43.6499268"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.494039,
+        43.775169
+      ]
+    },
+    "event_uniq": "GO-2016309841",
+    "crime_type": "Auto Theft",
+    "objectid": 211,
+    "district": "d31",
+    "occurren_4": "1",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.49449968,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Sunday, February 21, 2016",
+    "latitude": "43.77448721"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.192883,
+        43.761228
+      ]
+    },
+    "event_uniq": "GO-2016309881",
+    "crime_type": "Break and Enter",
+    "objectid": 212,
+    "district": "d43",
+    "occurren_4": "3",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.19304549,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Sunday, February 21, 2016",
+    "latitude": "43.76071288"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.412588,
+        43.653672
+      ]
+    },
+    "event_uniq": "GO-2016310071",
+    "crime_type": "Auto Theft",
+    "objectid": 213,
+    "district": "d14",
+    "occurren_4": "23",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.41283067,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Saturday, February 20, 2016",
+    "latitude": "43.65345028"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.407861,
+        43.660058
+      ]
+    },
+    "event_uniq": "GO-2016310076",
+    "crime_type": "Robbery",
+    "objectid": 214,
+    "district": "d14",
+    "occurren_4": "15",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.4080886,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Sunday, February 21, 2016",
+    "latitude": "43.659741"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.48148,
+        43.658836
+      ]
+    },
+    "event_uniq": "GO-2016310589",
+    "crime_type": "Break and Enter",
+    "objectid": 215,
+    "district": "d11",
+    "occurren_4": "16",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.48174962,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Sunday, February 21, 2016",
+    "latitude": "43.65902455"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.497357,
+        43.702652
+      ]
+    },
+    "event_uniq": "GO-2016310622",
+    "crime_type": "Robbery",
+    "objectid": 216,
+    "district": "d12",
+    "occurren_4": "17",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.49644595,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Sunday, February 21, 2016",
+    "latitude": "43.7022305"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.605292,
+        43.739161
+      ]
+    },
+    "event_uniq": "GO-2016310720",
+    "crime_type": "Theft Over",
+    "objectid": 217,
+    "district": "d23",
+    "occurren_4": "17",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.60430938,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Sunday, February 21, 2016",
+    "latitude": "43.73959718"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.350063,
+        43.691266
+      ]
+    },
+    "event_uniq": "GO-2016310725",
+    "crime_type": "Break and Enter",
+    "objectid": 218,
+    "district": "d54",
+    "occurren_4": "16",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.34983168,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Sunday, February 21, 2016",
+    "latitude": "43.69114754"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.322459,
+        43.680515
+      ]
+    },
+    "event_uniq": "GO-2016310809",
+    "crime_type": "Break and Enter",
+    "objectid": 219,
+    "district": "d55",
+    "occurren_4": "6",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.32216405,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Friday, February 19, 2016",
+    "latitude": "43.68035379"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.518822,
+        43.761918
+      ]
+    },
+    "event_uniq": "GO-2016310966",
+    "crime_type": "Robbery",
+    "objectid": 220,
+    "district": "d31",
+    "occurren_4": "17",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.51898992,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Sunday, February 21, 2016",
+    "latitude": "43.76344482"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.383204,
+        43.654319
+      ]
+    },
+    "event_uniq": "GO-2016311131",
+    "crime_type": "Robbery",
+    "objectid": 221,
+    "district": "d52",
+    "occurren_4": "19",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.38194719,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Sunday, February 21, 2016",
+    "latitude": "43.65505163"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.313715,
+        43.677562
+      ]
+    },
+    "event_uniq": "GO-2016311304",
+    "crime_type": "Break and Enter",
+    "objectid": 222,
+    "district": "d55",
+    "occurren_4": "19",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.31370009,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Sunday, February 21, 2016",
+    "latitude": "43.67691565"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.202962,
+        43.74559
+      ]
+    },
+    "event_uniq": "GO-2016311510",
+    "crime_type": "Break and Enter",
+    "objectid": 223,
+    "district": "d43",
+    "occurren_4": "9",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.20240223,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Sunday, February 21, 2016",
+    "latitude": "43.74569843"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.56197,
+        43.68819
+      ]
+    },
+    "event_uniq": "GO-2016311755",
+    "crime_type": "Robbery",
+    "objectid": 224,
+    "district": "d23",
+    "occurren_4": "21",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.56200992,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Sunday, February 21, 2016",
+    "latitude": "43.68829971"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.56197,
+        43.68819
+      ]
+    },
+    "event_uniq": "GO-2016311755",
+    "crime_type": "Robbery",
+    "objectid": 225,
+    "district": "d23",
+    "occurren_4": "21",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.56200992,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Sunday, February 21, 2016",
+    "latitude": "43.68829971"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.433217,
+        43.643704
+      ]
+    },
+    "event_uniq": "GO-2016311788",
+    "crime_type": "Theft Over",
+    "objectid": 226,
+    "district": "d11",
+    "occurren_4": "19",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.43376353,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Saturday, February 20, 2016",
+    "latitude": "43.64341189"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.297314,
+        43.696525
+      ]
+    },
+    "event_uniq": "GO-2016312269",
+    "crime_type": "Break and Enter",
+    "objectid": 227,
+    "district": "d54",
+    "occurren_4": "7",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.29891729,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Saturday, February 20, 2016",
+    "latitude": "43.69694589"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.49072,
+        43.636742
+      ]
+    },
+    "event_uniq": "GO-2016312454",
+    "crime_type": "Auto Theft",
+    "objectid": 228,
+    "district": "d22",
+    "occurren_4": "12",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.4912647,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Saturday, February 20, 2016",
+    "latitude": "43.63761332"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.410717,
+        43.66383
+      ]
+    },
+    "event_uniq": "GO-2016312629",
+    "crime_type": "Theft Over",
+    "objectid": 229,
+    "district": "d14",
+    "occurren_4": "23",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.41020008,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Sunday, February 21, 2016",
+    "latitude": "43.66338098"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.374057,
+        43.644573
+      ]
+    },
+    "event_uniq": "GO-20169001463",
+    "crime_type": "Break and Enter",
+    "objectid": 230,
+    "district": "d51",
+    "occurren_4": "15",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.37490408,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Monday, February 15, 2016",
+    "latitude": "43.64491225"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.375856,
+        43.644277
+      ]
+    },
+    "event_uniq": "GO-20169001472",
+    "crime_type": "Break and Enter",
+    "objectid": 231,
+    "district": "d51",
+    "occurren_4": "17",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.37542754,
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Tuesday, February 16, 2016",
+    "latitude": "43.64481165"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.253386,
+        43.725894
+      ]
+    },
+    "event_uniq": "GO-2016271216",
+    "crime_type": "Assault",
+    "objectid": 232,
+    "district": "d41",
+    "occurren_4": "N/A",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.25153788,
+    "divisional": "http://www.torontopolice.on.ca/d41/",
+    "datecon": "Monday, February 15, 2016",
+    "latitude": "43.72552817"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.408147,
+        43.664344
+      ]
+    },
+    "event_uniq": "GO-2016271622",
+    "crime_type": "Assault",
+    "objectid": 233,
+    "district": "d14",
+    "occurren_4": "N/A",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.40819948,
+    "divisional": "http://www.torontopolice.on.ca/d41/",
+    "datecon": "Monday, February 15, 2016",
+    "latitude": "43.66399238"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.500382,
+        43.68928
+      ]
+    },
+    "event_uniq": "GO-2016271924",
+    "crime_type": "Assault",
+    "objectid": 234,
+    "district": "d12",
+    "occurren_4": "N/A",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.50109951,
+    "divisional": "http://www.torontopolice.on.ca/d41/",
+    "datecon": "Monday, February 15, 2016",
+    "latitude": "43.68929914"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.38411,
+        43.649188
+      ]
+    },
+    "event_uniq": "GO-2016274364",
+    "crime_type": "Assault",
+    "objectid": 235,
+    "district": "d52",
+    "occurren_4": "N/A",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.383364,
+    "divisional": "http://www.torontopolice.on.ca/d41/",
+    "datecon": "Monday, February 15, 2016",
+    "latitude": "43.64939025"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.402267,
+        43.652029
+      ]
+    },
+    "event_uniq": "GO-2016275055",
+    "crime_type": "Assault",
+    "objectid": 236,
+    "district": "d14",
+    "occurren_4": "N/A",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.40173121,
+    "divisional": "http://www.torontopolice.on.ca/d41/",
+    "datecon": "Monday, February 15, 2016",
+    "latitude": "43.65207991"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.616803,
+        43.723248
+      ]
+    },
+    "event_uniq": "GO-2016275728",
+    "crime_type": "Assault",
+    "objectid": 237,
+    "district": "d23",
+    "occurren_4": "N/A",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.61676806,
+    "divisional": "http://www.torontopolice.on.ca/d41/",
+    "datecon": "Monday, February 15, 2016",
+    "latitude": "43.72220935"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.504451,
+        43.714938
+      ]
+    },
+    "event_uniq": "GO-2016275480",
+    "crime_type": "Assault",
+    "objectid": 238,
+    "district": "d12",
+    "occurren_4": "N/A",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.50456953,
+    "divisional": "http://www.torontopolice.on.ca/d41/",
+    "datecon": "Monday, February 15, 2016",
+    "latitude": "43.71442933"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.373062,
+        43.66319
+      ]
+    },
+    "event_uniq": "GO-2016277105",
+    "crime_type": "Assault",
+    "objectid": 239,
+    "district": "d51",
+    "occurren_4": "N/A",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.37247225,
+    "divisional": "http://www.torontopolice.on.ca/d41/",
+    "datecon": "Tuesday, February 16, 2016",
+    "latitude": "43.66241717"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.301046,
+        43.685797
+      ]
+    },
+    "event_uniq": "GO-2016279053",
+    "crime_type": "Assault",
+    "objectid": 240,
+    "district": "d55",
+    "occurren_4": "N/A",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.30140975,
+    "divisional": "http://www.torontopolice.on.ca/d41/",
+    "datecon": "Tuesday, February 16, 2016",
+    "latitude": "43.68558418"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.403867,
+        43.662699
+      ]
+    },
+    "event_uniq": "GO-2016279142",
+    "crime_type": "Assault",
+    "objectid": 241,
+    "district": "d14",
+    "occurren_4": "N/A",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.40382791,
+    "divisional": "http://www.torontopolice.on.ca/d41/",
+    "datecon": "Tuesday, February 16, 2016",
+    "latitude": "43.66327406"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.565551,
+        43.652262
+      ]
+    },
+    "event_uniq": "GO-2016280334",
+    "crime_type": "Assault",
+    "objectid": 242,
+    "district": "d22",
+    "occurren_4": "N/A",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.56447863,
+    "divisional": "http://www.torontopolice.on.ca/d41/",
+    "datecon": "Tuesday, February 16, 2016",
+    "latitude": "43.65293646"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.383445,
+        43.761047
+      ]
+    },
+    "event_uniq": "GO-2016281317",
+    "crime_type": "Assault",
+    "objectid": 243,
+    "district": "d33",
+    "occurren_4": "N/A",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.38459885,
+    "divisional": "http://www.torontopolice.on.ca/d41/",
+    "datecon": "Monday, February 15, 2016",
+    "latitude": "43.76047872"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.543258,
+        43.747626
+      ]
+    },
+    "event_uniq": "GO-2016281748",
+    "crime_type": "Assault",
+    "objectid": 244,
+    "district": "d31",
+    "occurren_4": "N/A",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.54360756,
+    "divisional": "http://www.torontopolice.on.ca/d41/",
+    "datecon": "Tuesday, February 16, 2016",
+    "latitude": "43.74933747"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.433919,
+        43.645492
+      ]
+    },
+    "event_uniq": "GO-2016284805",
+    "crime_type": "Assault",
+    "objectid": 245,
+    "district": "d11",
+    "occurren_4": "N/A",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.433626,
+    "divisional": "http://www.torontopolice.on.ca/d41/",
+    "datecon": "Wednesday, February 17, 2016",
+    "latitude": "43.64584106"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.369855,
+        43.651893
+      ]
+    },
+    "event_uniq": "GO-2016285411",
+    "crime_type": "Assault",
+    "objectid": 246,
+    "district": "d51",
+    "occurren_4": "N/A",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.36967676,
+    "divisional": "http://www.torontopolice.on.ca/d41/",
+    "datecon": "Wednesday, February 17, 2016",
+    "latitude": "43.65251803"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.348107,
+        43.687534
+      ]
+    },
+    "event_uniq": "GO-2016285594",
+    "crime_type": "Assault",
+    "objectid": 247,
+    "district": "d54",
+    "occurren_4": "N/A",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.34891777,
+    "divisional": "http://www.torontopolice.on.ca/d41/",
+    "datecon": "Tuesday, February 16, 2016",
+    "latitude": "43.68692053"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.439969,
+        43.636419
+      ]
+    },
+    "event_uniq": "GO-2016286134",
+    "crime_type": "Assault",
+    "objectid": 248,
+    "district": "d14",
+    "occurren_4": "N/A",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.43960887,
+    "divisional": "http://www.torontopolice.on.ca/d41/",
+    "datecon": "Wednesday, February 17, 2016",
+    "latitude": "43.63553247"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.419553,
+        43.640534
+      ]
+    },
+    "event_uniq": "GO-2016286722",
+    "crime_type": "Assault",
+    "objectid": 249,
+    "district": "d14",
+    "occurren_4": "N/A",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.41906597,
+    "divisional": "http://www.torontopolice.on.ca/d41/",
+    "datecon": "Wednesday, February 17, 2016",
+    "latitude": "43.64219188"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.333927,
+        43.705325
+      ]
+    },
+    "event_uniq": "GO-2016274850",
+    "crime_type": "Assault",
+    "objectid": 250,
+    "district": "d54",
+    "occurren_4": "N/A",
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "longitude": -79.33305752,
+    "divisional": "http://www.torontopolice.on.ca/d41/",
+    "datecon": "Monday, February 15, 2016",
+    "latitude": "43.70630032"
+  }
+]

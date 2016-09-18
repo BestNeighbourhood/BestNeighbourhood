@@ -1,0 +1,1056 @@
+[
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.50105,
+        43.695311
+      ]
+    },
+    "event_uniq": "GO-20161213431",
+    "crime_type": "Break and Enter",
+    "objectid": 1,
+    "district": "d12",
+    "occurren_4": 5,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d12/",
+    "datecon": "Monday, July 11, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.571715,
+        43.628189
+      ]
+    },
+    "event_uniq": "GO-20161213945",
+    "crime_type": "Break and Enter",
+    "objectid": 2,
+    "district": "d22",
+    "occurren_4": 9,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d22/",
+    "datecon": "Monday, July 11, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.161904,
+        43.783039
+      ]
+    },
+    "event_uniq": "GO-20161214470",
+    "crime_type": "Break and Enter",
+    "objectid": 3,
+    "district": "d43",
+    "occurren_4": 13,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d43/",
+    "datecon": "Monday, July 11, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.42306,
+        43.722288
+      ]
+    },
+    "event_uniq": "GO-20161216151",
+    "crime_type": "Break and Enter",
+    "objectid": 4,
+    "district": "d32",
+    "occurren_4": 8,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d32/",
+    "datecon": "Monday, July 11, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.409496,
+        43.717773
+      ]
+    },
+    "event_uniq": "GO-20161216336",
+    "crime_type": "Break and Enter",
+    "objectid": 5,
+    "district": "d53",
+    "occurren_4": 14,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d53/",
+    "datecon": "Monday, July 11, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.329658,
+        43.739961
+      ]
+    },
+    "event_uniq": "GO-20161216874",
+    "crime_type": "Break and Enter",
+    "objectid": 6,
+    "district": "d33",
+    "occurren_4": 19,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d33/",
+    "datecon": "Monday, July 11, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.417413,
+        43.71497
+      ]
+    },
+    "event_uniq": "GO-20161217414",
+    "crime_type": "Break and Enter",
+    "objectid": 7,
+    "district": "d53",
+    "occurren_4": 9,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d53/",
+    "datecon": "Monday, July 11, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.511437,
+        43.623631
+      ]
+    },
+    "event_uniq": "GO-20161217741",
+    "crime_type": "Break and Enter",
+    "objectid": 8,
+    "district": "d22",
+    "occurren_4": 14,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d22/",
+    "datecon": "Monday, July 11, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.406123,
+        43.641844
+      ]
+    },
+    "event_uniq": "GO-20161219652",
+    "crime_type": "Break and Enter",
+    "objectid": 9,
+    "district": "d14",
+    "occurren_4": 2,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d14/",
+    "datecon": "Tuesday, July 12, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.454951,
+        43.692185
+      ]
+    },
+    "event_uniq": "GO-20161221238",
+    "crime_type": "Break and Enter",
+    "objectid": 10,
+    "district": "d13",
+    "occurren_4": 13,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d13/",
+    "datecon": "Tuesday, July 12, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.549802,
+        43.607358
+      ]
+    },
+    "event_uniq": "GO-20161221990",
+    "crime_type": "Break and Enter",
+    "objectid": 11,
+    "district": "d22",
+    "occurren_4": 12,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d22/",
+    "datecon": "Tuesday, July 12, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.377855,
+        43.658211
+      ]
+    },
+    "event_uniq": "GO-20161224817",
+    "crime_type": "Break and Enter",
+    "objectid": 12,
+    "district": "d51",
+    "occurren_4": 0,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d51/",
+    "datecon": "Wednesday, July 13, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.389531,
+        43.727791
+      ]
+    },
+    "event_uniq": "GO-20161226620",
+    "crime_type": "Break and Enter",
+    "objectid": 13,
+    "district": "d32",
+    "occurren_4": 9,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d32/",
+    "datecon": "Wednesday, July 13, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.446097,
+        43.694385
+      ]
+    },
+    "event_uniq": "GO-20161227256",
+    "crime_type": "Break and Enter",
+    "objectid": 14,
+    "district": "d13",
+    "occurren_4": 0,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d13/",
+    "datecon": "Wednesday, July 13, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.208859,
+        43.740646
+      ]
+    },
+    "event_uniq": "GO-20161227759",
+    "crime_type": "Break and Enter",
+    "objectid": 15,
+    "district": "d43",
+    "occurren_4": 11,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d43/",
+    "datecon": "Wednesday, July 13, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.406478,
+        43.670075
+      ]
+    },
+    "event_uniq": "GO-20161228611",
+    "crime_type": "Break and Enter",
+    "objectid": 16,
+    "district": "d14",
+    "occurren_4": 14,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d14/",
+    "datecon": "Wednesday, July 13, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.353222,
+        43.660053
+      ]
+    },
+    "event_uniq": "GO-20161229270",
+    "crime_type": "Break and Enter",
+    "objectid": 17,
+    "district": "d55",
+    "occurren_4": 13,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d55/",
+    "datecon": "Wednesday, July 13, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.376841,
+        43.641153
+      ]
+    },
+    "event_uniq": "GO-20161231091",
+    "crime_type": "Break and Enter",
+    "objectid": 18,
+    "district": "d52",
+    "occurren_4": 12,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d52/",
+    "datecon": "Wednesday, July 13, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.36928,
+        43.653893
+      ]
+    },
+    "event_uniq": "GO-20161231525",
+    "crime_type": "Break and Enter",
+    "objectid": 19,
+    "district": "d51",
+    "occurren_4": 23,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d51/",
+    "datecon": "Wednesday, July 13, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.526343,
+        43.761127
+      ]
+    },
+    "event_uniq": "GO-20161232256",
+    "crime_type": "Break and Enter",
+    "objectid": 20,
+    "district": "d31",
+    "occurren_4": 13,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Wednesday, July 13, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.323991,
+        43.671844
+      ]
+    },
+    "event_uniq": "GO-20161232525",
+    "crime_type": "Break and Enter",
+    "objectid": 21,
+    "district": "d55",
+    "occurren_4": 4,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d55/",
+    "datecon": "Thursday, July 14, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.575982,
+        43.739656
+      ]
+    },
+    "event_uniq": "GO-20161234522",
+    "crime_type": "Break and Enter",
+    "objectid": 22,
+    "district": "d23",
+    "occurren_4": 16,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d23/",
+    "datecon": "Wednesday, July 13, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.453951,
+        43.750011
+      ]
+    },
+    "event_uniq": "GO-20161236435",
+    "crime_type": "Break and Enter",
+    "objectid": 23,
+    "district": "d32",
+    "occurren_4": 0,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d32/",
+    "datecon": "Thursday, July 14, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.42457,
+        43.681949
+      ]
+    },
+    "event_uniq": "GO-20161237951",
+    "crime_type": "Break and Enter",
+    "objectid": 24,
+    "district": "d13",
+    "occurren_4": 13,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d13/",
+    "datecon": "Thursday, July 14, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.429226,
+        43.71681
+      ]
+    },
+    "event_uniq": "GO-20161237977",
+    "crime_type": "Break and Enter",
+    "objectid": 25,
+    "district": "d13",
+    "occurren_4": 18,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d13/",
+    "datecon": "Thursday, July 14, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.409225,
+        43.644677
+      ]
+    },
+    "event_uniq": "GO-20161238050",
+    "crime_type": "Break and Enter",
+    "objectid": 26,
+    "district": "d14",
+    "occurren_4": 21,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d14/",
+    "datecon": "Thursday, July 14, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.314184,
+        43.688893
+      ]
+    },
+    "event_uniq": "GO-20161238718",
+    "crime_type": "Break and Enter",
+    "objectid": 27,
+    "district": "d54",
+    "occurren_4": 18,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d54/",
+    "datecon": "Thursday, July 14, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.402706,
+        43.643926
+      ]
+    },
+    "event_uniq": "GO-20161239328",
+    "crime_type": "Break and Enter",
+    "objectid": 28,
+    "district": "d14",
+    "occurren_4": 5,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d14/",
+    "datecon": "Friday, July 15, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.393316,
+        43.778675
+      ]
+    },
+    "event_uniq": "GO-20161239837",
+    "crime_type": "Break and Enter",
+    "objectid": 29,
+    "district": "d32",
+    "occurren_4": 23,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d32/",
+    "datecon": "Thursday, July 14, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.314184,
+        43.688893
+      ]
+    },
+    "event_uniq": "GO-20161240951",
+    "crime_type": "Break and Enter",
+    "objectid": 30,
+    "district": "d54",
+    "occurren_4": 14,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d54/",
+    "datecon": "Thursday, July 14, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.303386,
+        43.684663
+      ]
+    },
+    "event_uniq": "GO-20161241853",
+    "crime_type": "Break and Enter",
+    "objectid": 31,
+    "district": "d55",
+    "occurren_4": 13,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d55/",
+    "datecon": "Friday, July 15, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.309021,
+        43.664526
+      ]
+    },
+    "event_uniq": "GO-20161241983",
+    "crime_type": "Break and Enter",
+    "objectid": 32,
+    "district": "d55",
+    "occurren_4": 13,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d55/",
+    "datecon": "Tuesday, July 12, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.525509,
+        43.647204
+      ]
+    },
+    "event_uniq": "GO-20161242834",
+    "crime_type": "Break and Enter",
+    "objectid": 33,
+    "district": "d22",
+    "occurren_4": 7,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d22/",
+    "datecon": "Friday, July 15, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.542318,
+        43.738617
+      ]
+    },
+    "event_uniq": "GO-20161243429",
+    "crime_type": "Break and Enter",
+    "objectid": 34,
+    "district": "d31",
+    "occurren_4": 0,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Wednesday, July 13, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.448262,
+        43.698597
+      ]
+    },
+    "event_uniq": "GO-20161243937",
+    "crime_type": "Break and Enter",
+    "objectid": 35,
+    "district": "d13",
+    "occurren_4": 19,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d13/",
+    "datecon": "Friday, July 15, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.286828,
+        43.684939
+      ]
+    },
+    "event_uniq": "GO-20161245064",
+    "crime_type": "Break and Enter",
+    "objectid": 36,
+    "district": "d55",
+    "occurren_4": 21,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d55/",
+    "datecon": "Friday, July 15, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.540377,
+        43.737753
+      ]
+    },
+    "event_uniq": "GO-20161245662",
+    "crime_type": "Break and Enter",
+    "objectid": 37,
+    "district": "d31",
+    "occurren_4": 1,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Saturday, July 16, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.505092,
+        43.650731
+      ]
+    },
+    "event_uniq": "GO-20161247147",
+    "crime_type": "Break and Enter",
+    "objectid": 38,
+    "district": "d22",
+    "occurren_4": 9,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d22/",
+    "datecon": "Saturday, July 16, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.403315,
+        43.765808
+      ]
+    },
+    "event_uniq": "GO-20161247358",
+    "crime_type": "Break and Enter",
+    "objectid": 39,
+    "district": "d32",
+    "occurren_4": 20,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d32/",
+    "datecon": "Friday, July 15, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.299475,
+        43.702865
+      ]
+    },
+    "event_uniq": "GO-20161247888",
+    "crime_type": "Break and Enter",
+    "objectid": 40,
+    "district": "d54",
+    "occurren_4": 12,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d54/",
+    "datecon": "Saturday, July 16, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.506459,
+        43.717744
+      ]
+    },
+    "event_uniq": "GO-20161248327",
+    "crime_type": "Break and Enter",
+    "objectid": 41,
+    "district": "d31",
+    "occurren_4": 22,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Friday, July 15, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.283972,
+        43.687453
+      ]
+    },
+    "event_uniq": "GO-20161249199",
+    "crime_type": "Break and Enter",
+    "objectid": 42,
+    "district": "d41",
+    "occurren_4": 13,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d41/",
+    "datecon": "Saturday, July 16, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.465212,
+        43.761042
+      ]
+    },
+    "event_uniq": "GO-20161249433",
+    "crime_type": "Break and Enter",
+    "objectid": 43,
+    "district": "d32",
+    "occurren_4": 11,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d32/",
+    "datecon": "Monday, July 11, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.269248,
+        43.726498
+      ]
+    },
+    "event_uniq": "GO-20161249738",
+    "crime_type": "Break and Enter",
+    "objectid": 44,
+    "district": "d41",
+    "occurren_4": 22,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d41/",
+    "datecon": "Friday, July 15, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.248799,
+        43.710254
+      ]
+    },
+    "event_uniq": "GO-20161250016",
+    "crime_type": "Break and Enter",
+    "objectid": 45,
+    "district": "d41",
+    "occurren_4": 19,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d41/",
+    "datecon": "Saturday, July 16, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.229769,
+        43.749209
+      ]
+    },
+    "event_uniq": "GO-20161250382",
+    "crime_type": "Break and Enter",
+    "objectid": 46,
+    "district": "d43",
+    "occurren_4": 13,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d43/",
+    "datecon": "Monday, July 11, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.279062,
+        43.696386
+      ]
+    },
+    "event_uniq": "GO-20161250647",
+    "crime_type": "Break and Enter",
+    "objectid": 47,
+    "district": "d41",
+    "occurren_4": 21,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d41/",
+    "datecon": "Saturday, July 16, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.173678,
+        43.785095
+      ]
+    },
+    "event_uniq": "GO-20161250736",
+    "crime_type": "Break and Enter",
+    "objectid": 48,
+    "district": "d43",
+    "occurren_4": 16,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d43/",
+    "datecon": "Saturday, July 16, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.264932,
+        43.725121
+      ]
+    },
+    "event_uniq": "GO-20161250978",
+    "crime_type": "Break and Enter",
+    "objectid": 49,
+    "district": "d41",
+    "occurren_4": 22,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d41/",
+    "datecon": "Saturday, July 16, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.403824,
+        43.789995
+      ]
+    },
+    "event_uniq": "GO-20161251207",
+    "crime_type": "Break and Enter",
+    "objectid": 50,
+    "district": "d32",
+    "occurren_4": 22,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d32/",
+    "datecon": "Saturday, July 16, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.316227,
+        43.684946
+      ]
+    },
+    "event_uniq": "GO-20161251897",
+    "crime_type": "Break and Enter",
+    "objectid": 51,
+    "district": "d54",
+    "occurren_4": 17,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d54/",
+    "datecon": "Saturday, July 16, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.426655,
+        43.648706
+      ]
+    },
+    "event_uniq": "GO-20161252934",
+    "crime_type": "Break and Enter",
+    "objectid": 52,
+    "district": "d14",
+    "occurren_4": 8,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d14/",
+    "datecon": "Sunday, July 17, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.318681,
+        43.792571
+      ]
+    },
+    "event_uniq": "GO-20161254024",
+    "crime_type": "Break and Enter",
+    "objectid": 53,
+    "district": "d42",
+    "occurren_4": 11,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d42/",
+    "datecon": "Tuesday, July 12, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.30474,
+        43.666221
+      ]
+    },
+    "event_uniq": "GO-20161254068",
+    "crime_type": "Break and Enter",
+    "objectid": 54,
+    "district": "d55",
+    "occurren_4": 12,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d55/",
+    "datecon": "Sunday, July 17, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.389987,
+        43.643704
+      ]
+    },
+    "event_uniq": "GO-20161255242",
+    "crime_type": "Break and Enter",
+    "objectid": 55,
+    "district": "d52",
+    "occurren_4": 16,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d52/",
+    "datecon": "Sunday, July 17, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.353216,
+        43.669707
+      ]
+    },
+    "event_uniq": "GO-20161255855",
+    "crime_type": "Break and Enter",
+    "objectid": 56,
+    "district": "d55",
+    "occurren_4": 0,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d55/",
+    "datecon": "Thursday, July 14, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.390475,
+        43.698602
+      ]
+    },
+    "event_uniq": "GO-20161256269",
+    "crime_type": "Break and Enter",
+    "objectid": 57,
+    "district": "d53",
+    "occurren_4": 18,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d53/",
+    "datecon": "Sunday, July 17, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.508634,
+        43.720915
+      ]
+    },
+    "event_uniq": "GO-20161256356",
+    "crime_type": "Break and Enter",
+    "objectid": 58,
+    "district": "d31",
+    "occurren_4": 17,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Sunday, July 17, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.308048,
+        43.668245
+      ]
+    },
+    "event_uniq": "GO-20161256521",
+    "crime_type": "Break and Enter",
+    "objectid": 59,
+    "district": "d55",
+    "occurren_4": 8,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d55/",
+    "datecon": "Monday, July 11, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.390475,
+        43.698602
+      ]
+    },
+    "event_uniq": "GO-20161256616",
+    "crime_type": "Break and Enter",
+    "objectid": 60,
+    "district": "d53",
+    "occurren_4": 19,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d53/",
+    "datecon": "Sunday, July 17, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.413195,
+        43.776926
+      ]
+    },
+    "event_uniq": "GO-20161256843",
+    "crime_type": "Break and Enter",
+    "objectid": 61,
+    "district": "d32",
+    "occurren_4": 22,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d32/",
+    "datecon": "Sunday, July 17, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.390721,
+        43.668636
+      ]
+    },
+    "event_uniq": "GO-20161257158",
+    "crime_type": "Break and Enter",
+    "objectid": 62,
+    "district": "d53",
+    "occurren_4": 21,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d53/",
+    "datecon": "Sunday, July 17, 2016"
+  }
+]

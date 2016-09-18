@@ -1,0 +1,5502 @@
+[
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.380442,
+        43.656202
+      ]
+    },
+    "address": "1 Dundas St E",
+    "postal_code": null,
+    "x": 314428.062,
+    "y": 4834923.751,
+    "longitude": -79.380442,
+    "latitude": 43.656202,
+    "object_id": 4,
+    "facility_name": "Yonge Dundas Square",
+    "facility_type": "Office",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Security Booth",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.449097,
+        43.725178
+      ]
+    },
+    "address": "1 Yorkdale Rd",
+    "postal_code": "M6A 3A1",
+    "x": 308885.641,
+    "y": 4842580.953,
+    "longitude": -79.449097,
+    "latitude": 43.725178,
+    "object_id": 6,
+    "facility_name": "Go Transit - Yorkdale Station",
+    "facility_type": "Transportation Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "main common area",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.522108,
+        43.601144
+      ]
+    },
+    "address": "1 Faustina Dr",
+    "postal_code": "M8V 3L9",
+    "x": 302999.547,
+    "y": 4828800.532,
+    "longitude": -79.522108,
+    "latitude": 43.601144,
+    "object_id": 7,
+    "facility_name": "Gus Ryder Pool & Health Club",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Reception",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.550792,
+        43.697875
+      ]
+    },
+    "address": "1 York Rd",
+    "postal_code": "M9R 3C8",
+    "x": 300690.35,
+    "y": 4839547.959,
+    "longitude": -79.550792,
+    "latitude": 43.697875,
+    "object_id": 9,
+    "facility_name": "Kingsview Village CS",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Outside CS office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.307523,
+        43.718789
+      ]
+    },
+    "address": "2 Hobson Ave",
+    "postal_code": "M4A 1Y2",
+    "x": 320293.29,
+    "y": 4841888.805,
+    "longitude": -79.307523,
+    "latitude": 43.718789,
+    "object_id": 10,
+    "facility_name": "Corporate Printing",
+    "facility_type": "Industrial Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Cafe Area",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.298933,
+        43.70218
+      ]
+    },
+    "address": "2 Gower St",
+    "postal_code": "M4B 1E2",
+    "x": 320990.17,
+    "y": 4840044.27,
+    "longitude": -79.298933,
+    "latitude": 43.70218,
+    "object_id": 11,
+    "facility_name": "Harmony Hall Centre for Senior",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Lower level of centre",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.563927,
+        43.642959
+      ]
+    },
+    "address": "2 Civic Centre Crt",
+    "postal_code": "M9C 5A3",
+    "x": 299626.909,
+    "y": 4833447.54,
+    "longitude": -79.563927,
+    "latitude": 43.642959,
+    "object_id": 15,
+    "facility_name": "2 Civic Centre Court",
+    "facility_type": "Office",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "By Elevators",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.550059,
+        43.701675
+      ]
+    },
+    "address": "2 St Andrews Blvd",
+    "postal_code": "M9R 1V8",
+    "x": 300749.676,
+    "y": 4839970.024,
+    "longitude": -79.550059,
+    "latitude": 43.701675,
+    "object_id": 16,
+    "facility_name": "Don Bosco Catholic H.S.",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "outside main office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.446047,
+        43.732272
+      ]
+    },
+    "address": "3 Tippett Rd",
+    "postal_code": "M3H 2V1",
+    "x": 309130.861,
+    "y": 4843369.274,
+    "longitude": -79.446047,
+    "latitude": 43.732272,
+    "object_id": 18,
+    "facility_name": "3 Tippett Centre-TDSB",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Outside Main Office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.446428,
+        43.693319
+      ]
+    },
+    "address": "4 Keywest Ave",
+    "postal_code": "M6E 2A8",
+    "x": 309102.874,
+    "y": 4839041.77,
+    "longitude": -79.446428,
+    "latitude": 43.693319,
+    "object_id": 19,
+    "facility_name": "Fairbank ODP",
+    "facility_type": "Outdoor Seasonal Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Pool Office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.489822,
+        43.687678
+      ]
+    },
+    "address": "4 Hollis St",
+    "postal_code": "M6M 4M9",
+    "x": 305604.907,
+    "y": 4838413.76,
+    "longitude": -79.489822,
+    "latitude": 43.687678,
+    "object_id": 20,
+    "facility_name": "Mount Dennis Community Hall",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Reception",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.30646,
+        43.753133
+      ]
+    },
+    "address": "5 Trestleside Grv",
+    "postal_code": "M1R 5A9",
+    "x": 320370.305,
+    "y": 4845703.5,
+    "longitude": -79.30646,
+    "latitude": 43.753133,
+    "object_id": 21,
+    "facility_name": "Maryvale ODP",
+    "facility_type": "Outdoor Seasonal Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Pool Office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.34984,
+        43.702326
+      ]
+    },
+    "address": "5 Leaside Park Dr",
+    "postal_code": null,
+    "x": 316887.124,
+    "y": 4840051.865,
+    "longitude": -79.34984,
+    "latitude": 43.702326,
+    "object_id": 22,
+    "facility_name": "Leaside ODP",
+    "facility_type": "Outdoor Seasonal Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Pool Office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.29881,
+        43.67394
+      ]
+    },
+    "address": "6 Williamson Rd",
+    "postal_code": "M4E 1K5",
+    "x": 321007.596,
+    "y": 4836906.93,
+    "longitude": -79.29881,
+    "latitude": 43.67394,
+    "object_id": 25,
+    "facility_name": "Beaches RC",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Reception",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.479661,
+        43.730404
+      ]
+    },
+    "address": "7 Hawksdale Rd",
+    "postal_code": "M3K 1W3",
+    "x": 306423.059,
+    "y": 4843160.544,
+    "longitude": -79.479661,
+    "latitude": 43.730404,
+    "object_id": 27,
+    "facility_name": "Downsview SS",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Outside main  office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.570156,
+        43.698869
+      ]
+    },
+    "address": "7 McCulloch Ave",
+    "postal_code": "M9W 4M5",
+    "x": 299129.668,
+    "y": 4839659.363,
+    "longitude": -79.570156,
+    "latitude": 43.698869,
+    "object_id": 28,
+    "facility_name": "7 McCulloch-TDSB",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "N/A",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.203579,
+        43.781647
+      ]
+    },
+    "address": "9 Neilson Rd",
+    "postal_code": "M1E 5E1",
+    "x": 328643.97,
+    "y": 4848895.621,
+    "longitude": -79.203579,
+    "latitude": 43.781647,
+    "object_id": 29,
+    "facility_name": "Seven Oaks",
+    "facility_type": "Residence (excluding private homes)",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Reception",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.325949,
+        43.656455
+      ]
+    },
+    "address": "9 Leslie St",
+    "postal_code": "M4M 3M9",
+    "x": 318823.365,
+    "y": 4834959.521,
+    "longitude": -79.325949,
+    "latitude": 43.656455,
+    "object_id": 31,
+    "facility_name": "Ashbridges Bay Treatment Plant",
+    "facility_type": "Industrial Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Blower Bldg",
+    "dev_count": 7
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.325949,
+        43.656455
+      ]
+    },
+    "address": "9 Leslie St",
+    "postal_code": "M4M 3M9",
+    "x": 318823.365,
+    "y": 4834959.521,
+    "longitude": -79.325949,
+    "latitude": 43.656455,
+    "object_id": 32,
+    "facility_name": "Ashbridges Bay Treatment Plant",
+    "facility_type": "Industrial Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Admin Bldg - 2nd Flr",
+    "dev_count": 7
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.325949,
+        43.656455
+      ]
+    },
+    "address": "9 Leslie St",
+    "postal_code": "M4M 3M9",
+    "x": 318823.365,
+    "y": 4834959.521,
+    "longitude": -79.325949,
+    "latitude": 43.656455,
+    "object_id": 33,
+    "facility_name": "Ashbridges Bay Treatment Plant",
+    "facility_type": "Industrial Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Admin Bldg - Main Flr",
+    "dev_count": 7
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.319432,
+        43.812171
+      ]
+    },
+    "address": "200 Fundy Bay Blvd",
+    "postal_code": "M1W 3G1",
+    "x": 319311.544,
+    "y": 4852260.07,
+    "longitude": -79.319432,
+    "latitude": 43.812171,
+    "object_id": 343,
+    "facility_name": "Dr Norman Bethune CI",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Central Commons Area",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.339923,
+        43.764369
+      ]
+    },
+    "address": "200 Graydon Hall Dr",
+    "postal_code": "M3A 3A6",
+    "x": 317673.127,
+    "y": 4846945.98,
+    "longitude": -79.339923,
+    "latitude": 43.764369,
+    "object_id": 344,
+    "facility_name": "George S Henry Academy",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Outside Main Office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.314934,
+        43.724253
+      ]
+    },
+    "address": "200 Bermondsey Rd",
+    "postal_code": "M4A 1Y1",
+    "x": 319694.733,
+    "y": 4842494.56,
+    "longitude": -79.314934,
+    "latitude": 43.724253,
+    "object_id": 346,
+    "facility_name": "TFS - Special Operations Centre",
+    "facility_type": "Emergency Services",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Training Dome (classroom)",
+    "dev_count": 2
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.314934,
+        43.724253
+      ]
+    },
+    "address": "200 Bermondsey Rd",
+    "postal_code": "M4A 1Y1",
+    "x": 319694.733,
+    "y": 4842494.56,
+    "longitude": -79.314934,
+    "latitude": 43.724253,
+    "object_id": 345,
+    "facility_name": "TFS - Special Operations Centre",
+    "facility_type": "Emergency Services",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Office Area",
+    "dev_count": 2
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.465165,
+        43.664595
+      ]
+    },
+    "address": "209 Mavety St",
+    "postal_code": "M6P 2M1",
+    "x": 307593.506,
+    "y": 4835850.769,
+    "longitude": -79.465165,
+    "latitude": 43.664595,
+    "object_id": 362,
+    "facility_name": "TPS - 11 Division",
+    "facility_type": "Law enforcement agency",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Beside Elevator",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.355411,
+        43.676616
+      ]
+    },
+    "address": "235 Danforth Ave",
+    "postal_code": "M4K 1N2",
+    "x": 316443.115,
+    "y": 4837194.863,
+    "longitude": -79.355411,
+    "latitude": 43.676616,
+    "object_id": 373,
+    "facility_name": "Public Health- Danforth Ave.",
+    "facility_type": "Medical Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Reception",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.412555,
+        43.634539
+      ]
+    },
+    "address": "100 Princes Blvd",
+    "postal_code": "M6K 3C3",
+    "x": 311840.298,
+    "y": 4832513.748,
+    "longitude": -79.412555,
+    "latitude": 43.634539,
+    "object_id": 258,
+    "facility_name": "Exhibition Place Grounds",
+    "facility_type": "Convention Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Security Desk (Allstream)",
+    "dev_count": 14
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.367176,
+        43.705734
+      ]
+    },
+    "address": "110 Rumsey Rd",
+    "postal_code": "M4G 1P2",
+    "x": 315489.266,
+    "y": 4840428.18,
+    "longitude": -79.367176,
+    "latitude": 43.705734,
+    "object_id": 270,
+    "facility_name": "Trace Manes Park CRC",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Main Lobby",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.474585,
+        43.6571
+      ]
+    },
+    "address": "125 Evelyn Cres",
+    "postal_code": "M6P 3E3",
+    "x": 306834.358,
+    "y": 4835016.974,
+    "longitude": -79.474585,
+    "latitude": 43.6571,
+    "object_id": 281,
+    "facility_name": "Western Technical Commercial S",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "N/A",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.334971,
+        43.708984
+      ]
+    },
+    "address": "135 Overlea Blvd",
+    "postal_code": "M3C 1B3",
+    "x": 318084.03,
+    "y": 4840793.882,
+    "longitude": -79.334971,
+    "latitude": 43.708984,
+    "object_id": 290,
+    "facility_name": "Marc Garneau CI",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "N/A",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.46487,
+        43.643346
+      ]
+    },
+    "address": "142 Colborne Lodge Dr",
+    "postal_code": null,
+    "x": 307618.414,
+    "y": 4833490.151,
+    "longitude": -79.46487,
+    "latitude": 43.643346,
+    "object_id": 297,
+    "facility_name": "High Park - Childrens Kitchen",
+    "facility_type": "recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Back Door",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.356501,
+        43.700014
+      ]
+    },
+    "address": "21 Redway Rd",
+    "postal_code": "M4H 1P6",
+    "x": 316350.741,
+    "y": 4839794.106,
+    "longitude": -79.356501,
+    "latitude": 43.700014,
+    "object_id": 83,
+    "facility_name": "North Toronto Treatment Plant",
+    "facility_type": "Industrial Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Lunchroom",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.31804,
+        43.72327
+      ]
+    },
+    "address": "25 Old Eglinton Ave",
+    "postal_code": "M4A 0A2",
+    "x": 319444.735,
+    "y": 4842384.725,
+    "longitude": -79.31804,
+    "latitude": 43.72327,
+    "object_id": 93,
+    "facility_name": "Rexdale Employment  & Social Services",
+    "facility_type": "Industrial Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Lunch room- East Wall",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.360061,
+        43.674919
+      ]
+    },
+    "address": "1 Danforth Ave",
+    "postal_code": "M4K 1M8",
+    "x": 316068.495,
+    "y": 4837005.695,
+    "longitude": -79.360061,
+    "latitude": 43.674919,
+    "object_id": 2,
+    "facility_name": "City Adult Learning Centre",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Main Office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.378734,
+        43.650518
+      ]
+    },
+    "address": "2 Adelaide St W",
+    "postal_code": "M5H 1L6",
+    "x": 314566.687,
+    "y": 4834292.431,
+    "longitude": -79.378734,
+    "latitude": 43.650518,
+    "object_id": 12,
+    "facility_name": "Wellspring Cancer Support Foundation",
+    "facility_type": "Medical Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "east wall large activity room",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.566691,
+        43.689477
+      ]
+    },
+    "address": "5 Ludstone Dr",
+    "postal_code": "M9R 2H8",
+    "x": 299408.201,
+    "y": 4838615.712,
+    "longitude": -79.566691,
+    "latitude": 43.689477,
+    "object_id": 24,
+    "facility_name": "Transfiguration of Our Lord Ca",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "RHS Office Window",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.325949,
+        43.656455
+      ]
+    },
+    "address": "9 Leslie St",
+    "postal_code": "M4M 3M9",
+    "x": 318823.365,
+    "y": 4834959.521,
+    "longitude": -79.325949,
+    "latitude": 43.656455,
+    "object_id": 35,
+    "facility_name": "Ashbridges Bay Treatment Plant",
+    "facility_type": "Industrial Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Security Office",
+    "dev_count": 7
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.470645,
+        43.769461
+      ]
+    },
+    "address": "1026 Finch Ave W",
+    "postal_code": "M3J 2E1",
+    "x": 307147.949,
+    "y": 4847499.788,
+    "longitude": -79.470645,
+    "latitude": 43.769461,
+    "object_id": 589,
+    "facility_name": "Finch Yard - Bldg D (Alness T.",
+    "facility_type": "Industrial Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "1st Flr - Lunchroom",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.520131,
+        43.608164
+      ]
+    },
+    "address": "435 Kipling Ave",
+    "postal_code": "M8Z 5E7",
+    "x": 303159.369,
+    "y": 4829580.323,
+    "longitude": -79.520131,
+    "latitude": 43.608164,
+    "object_id": 463,
+    "facility_name": "Kipling Yard - District Operat",
+    "facility_type": "Industrial Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "2nd Flr Reception Lobby",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.387532,
+        43.767109
+      ]
+    },
+    "address": "550 Sheppard Ave E",
+    "postal_code": "M2K 3C8",
+    "x": 313839.539,
+    "y": 4847244.116,
+    "longitude": -79.387532,
+    "latitude": 43.767109,
+    "object_id": 490,
+    "facility_name": "TTC - Bayview Station",
+    "facility_type": "Transportation Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Bayview",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.515844,
+        43.742445
+      ]
+    },
+    "address": "25 Stanley Rd",
+    "postal_code": "M3N 1C2",
+    "x": 303508.453,
+    "y": 4844498.149,
+    "longitude": -79.515844,
+    "latitude": 43.742445,
+    "object_id": 92,
+    "facility_name": "Domenico DiLuca Community Centre",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Reception",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.475652,
+        43.690859
+      ]
+    },
+    "address": "2 Trethewey Dr",
+    "postal_code": "M6M 4A8",
+    "x": 306747.222,
+    "y": 4838767.351,
+    "longitude": -79.475652,
+    "latitude": 43.690859,
+    "object_id": 13,
+    "facility_name": "Continuing Education-TDSB",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "N/A",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.426284,
+        43.776649
+      ]
+    },
+    "address": "7 Edithvale Dr",
+    "postal_code": "M2N 2R4",
+    "x": 310718.604,
+    "y": 4848300.577,
+    "longitude": -79.426284,
+    "latitude": 43.776649,
+    "object_id": 26,
+    "facility_name": "Edithvale CC",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Maintenance Office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.380348,
+        43.645528
+      ]
+    },
+    "address": "65 Front St W",
+    "postal_code": "M5J 1E6",
+    "x": 314437.265,
+    "y": 4833737.913,
+    "longitude": -79.380348,
+    "latitude": 43.645528,
+    "object_id": 188,
+    "facility_name": "Union Station",
+    "facility_type": "Transportation Facility",
+    "unit": "402",
+    "unit_type": "RM",
+    "dev_loc": "Great Hall",
+    "dev_count": 3
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.396707,
+        43.708696
+      ]
+    },
+    "address": "70 Roehampton Ave",
+    "postal_code": "M4P 1R2",
+    "x": 313108.868,
+    "y": 4840753.954,
+    "longitude": -79.396707,
+    "latitude": 43.708696,
+    "object_id": 196,
+    "facility_name": "North Toronto C I",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "NA",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.298272,
+        43.695845
+      ]
+    },
+    "address": "200 Dawes Rd",
+    "postal_code": "M4C 5M8",
+    "x": 321045.096,
+    "y": 4839340.654,
+    "longitude": -79.298272,
+    "latitude": 43.695845,
+    "object_id": 347,
+    "facility_name": "True Davidson Acres",
+    "facility_type": "Medical Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Main Entrance",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.372697,
+        43.711133
+      ]
+    },
+    "address": "200 Hanna Rd",
+    "postal_code": "M4G 3N8",
+    "x": 315043.361,
+    "y": 4841027.245,
+    "longitude": -79.372697,
+    "latitude": 43.711133,
+    "object_id": 348,
+    "facility_name": "Leaside HS",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Outside Main Office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.403446,
+        43.691396
+      ]
+    },
+    "address": "200 Lonsdale Rd",
+    "postal_code": "M4V 1W6",
+    "x": 312568.056,
+    "y": 4838831.251,
+    "longitude": -79.403446,
+    "latitude": 43.691396,
+    "object_id": 350,
+    "facility_name": "Upper Canada College",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Upper School Lett Gym",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.486876,
+        43.694579
+      ]
+    },
+    "address": "200 Trethewey Dr",
+    "postal_code": "M6M 5E6",
+    "x": 305842.382,
+    "y": 4839180.461,
+    "longitude": -79.486876,
+    "latitude": 43.694579,
+    "object_id": 351,
+    "facility_name": "TPS - 12 Division",
+    "facility_type": "Law enforcement agency",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Front Doors",
+    "dev_count": 2
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.486876,
+        43.694579
+      ]
+    },
+    "address": "200 Trethewey Dr",
+    "postal_code": "M6M 5E6",
+    "x": 305842.382,
+    "y": 4839180.461,
+    "longitude": -79.486876,
+    "latitude": 43.694579,
+    "object_id": 352,
+    "facility_name": "TPS - 12 Division",
+    "facility_type": "Law enforcement agency",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Cells - Youth Bureau",
+    "dev_count": 2
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.361052,
+        43.667321
+      ]
+    },
+    "address": "201 Winchester St",
+    "postal_code": "M4X 1B8",
+    "x": 315989.682,
+    "y": 4836162.379,
+    "longitude": -79.361052,
+    "latitude": 43.667321,
+    "object_id": 356,
+    "facility_name": "Riverdale Farm",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Simpson House",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.407513,
+        43.788258
+      ]
+    },
+    "address": "205 Cummer Ave",
+    "postal_code": "M2M 2E8",
+    "x": 312228.203,
+    "y": 4849591.837,
+    "longitude": -79.407513,
+    "latitude": 43.788258,
+    "object_id": 358,
+    "facility_name": "Cummer Lodge",
+    "facility_type": "Medical Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "By Elevators",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.455753,
+        43.761359
+      ]
+    },
+    "address": "205 Wilmington Ave",
+    "postal_code": "M3H 6B3",
+    "x": 308347.336,
+    "y": 4846600.234,
+    "longitude": -79.455753,
+    "latitude": 43.761359,
+    "object_id": 359,
+    "facility_name": "Irving W Chapley CC",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "North Changeroom Wall",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.60684,
+        43.729167
+      ]
+    },
+    "address": "205 Humber College Blvd",
+    "postal_code": "M9W 5L7",
+    "x": 296177.016,
+    "y": 4843029.41,
+    "longitude": -79.60684,
+    "latitude": 43.729167,
+    "object_id": 360,
+    "facility_name": "Humber Community Pool",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "N wall, main lobby",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.436072,
+        43.639666
+      ]
+    },
+    "address": "209 Jameson Ave",
+    "postal_code": "M6K 2Y3",
+    "x": 309942.31,
+    "y": 4833081.726,
+    "longitude": -79.436072,
+    "latitude": 43.639666,
+    "object_id": 361,
+    "facility_name": "Parkdale CI",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Outside Main Office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.403041,
+        43.801525
+      ]
+    },
+    "address": "211 Steeles Ave E",
+    "postal_code": "M2M 3Y6",
+    "x": 312586.416,
+    "y": 4851066.111,
+    "longitude": -79.403041,
+    "latitude": 43.801525,
+    "object_id": 363,
+    "facility_name": "Brebeuf Catholic High School",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Main Ent. Doors by staircase",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.421255,
+        43.754369
+      ]
+    },
+    "address": "211 Cameron Ave",
+    "postal_code": "M2N 1E8",
+    "x": 311125.817,
+    "y": 4845825.697,
+    "longitude": -79.421255,
+    "latitude": 43.754369,
+    "object_id": 364,
+    "facility_name": "Cameron P.S",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Outside main  office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.300799,
+        43.686404
+      ]
+    },
+    "address": "213 Main St",
+    "postal_code": null,
+    "x": 320843.925,
+    "y": 4838291.311,
+    "longitude": -79.300799,
+    "latitude": 43.686404,
+    "object_id": 365,
+    "facility_name": "Go Transit - Danforth Station",
+    "facility_type": "Transportation Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Main Common Area",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.433234,
+        43.640725
+      ]
+    },
+    "address": "220 Cowan Ave",
+    "postal_code": "M6K 2N6",
+    "x": 310171.205,
+    "y": 4833199.5,
+    "longitude": -79.433234,
+    "latitude": 43.640725,
+    "object_id": 366,
+    "facility_name": "Masaryk-Cowan CRC",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Reception",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.588197,
+        43.691038
+      ]
+    },
+    "address": "220 Attwell Dr",
+    "postal_code": "M9W 5B2",
+    "x": 297674.638,
+    "y": 4838790.775,
+    "longitude": -79.588197,
+    "latitude": 43.691038,
+    "object_id": 367,
+    "facility_name": "Attwell Employment & Social Services",
+    "facility_type": "Office",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Reception",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.39085,
+        43.707912
+      ]
+    },
+    "address": "223 Eglinton Ave E",
+    "postal_code": "M4P 1L1",
+    "x": 313580.997,
+    "y": 4840667.437,
+    "longitude": -79.39085,
+    "latitude": 43.707912,
+    "object_id": 368,
+    "facility_name": "Eglinton PS",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Outside main  office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.524192,
+        43.769709
+      ]
+    },
+    "address": "230 Gosford Blvd",
+    "postal_code": "M3N 2H1",
+    "x": 302836.938,
+    "y": 4847527.192,
+    "longitude": -79.524192,
+    "latitude": 43.769709,
+    "object_id": 370,
+    "facility_name": "John Booth Memorial Arena",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "lobby",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.364983,
+        43.649806
+      ]
+    },
+    "address": "230 The Esplanade",
+    "postal_code": "M5A 4J6",
+    "x": 315676.054,
+    "y": 4834215.082,
+    "longitude": -79.364983,
+    "latitude": 43.649806,
+    "object_id": 371,
+    "facility_name": "St. Lawrence CRC",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Reception",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.495401,
+        43.664682
+      ]
+    },
+    "address": "230 Humbercrest Blvd",
+    "postal_code": "M6S 4L3",
+    "x": 305155.232,
+    "y": 4835859.008,
+    "longitude": -79.495401,
+    "latitude": 43.664682,
+    "object_id": 372,
+    "facility_name": "St. James Separate School",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Outside Main Office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.402178,
+        43.678363
+      ]
+    },
+    "address": "235 Cottingham St",
+    "postal_code": "M4V 1C7",
+    "x": 312671.878,
+    "y": 4837383.384,
+    "longitude": -79.402178,
+    "latitude": 43.678363,
+    "object_id": 374,
+    "facility_name": "High Level Pumping Station",
+    "facility_type": "Industrial Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Lower Office Area",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.398386,
+        43.657926
+      ]
+    },
+    "address": "239 College St",
+    "postal_code": "M5T 1R5",
+    "x": 312980.403,
+    "y": 4835113.329,
+    "longitude": -79.398386,
+    "latitude": 43.657926,
+    "object_id": 375,
+    "facility_name": "TPL - Lillian H. Smith",
+    "facility_type": "Library",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Circulation Desk",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.412555,
+        43.634539
+      ]
+    },
+    "address": "100 Princes Blvd",
+    "postal_code": "M6K 3C3",
+    "x": 311840.298,
+    "y": 4832513.748,
+    "longitude": -79.412555,
+    "latitude": 43.634539,
+    "object_id": 255,
+    "facility_name": "Exhibition Place Grounds",
+    "facility_type": "Convention Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Mobile Security",
+    "dev_count": 14
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.412555,
+        43.634539
+      ]
+    },
+    "address": "100 Princes Blvd",
+    "postal_code": "M6K 3C3",
+    "x": 311840.298,
+    "y": 4832513.748,
+    "longitude": -79.412555,
+    "latitude": 43.634539,
+    "object_id": 257,
+    "facility_name": "Exhibition Place Grounds",
+    "facility_type": "Convention Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Queen Eliz. Exhibit Hall",
+    "dev_count": 14
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.412555,
+        43.634539
+      ]
+    },
+    "address": "100 Princes Blvd",
+    "postal_code": "M6K 3C3",
+    "x": 311840.298,
+    "y": 4832513.748,
+    "longitude": -79.412555,
+    "latitude": 43.634539,
+    "object_id": 259,
+    "facility_name": "Exhibition Place Grounds",
+    "facility_type": "Convention Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "General Services Building",
+    "dev_count": 14
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.50523,
+        43.688012
+      ]
+    },
+    "address": "100 Emmett Ave",
+    "postal_code": "M6M 2E6",
+    "x": 304362.766,
+    "y": 4838450.88,
+    "longitude": -79.50523,
+    "latitude": 43.688012,
+    "object_id": 261,
+    "facility_name": "York Humber HS",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "NA",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.509425,
+        43.703825
+      ]
+    },
+    "address": "100 Pine St",
+    "postal_code": "M9N 2Y9",
+    "x": 304024.852,
+    "y": 4840207.646,
+    "longitude": -79.509425,
+    "latitude": 43.703825,
+    "object_id": 262,
+    "facility_name": "Weston CI",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Outside Office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.546051,
+        43.702635
+      ]
+    },
+    "address": "100 Golfwood Hts",
+    "postal_code": null,
+    "x": 301072.792,
+    "y": 4840076.549,
+    "longitude": -79.546051,
+    "latitude": 43.702635,
+    "object_id": 263,
+    "facility_name": "Fairhaven ODP",
+    "facility_type": "Outdoor Seasonal Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Pool Office / AIR Change Room",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.156842,
+        43.761639
+      ]
+    },
+    "address": "101 Copperfield Rd",
+    "postal_code": null,
+    "x": 332414.991,
+    "y": 4846687.228,
+    "longitude": -79.156842,
+    "latitude": 43.761639,
+    "object_id": 264,
+    "facility_name": "East Point Park",
+    "facility_type": "Outdoor Seasonal Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "By Concession Stand",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.359459,
+        43.784899
+      ]
+    },
+    "address": "101 Van Horne Ave",
+    "postal_code": "M2J 2S8",
+    "x": 316096.384,
+    "y": 4849223.994,
+    "longitude": -79.359459,
+    "latitude": 43.784899,
+    "object_id": 265,
+    "facility_name": "St. Matthias Catholic School",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Outside Main Office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.317299,
+        43.66918
+      ]
+    },
+    "address": "101 Coxwell Ave",
+    "postal_code": "M4L 3B3",
+    "x": 319517.89,
+    "y": 4836374.719,
+    "longitude": -79.317299,
+    "latitude": 43.66918,
+    "object_id": 266,
+    "facility_name": "TPS - 55 Division",
+    "facility_type": "Law enforcement agency",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Booking Hall",
+    "dev_count": 2
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.317299,
+        43.66918
+      ]
+    },
+    "address": "101 Coxwell Ave",
+    "postal_code": "M4L 3B3",
+    "x": 319517.89,
+    "y": 4836374.719,
+    "longitude": -79.317299,
+    "latitude": 43.66918,
+    "object_id": 267,
+    "facility_name": "TPS - 55 Division",
+    "facility_type": "Law enforcement agency",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Front Lobby - West",
+    "dev_count": 2
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.41066,
+        43.741305
+      ]
+    },
+    "address": "101 Mason Blvd",
+    "postal_code": "M5M 3E2",
+    "x": 311980.539,
+    "y": 4844375.179,
+    "longitude": -79.41066,
+    "latitude": 43.741305,
+    "object_id": 268,
+    "facility_name": "Loretto Abbey Catholic H.S",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "near main office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.516333,
+        43.634314
+      ]
+    },
+    "address": "105 Norseman St",
+    "postal_code": "M8Z 2R1",
+    "x": 303466.404,
+    "y": 4832485.423,
+    "longitude": -79.516333,
+    "latitude": 43.634314,
+    "object_id": 269,
+    "facility_name": "Norseman CS & Pool",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Admin Office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.536848,
+        43.686252
+      ]
+    },
+    "address": "111 Sun Row Dr",
+    "postal_code": "M9P 3J3",
+    "x": 301813.733,
+    "y": 4838256.082,
+    "longitude": -79.536848,
+    "latitude": 43.686252,
+    "object_id": 271,
+    "facility_name": "Father Serra Catholic School",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Outside Office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.278948,
+        43.825398
+      ]
+    },
+    "address": "255 Alton Towers Crcl",
+    "postal_code": "M1V 4E7",
+    "x": 322564.679,
+    "y": 4853737.362,
+    "longitude": -79.278948,
+    "latitude": 43.825398,
+    "object_id": 381,
+    "facility_name": "Prince of Peace Catholic School",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Outside Office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.176942,
+        43.768864
+      ]
+    },
+    "address": "292 Manse Rd",
+    "postal_code": "M1E 3V4",
+    "x": 330793.529,
+    "y": 4847483.451,
+    "longitude": -79.176942,
+    "latitude": 43.768864,
+    "object_id": 397,
+    "facility_name": "Heron Park CRC",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Reception",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.421019,
+        43.65164
+      ]
+    },
+    "address": "319 Ossington Ave",
+    "postal_code": "M6J 3A6",
+    "x": 311155.554,
+    "y": 4834412.961,
+    "longitude": -79.421019,
+    "latitude": 43.65164,
+    "object_id": 406,
+    "facility_name": "TCDSB - St. Luke",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Outside Main Office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.403464,
+        43.657581
+      ]
+    },
+    "address": "340 College St",
+    "postal_code": "M5T 3A9",
+    "x": 312570.842,
+    "y": 4835074.523,
+    "longitude": -79.403464,
+    "latitude": 43.657581,
+    "object_id": 416,
+    "facility_name": "Public Health- College St.",
+    "facility_type": "Medical Facility",
+    "unit": "370",
+    "unit_type": "STE",
+    "dev_loc": "Reception - 3rd Floor",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.186718,
+        43.825363
+      ]
+    },
+    "address": "361A Old Finch Ave",
+    "postal_code": "M1B 5K7",
+    "x": 329982.886,
+    "y": 4853757.286,
+    "longitude": -79.186718,
+    "latitude": 43.825363,
+    "object_id": 427,
+    "facility_name": "Toronto Zoo (Security)",
+    "facility_type": "Entertainment Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Mobile Response",
+    "dev_count": 10
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.316093,
+        43.698507
+      ]
+    },
+    "address": "375 Cedarvale Ave",
+    "postal_code": "M4C 4K7",
+    "x": 319608.002,
+    "y": 4839633.05,
+    "longitude": -79.316093,
+    "latitude": 43.698507,
+    "object_id": 443,
+    "facility_name": "Kiwanis ODP",
+    "facility_type": "Outdoor Seasonal Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Pool Office / AIR Change Room",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.550061,
+        43.623682
+      ]
+    },
+    "address": "146 The East Mall",
+    "postal_code": "M8Z 5V5",
+    "x": 300744.266,
+    "y": 4831305.325,
+    "longitude": -79.550061,
+    "latitude": 43.623682,
+    "object_id": 303,
+    "facility_name": "Animal Services West",
+    "facility_type": "Office",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "By employee Entrance",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.424935,
+        43.650633
+      ]
+    },
+    "address": "150 Harrison St",
+    "postal_code": "M6J 2A4",
+    "x": 310839.776,
+    "y": 4834300.817,
+    "longitude": -79.424935,
+    "latitude": 43.650633,
+    "object_id": 312,
+    "facility_name": "TPS - 14 Division",
+    "facility_type": "Law enforcement agency",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Front Desk",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.45353,
+        43.736398
+      ]
+    },
+    "address": "160 Transit Rd",
+    "postal_code": "M3H 6C3",
+    "x": 308527.855,
+    "y": 4843827.208,
+    "longitude": -79.45353,
+    "latitude": 43.736398,
+    "object_id": 323,
+    "facility_name": "TTC - Wilson Track And Structu",
+    "facility_type": "Transportation Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Shop Door (#12)",
+    "dev_count": 4
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.511815,
+        43.724048
+      ]
+    },
+    "address": "180 Chalkfarm Dr",
+    "postal_code": "M3L 2H8",
+    "x": 303832.597,
+    "y": 4842454.334,
+    "longitude": -79.511815,
+    "latitude": 43.724048,
+    "object_id": 335,
+    "facility_name": "Chalkfarm CC",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Main Lobby",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.379072,
+        43.645374
+      ]
+    },
+    "address": "140 Bay St",
+    "postal_code": "M5J 2L5",
+    "x": 314540.03,
+    "y": 4833721.828,
+    "longitude": -79.379072,
+    "latitude": 43.645374,
+    "object_id": 295,
+    "facility_name": "Go Transit - Union Station",
+    "facility_type": "Transportation Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "customer service area",
+    "dev_count": 2
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.196995,
+        43.747042
+      ]
+    },
+    "address": "145 Guildwood Pkwy",
+    "postal_code": "M1E 1P5",
+    "x": 329187.932,
+    "y": 4845053.067,
+    "longitude": -79.196995,
+    "latitude": 43.747042,
+    "object_id": 298,
+    "facility_name": "Sir Wilfred Laurier CI",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Outside Main Office",
+    "dev_count": 2
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.377157,
+        43.669808
+      ]
+    },
+    "address": "146 Isabella St",
+    "postal_code": "M4Y 1P6",
+    "x": 314690.777,
+    "y": 4836435.656,
+    "longitude": -79.377157,
+    "latitude": 43.669808,
+    "object_id": 300,
+    "facility_name": "TCDSB-Monsignor Fraser - Isabe",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Main Entrance",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.510182,
+        43.718911
+      ]
+    },
+    "address": "20 Beverly Hills Dr",
+    "postal_code": "M3L 1A1",
+    "x": 303964.083,
+    "y": 4841883.578,
+    "longitude": -79.510182,
+    "latitude": 43.718911,
+    "object_id": 76,
+    "facility_name": "St. Philip Neri Catholic School",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Outside Main Office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.448028,
+        43.639437
+      ]
+    },
+    "address": "20 The Queensway",
+    "postal_code": "M6R 1B4",
+    "x": 308977.64,
+    "y": 4833055.594,
+    "longitude": -79.448028,
+    "latitude": 43.639437,
+    "object_id": 78,
+    "facility_name": "TTC - Roncesvalles Carhouse",
+    "facility_type": "Transportation Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "outside formans office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.448028,
+        43.639437
+      ]
+    },
+    "address": "20 The Queensway",
+    "postal_code": "M6R 1B4",
+    "x": 308977.64,
+    "y": 4833055.594,
+    "longitude": -79.448028,
+    "latitude": 43.639437,
+    "object_id": 79,
+    "facility_name": "TTC - Roncesvalles Division",
+    "facility_type": "Transportation Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Traffic Office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.534004,
+        43.727232
+      ]
+    },
+    "address": "20 Starview Lane",
+    "postal_code": "M9M 3B2",
+    "x": 302045.012,
+    "y": 4842808.609,
+    "longitude": -79.534004,
+    "latitude": 43.727232,
+    "object_id": 80,
+    "facility_name": "St. Basil-the-Great Catholic High School",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "hallway near gym",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.562456,
+        43.727735
+      ]
+    },
+    "address": "20 Fordwich Cres",
+    "postal_code": "M9W 2T4",
+    "x": 299752.807,
+    "y": 4842865.819,
+    "longitude": -79.562456,
+    "latitude": 43.727735,
+    "object_id": 81,
+    "facility_name": "Thistletown CI",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Outside Main Office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.471513,
+        43.770422
+      ]
+    },
+    "address": "21 Alness St",
+    "postal_code": "M3J 3H3",
+    "x": 307078.059,
+    "y": 4847606.493,
+    "longitude": -79.471513,
+    "latitude": 43.770422,
+    "object_id": 82,
+    "facility_name": "Alness Yard",
+    "facility_type": "Industrial Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Main enterance",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.581529,
+        43.746311
+      ]
+    },
+    "address": "21 Panorama Crt",
+    "postal_code": "M9V 4E3",
+    "x": 298218.251,
+    "y": 4844930.839,
+    "longitude": -79.581529,
+    "latitude": 43.746311,
+    "object_id": 84,
+    "facility_name": "Rexdale Employment  & Social Services",
+    "facility_type": "Office",
+    "unit": "21",
+    "unit_type": "STE",
+    "dev_loc": "Reception",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.518452,
+        43.687617
+      ]
+    },
+    "address": "22 Arcade Dr",
+    "postal_code": null,
+    "x": 303296.893,
+    "y": 4838407.189,
+    "longitude": -79.518452,
+    "latitude": 43.687617,
+    "object_id": 85,
+    "facility_name": "Westmount ODP",
+    "facility_type": "Outdoor Seasonal Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Pool Office / AIR Change Room",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.330593,
+        43.680796
+      ]
+    },
+    "address": "24 Mountjoy Ave",
+    "postal_code": "M4J 1J6",
+    "x": 318443.264,
+    "y": 4837662.954,
+    "longitude": -79.330593,
+    "latitude": 43.680796,
+    "object_id": 88,
+    "facility_name": "Greenwood SS",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Outside Office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.218762,
+        43.762321
+      ]
+    },
+    "address": "25 Janray Dr",
+    "postal_code": "M1G 1Y2",
+    "x": 327429.131,
+    "y": 4846744.327,
+    "longitude": -79.218762,
+    "latitude": 43.762321,
+    "object_id": 89,
+    "facility_name": "St. Barbara Catholic School",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Main Entrance Outside Office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.280492,
+        43.714912
+      ]
+    },
+    "address": "25 Mendelssohn St",
+    "postal_code": "M1L 0G6",
+    "x": 322472.682,
+    "y": 4841462.455,
+    "longitude": -79.280492,
+    "latitude": 43.714912,
+    "object_id": 90,
+    "facility_name": "Warden Hilltop CC",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Reception",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.34307,
+        43.771051
+      ]
+    },
+    "address": "25 Forest Manor Rd",
+    "postal_code": "M2J 1M4",
+    "x": 317418.377,
+    "y": 4847687.935,
+    "longitude": -79.34307,
+    "latitude": 43.771051,
+    "object_id": 91,
+    "facility_name": "Forest Manor JMS",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Outside Main Office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.375217,
+        43.647414
+      ]
+    },
+    "address": "27 Front St E",
+    "postal_code": "M5E 1B4",
+    "x": 314850.871,
+    "y": 4833948.016,
+    "longitude": -79.375217,
+    "latitude": 43.647414,
+    "object_id": 95,
+    "facility_name": "St. Lawrence Centre - Arts",
+    "facility_type": "Entertainment Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Bluma Appel Theatre",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.516542,
+        43.59515
+      ]
+    },
+    "address": "28 Colonel Samuel Smith Park Dr",
+    "postal_code": "M8V 4B7",
+    "x": 303448.789,
+    "y": 4828134.457,
+    "longitude": -79.516542,
+    "latitude": 43.59515,
+    "object_id": 97,
+    "facility_name": "Father John Redmond",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Outside Main Office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.331691,
+        43.717949
+      ]
+    },
+    "address": "29 St Dennis Dr",
+    "postal_code": "M3C 3J3",
+    "x": 318346.4,
+    "y": 4841790.39,
+    "longitude": -79.331691,
+    "latitude": 43.717949,
+    "object_id": 98,
+    "facility_name": "Dennis R. Timbrell Resources Centre",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Reception",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.399754,
+        43.696529
+      ]
+    },
+    "address": "29 Lascelles Blvd",
+    "postal_code": null,
+    "x": 312864.888,
+    "y": 4839401.81,
+    "longitude": -79.399754,
+    "latitude": 43.696529,
+    "object_id": 99,
+    "facility_name": "TTC - Davisville Carhouse",
+    "facility_type": "Transportation Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "outside formans office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.216389,
+        43.808576
+      ]
+    },
+    "address": "30 Sewell's Rd",
+    "postal_code": "M1B 3G5",
+    "x": 327602.663,
+    "y": 4851883.789,
+    "longitude": -79.216389,
+    "latitude": 43.808576,
+    "object_id": 100,
+    "facility_name": "Malvern RC",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Reception",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.242617,
+        43.796518
+      ]
+    },
+    "address": "1 Transfer Pl",
+    "postal_code": "M1S 5H8",
+    "x": 325496.666,
+    "y": 4850537.317,
+    "longitude": -79.242617,
+    "latitude": 43.796518,
+    "object_id": 1,
+    "facility_name": "Scarborough Transfer Station",
+    "facility_type": "Industrial Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Scale House",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.322772,
+        43.679281
+      ]
+    },
+    "address": "1 Hanson St",
+    "postal_code": "M4J 1G6",
+    "x": 319073.92,
+    "y": 4837496.879,
+    "longitude": -79.322772,
+    "latitude": 43.679281,
+    "object_id": 3,
+    "facility_name": "Monarch Park CI",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Outside Main Office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.439274,
+        43.667324
+      ]
+    },
+    "address": "1260 Dufferin St",
+    "postal_code": "M6H 4C3",
+    "x": 309681.683,
+    "y": 4836154.136,
+    "longitude": -79.439274,
+    "latitude": 43.667324,
+    "object_id": 626,
+    "facility_name": "Wallace Emerson CC",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "across from reception",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.582815,
+        43.739651
+      ]
+    },
+    "address": "1501 Albion Rd",
+    "postal_code": "M9V 1B2",
+    "x": 298113.632,
+    "y": 4844192.007,
+    "longitude": -79.582815,
+    "latitude": 43.739651,
+    "object_id": 652,
+    "facility_name": "Albion Arena",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Arena - East Entrance",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.348822,
+        43.665935
+      ]
+    },
+    "address": "701 Gerrard St E",
+    "postal_code": "M4M 1Y4",
+    "x": 316976.51,
+    "y": 4836009.154,
+    "longitude": -79.348822,
+    "latitude": 43.665935,
+    "object_id": 529,
+    "facility_name": "Eastdale CI",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Outside Main Office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.337519,
+        43.71859
+      ]
+    },
+    "address": "789 Don Mills Rd",
+    "postal_code": "M3C 1T5",
+    "x": 317876.362,
+    "y": 4841861.601,
+    "longitude": -79.337519,
+    "latitude": 43.71859,
+    "object_id": 552,
+    "facility_name": "Application Centre - Social Services",
+    "facility_type": "Office",
+    "unit": "9",
+    "unit_type": "FLR",
+    "dev_loc": "Health Room",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.313635,
+        43.696632
+      ]
+    },
+    "address": "901 Cosburn Ave",
+    "postal_code": "M4C 2W7",
+    "x": 319806.538,
+    "y": 4839425.209,
+    "longitude": -79.313635,
+    "latitude": 43.696632,
+    "object_id": 574,
+    "facility_name": "East York Curling Club",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Main Stairwell",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.468647,
+        43.769142
+      ]
+    },
+    "address": "1000 Finch Ave W",
+    "postal_code": "M3J 2V5",
+    "x": 307308.783,
+    "y": 4847464.361,
+    "longitude": -79.468647,
+    "latitude": 43.769142,
+    "object_id": 583,
+    "facility_name": "TPS - C - Toronto North",
+    "facility_type": "Law enforcement agency",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Booking Office",
+    "dev_count": 2
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.485464,
+        43.677086
+      ]
+    },
+    "address": "401 Alliance Ave",
+    "postal_code": "M6N 2J1",
+    "x": 305956.465,
+    "y": 4837237.092,
+    "longitude": -79.485464,
+    "latitude": 43.677086,
+    "object_id": 459,
+    "facility_name": "401 Alliance-TDSB",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "N/A",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.378038,
+        43.666261
+      ]
+    },
+    "address": "495 Jarvis St",
+    "postal_code": "M4Y 2G8",
+    "x": 314620.28,
+    "y": 4836041.471,
+    "longitude": -79.378038,
+    "latitude": 43.666261,
+    "object_id": 479,
+    "facility_name": "Jarvis CI",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "N/A",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.451237,
+        43.734112
+      ]
+    },
+    "address": "570 Wilson Ave",
+    "postal_code": null,
+    "x": 308712.43,
+    "y": 4843574.324,
+    "longitude": -79.451237,
+    "latitude": 43.734112,
+    "object_id": 497,
+    "facility_name": "TTC - Wilson Carhouse",
+    "facility_type": "Transportation Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Formans office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.493454,
+        43.730085
+      ]
+    },
+    "address": "5 Exbury Rd",
+    "postal_code": "M3M 0A8",
+    "x": 305311.594,
+    "y": 4843125.9,
+    "longitude": -79.493454,
+    "latitude": 43.730085,
+    "object_id": 509,
+    "facility_name": "St. Conrad Catholic School",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Outside Main Office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.387022,
+        43.650422
+      ]
+    },
+    "address": "250 University Ave",
+    "postal_code": "M5H 3E5",
+    "x": 313898.147,
+    "y": 4834280.842,
+    "longitude": -79.387022,
+    "latitude": 43.650422,
+    "object_id": 379,
+    "facility_name": "TTC - Osgoode Station",
+    "facility_type": "Transportation Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Osgoode",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.370177,
+        43.714632
+      ]
+    },
+    "address": "305 Rumsey Rd",
+    "postal_code": "M4G 1R4",
+    "x": 315245.869,
+    "y": 4841416.331,
+    "longitude": -79.370177,
+    "latitude": 43.714632,
+    "object_id": 403,
+    "facility_name": "Northlea Elementary   Middle School",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Outside Main Office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.186718,
+        43.825363
+      ]
+    },
+    "address": "361A Old Finch Ave",
+    "postal_code": "M1B 5K7",
+    "x": 329982.886,
+    "y": 4853757.286,
+    "longitude": -79.186718,
+    "latitude": 43.825363,
+    "object_id": 431,
+    "facility_name": "Toronto Zoo (Security)",
+    "facility_type": "Entertainment Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Indo Pavilion",
+    "dev_count": 10
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.225402,
+        43.803343
+      ]
+    },
+    "address": "150 Tapscott Rd",
+    "postal_code": "M1B 2L2",
+    "x": 326879.485,
+    "y": 4851299.904,
+    "longitude": -79.225402,
+    "latitude": 43.803343,
+    "object_id": 306,
+    "facility_name": "Lester B Pearson CI",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Across from Library Entrance",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.333906,
+        43.787496
+      ]
+    },
+    "address": "175 Brian Dr",
+    "postal_code": "M2J 3Y8",
+    "x": 318152.475,
+    "y": 4849516.359,
+    "longitude": -79.333906,
+    "latitude": 43.787496,
+    "object_id": 330,
+    "facility_name": "Pleasant View JHS",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Outside main office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.331423,
+        43.67775
+      ]
+    },
+    "address": "400 Greenwood Ave",
+    "postal_code": "M4J 4Y5",
+    "x": 318377.012,
+    "y": 4837324.421,
+    "longitude": -79.331423,
+    "latitude": 43.67775,
+    "object_id": 451,
+    "facility_name": "TTC - Greenwood Carhouse",
+    "facility_type": "Transportation Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Outside Formans office ET-C6",
+    "dev_count": 5
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.293417,
+        43.785228
+      ]
+    },
+    "address": "155 Bonis Ave",
+    "postal_code": "M1T 3W6",
+    "x": 321411.818,
+    "y": 4849271.615,
+    "longitude": -79.293417,
+    "latitude": 43.785228,
+    "object_id": 316,
+    "facility_name": "TPL - Agincourt District",
+    "facility_type": "Library",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "3rd Checkout Desk",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.519517,
+        43.714273
+      ]
+    },
+    "address": "171 Pellatt Ave",
+    "postal_code": "M9N 2P5",
+    "x": 303211.796,
+    "y": 4841368.496,
+    "longitude": -79.519517,
+    "latitude": 43.714273,
+    "object_id": 329,
+    "facility_name": "Pelmo Park CC",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Reception",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.326383,
+        43.780722
+      ]
+    },
+    "address": "200 Old Sheppard Ave",
+    "postal_code": "M2J 3L9",
+    "x": 318759.545,
+    "y": 4848764.97,
+    "longitude": -79.326383,
+    "latitude": 43.780722,
+    "object_id": 342,
+    "facility_name": "St. Gerald Catholic School",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "O/S Main Off - RHS Main Doors",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.207135,
+        43.757439
+      ]
+    },
+    "address": "225 Confederation Dr",
+    "postal_code": "M1G 1B2",
+    "x": 328367.187,
+    "y": 4846205.175,
+    "longitude": -79.207135,
+    "latitude": 43.757439,
+    "object_id": 369,
+    "facility_name": "Cedar Ridge CC",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Outside office area",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.412555,
+        43.634539
+      ]
+    },
+    "address": "100 Princes Blvd",
+    "postal_code": "M6K 3C3",
+    "x": 311840.298,
+    "y": 4832513.748,
+    "longitude": -79.412555,
+    "latitude": 43.634539,
+    "object_id": 260,
+    "facility_name": "Go Transit - Exhibition Station",
+    "facility_type": "Transportation Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "main common area",
+    "dev_count": 14
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.554165,
+        43.668125
+      ]
+    },
+    "address": "130 Lloyd Manor Rd",
+    "postal_code": "M9B 5K1",
+    "x": 300416.39,
+    "y": 4836242.908,
+    "longitude": -79.554165,
+    "latitude": 43.668125,
+    "object_id": 289,
+    "facility_name": "John G. Althouse CS",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Outside CS office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.381755,
+        43.652112
+      ]
+    },
+    "address": "60 Queen St W",
+    "postal_code": "M5H 2M3",
+    "x": 314322.726,
+    "y": 4834469.244,
+    "longitude": -79.381755,
+    "latitude": 43.652112,
+    "object_id": 179,
+    "facility_name": "TPS - C - Old City Hall",
+    "facility_type": "Law enforcement agency",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Supervisor Area - Main cells",
+    "dev_count": 3
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.415761,
+        43.675909
+      ]
+    },
+    "address": "1138 Bathurst St",
+    "postal_code": "M5R 3H2",
+    "x": 311576.905,
+    "y": 4837109.598,
+    "longitude": -79.415761,
+    "latitude": 43.675909,
+    "object_id": 607,
+    "facility_name": "TTC - Hillcrest Complex",
+    "facility_type": "Transportation Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Duncan Shop 1st floor",
+    "dev_count": 10
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.352344,
+        43.677701
+      ]
+    },
+    "address": "370 Danforth Ave",
+    "postal_code": "M4K 1N8",
+    "x": 316690.146,
+    "y": 4837315.827,
+    "longitude": -79.352344,
+    "latitude": 43.677701,
+    "object_id": 438,
+    "facility_name": "TTC - Chester Station",
+    "facility_type": "Transportation Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Chester",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.28394,
+        43.694441
+      ]
+    },
+    "address": "63 Pharmacy Ave",
+    "postal_code": "M1L 4S9",
+    "x": 322200.777,
+    "y": 4839187.539,
+    "longitude": -79.28394,
+    "latitude": 43.694441,
+    "object_id": 182,
+    "facility_name": "Oakridge CRC",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Reception",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.388868,
+        43.664445
+      ]
+    },
+    "address": "74 Wellesley St W",
+    "postal_code": "M5S 1C4",
+    "x": 313747.119,
+    "y": 4835838.585,
+    "longitude": -79.388868,
+    "latitude": 43.664445,
+    "object_id": 205,
+    "facility_name": "St. Joseph s College",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Outside Main Offie",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.301571,
+        43.691781
+      ]
+    },
+    "address": "91 Barrington Ave",
+    "postal_code": "M4C 4Y9",
+    "x": 320780.239,
+    "y": 4838888.478,
+    "longitude": -79.301571,
+    "latitude": 43.691781,
+    "object_id": 228,
+    "facility_name": "Secord CC",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Main Enterance",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.412555,
+        43.634539
+      ]
+    },
+    "address": "100 Princes Blvd",
+    "postal_code": "M6K 3C3",
+    "x": 311840.298,
+    "y": 4832513.748,
+    "longitude": -79.412555,
+    "latitude": 43.634539,
+    "object_id": 250,
+    "facility_name": "Exhibition Place Grounds",
+    "facility_type": "Convention Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Queen Eliz - Exec Offices",
+    "dev_count": 14
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.470746,
+        43.761732
+      ]
+    },
+    "address": "35 Vanley Cres",
+    "postal_code": "M3J 2B7",
+    "x": 307140.147,
+    "y": 4846641.106,
+    "longitude": -79.470746,
+    "latitude": 43.761732,
+    "object_id": 114,
+    "facility_name": "Dufferin Transfer Station",
+    "facility_type": "Industrial Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Scale House",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.591418,
+        43.721031
+      ]
+    },
+    "address": "42 Mercury Rd",
+    "postal_code": "M9W 3H5",
+    "x": 297418.704,
+    "y": 4842123.119,
+    "longitude": -79.591418,
+    "latitude": 43.721031,
+    "object_id": 137,
+    "facility_name": "Flagstaff ODP",
+    "facility_type": "Outdoor Seasonal Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Pool Office / AIR Change Room",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.362142,
+        43.651951
+      ]
+    },
+    "address": "51 Parliament St",
+    "postal_code": "M5A 2Y5",
+    "x": 315904.847,
+    "y": 4834453.786,
+    "longitude": -79.362142,
+    "latitude": 43.651951,
+    "object_id": 164,
+    "facility_name": "TPS - 51 Division",
+    "facility_type": "Law enforcement agency",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Booking Hall",
+    "dev_count": 2
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.310548,
+        43.808054
+      ]
+    },
+    "address": "3159 Birchmount Rd",
+    "postal_code": null,
+    "x": 320027.302,
+    "y": 4851804.31,
+    "longitude": -79.310548,
+    "latitude": 43.808054,
+    "object_id": 755,
+    "facility_name": "Kidstown ODP",
+    "facility_type": "Outdoor Seasonal Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Pool Office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.408423,
+        43.749366
+      ]
+    },
+    "address": "4200 Yonge St",
+    "postal_code": "M2P 1N9",
+    "x": 312159.72,
+    "y": 4845270.868,
+    "longitude": -79.408423,
+    "latitude": 43.749366,
+    "object_id": 779,
+    "facility_name": "Don Valley Golf Course",
+    "facility_type": "Outdoor Seasonal Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Right of the Bar",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.413604,
+        43.768847
+      ]
+    },
+    "address": "5160 Yonge St",
+    "postal_code": "M2N 6L9",
+    "x": 311740.241,
+    "y": 4847434.681,
+    "longitude": -79.413604,
+    "latitude": 43.768847,
+    "object_id": 804,
+    "facility_name": "TTC - 5160 Yonge St.",
+    "facility_type": "Transportation Facility",
+    "unit": "9",
+    "unit_type": "FLR",
+    "dev_loc": "9th floor kitchen",
+    "dev_count": 3
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.444286,
+        43.776286
+      ]
+    },
+    "address": "5700 Bathurst St",
+    "postal_code": "M2R 3N4",
+    "x": 309269.267,
+    "y": 4848259.985,
+    "longitude": -79.444286,
+    "latitude": 43.776286,
+    "object_id": 813,
+    "facility_name": "EMS - District 5",
+    "facility_type": "Emergency Services",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "2nd FL By Elevator",
+    "dev_count": 2
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.235111,
+        43.77554
+      ]
+    },
+    "address": "1967 Ellesmere Rd",
+    "postal_code": "M1H 2W5",
+    "x": 326108.065,
+    "y": 4848208.646,
+    "longitude": -79.235111,
+    "latitude": 43.77554,
+    "object_id": 691,
+    "facility_name": "Scarborough Centennial CRC",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Ice Galaxy",
+    "dev_count": 2
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.30086,
+        43.785212
+      ]
+    },
+    "address": "2450 Birchmount Rd",
+    "postal_code": "M1T 2M5",
+    "x": 320812.76,
+    "y": 4849268.418,
+    "longitude": -79.30086,
+    "latitude": 43.785212,
+    "object_id": 718,
+    "facility_name": "Stephen Leacock CI",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Main Foyer",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.252159,
+        43.754895
+      ]
+    },
+    "address": "2920 Lawrence Ave E",
+    "postal_code": "M1P 2T8",
+    "x": 324742.522,
+    "y": 4845910.81,
+    "longitude": -79.252159,
+    "latitude": 43.754895,
+    "object_id": 746,
+    "facility_name": "Bendale Acres",
+    "facility_type": "Medical Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Main Lobby",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.390792,
+        43.682302
+      ]
+    },
+    "address": "16 Shaftesbury Ave",
+    "postal_code": null,
+    "x": 313589.397,
+    "y": 4837822.088,
+    "longitude": -79.390792,
+    "latitude": 43.682302,
+    "object_id": 622,
+    "facility_name": "TTC - Summerhill Station",
+    "facility_type": "Transportation Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Summerhill",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.527166,
+        43.685626
+      ]
+    },
+    "address": "1435 Royal York Rd",
+    "postal_code": "M9P 3A7",
+    "x": 302594.253,
+    "y": 4838186.277,
+    "longitude": -79.527166,
+    "latitude": 43.685626,
+    "object_id": 648,
+    "facility_name": "All Saints Catholic School",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Outside Main Office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.289258,
+        43.695178
+      ]
+    },
+    "address": "781 Victoria Park Ave",
+    "postal_code": "M4C 5S8",
+    "x": 321771.896,
+    "y": 4839268.305,
+    "longitude": -79.289258,
+    "latitude": 43.695178,
+    "object_id": 549,
+    "facility_name": "Dentonia Park Golf Course",
+    "facility_type": "Outdoor Seasonal Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Pro Shop",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.562584,
+        43.735479
+      ]
+    },
+    "address": "925 Albion Rd",
+    "postal_code": "M9V 1A6",
+    "x": 299743.206,
+    "y": 4843726.107,
+    "longitude": -79.562584,
+    "latitude": 43.735479,
+    "object_id": 575,
+    "facility_name": "Thistletown Seniors  Centre",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Reception",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.500073,
+        43.68361
+      ]
+    },
+    "address": "1000 Jane St",
+    "postal_code": "M6N 4E2",
+    "x": 304778.497,
+    "y": 4837961.761,
+    "longitude": -79.500073,
+    "latitude": 43.68361,
+    "object_id": 585,
+    "facility_name": "Scarlett Woods Golf Course",
+    "facility_type": "Outdoor Seasonal Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Pro Shop",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.377194,
+        43.672498
+      ]
+    },
+    "address": "420 Bloor St E",
+    "postal_code": "M4W 1H4",
+    "x": 314687.287,
+    "y": 4836734.474,
+    "longitude": -79.377194,
+    "latitude": 43.672498,
+    "object_id": 460,
+    "facility_name": "TTC - Sherbourne Station",
+    "facility_type": "Transportation Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Sherbourne",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.436706,
+        43.69103
+      ]
+    },
+    "address": "529 Vaughan Rd",
+    "postal_code": "M6C 2R1",
+    "x": 309886.802,
+    "y": 4838787.996,
+    "longitude": -79.436706,
+    "latitude": 43.69103,
+    "object_id": 483,
+    "facility_name": "Vaughan Road Academy",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Outside Main Office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.175711,
+        43.793104
+      ]
+    },
+    "address": "600 Morrish Rd",
+    "postal_code": "M1C 4Y1",
+    "x": 330882.114,
+    "y": 4850176.868,
+    "longitude": -79.175711,
+    "latitude": 43.793104,
+    "object_id": 507,
+    "facility_name": "Cardinal Leger Catholic School",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Main Entrance Adjacent Atrium",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.389718,
+        43.654209
+      ]
+    },
+    "address": "255 Dundas St W",
+    "postal_code": "M5T 2W5",
+    "x": 313680.155,
+    "y": 4834701.283,
+    "longitude": -79.389718,
+    "latitude": 43.654209,
+    "object_id": 383,
+    "facility_name": "TPS - 52 Division",
+    "facility_type": "Law enforcement agency",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "2nd Flr - Elevator",
+    "dev_count": 2
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.526726,
+        43.606276
+      ]
+    },
+    "address": "320 Horner Ave",
+    "postal_code": "M8W 1Z3",
+    "x": 302626.917,
+    "y": 4829370.748,
+    "longitude": -79.526726,
+    "latitude": 43.606276,
+    "object_id": 407,
+    "facility_name": "Horner Avenue Senior Centre",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Reception",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.186718,
+        43.825363
+      ]
+    },
+    "address": "361A Old Finch Ave",
+    "postal_code": "M1B 5K7",
+    "x": 329982.886,
+    "y": 4853757.286,
+    "longitude": -79.186718,
+    "latitude": 43.825363,
+    "object_id": 428,
+    "facility_name": "Toronto Zoo (Security)",
+    "facility_type": "Entertainment Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Mobile Response",
+    "dev_count": 10
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.424008,
+        43.726766
+      ]
+    },
+    "address": "146 Ledbury St",
+    "postal_code": null,
+    "x": 310906.886,
+    "y": 4842758.944,
+    "longitude": -79.424008,
+    "latitude": 43.726766,
+    "object_id": 301,
+    "facility_name": "Ledbury ODP",
+    "facility_type": "Outdoor Seasonal Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Pool Office - AIR change Room",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.371702,
+        43.653837
+      ]
+    },
+    "address": "171 Queen St E",
+    "postal_code": "M5A 1S2",
+    "x": 315133.371,
+    "y": 4834661.966,
+    "longitude": -79.371702,
+    "latitude": 43.653837,
+    "object_id": 327,
+    "facility_name": "TTC - Queen East Station",
+    "facility_type": "Transportation Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Queen West Side",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.404626,
+        43.706114
+      ]
+    },
+    "address": "200 Eglinton Ave W",
+    "postal_code": "M4R 1A7",
+    "x": 312470.973,
+    "y": 4840466.317,
+    "longitude": -79.404626,
+    "latitude": 43.706114,
+    "object_id": 349,
+    "facility_name": "North Toronto Memorial CC",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "2nd Flr Reception Desk",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.412555,
+        43.634539
+      ]
+    },
+    "address": "100 Princes Blvd",
+    "postal_code": "M6K 3C3",
+    "x": 311840.298,
+    "y": 4832513.748,
+    "longitude": -79.412555,
+    "latitude": 43.634539,
+    "object_id": 254,
+    "facility_name": "Exhibition Place Grounds",
+    "facility_type": "Convention Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Horse Palace- East ring side",
+    "dev_count": 14
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.545024,
+        43.659648
+      ]
+    },
+    "address": "126 Rathburn Rd",
+    "postal_code": "M9B 2K6",
+    "x": 301152.93,
+    "y": 4835300.655,
+    "longitude": -79.545024,
+    "latitude": 43.659648,
+    "object_id": 282,
+    "facility_name": "St. Gregory Catholic School",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Outside Office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.362269,
+        43.659214
+      ]
+    },
+    "address": "203 Sackville St",
+    "postal_code": null,
+    "x": 315893.008,
+    "y": 4835261.574,
+    "longitude": -79.362269,
+    "latitude": 43.659214,
+    "object_id": 357,
+    "facility_name": "Regent Park South CC",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Reception",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.412555,
+        43.634539
+      ]
+    },
+    "address": "100 Princes Blvd",
+    "postal_code": "M6K 3C3",
+    "x": 311840.298,
+    "y": 4832513.748,
+    "longitude": -79.412555,
+    "latitude": 43.634539,
+    "object_id": 256,
+    "facility_name": "Exhibition Place Grounds",
+    "facility_type": "Convention Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Better Living Centre - West",
+    "dev_count": 14
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.2831,
+        43.679243
+      ]
+    },
+    "address": "127 Victoria Park Ave",
+    "postal_code": "M4E 3S2",
+    "x": 322272.864,
+    "y": 4837499.321,
+    "longitude": -79.2831,
+    "latitude": 43.679243,
+    "object_id": 283,
+    "facility_name": "Neil McNeil",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "near main office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.230108,
+        43.729603
+      ]
+    },
+    "address": "24 Rockwood Dr",
+    "postal_code": "M1M 3N1",
+    "x": 326527.277,
+    "y": 4843106.488,
+    "longitude": -79.230108,
+    "latitude": 43.729603,
+    "object_id": 87,
+    "facility_name": "Halbert ODP",
+    "facility_type": "Outdoor Seasonal Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Pool Office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.563714,
+        43.642569
+      ]
+    },
+    "address": "1 Civic Centre Crt",
+    "postal_code": "M9C 2B3",
+    "x": 299644.062,
+    "y": 4833404.208,
+    "longitude": -79.563714,
+    "latitude": 43.642569,
+    "object_id": 8,
+    "facility_name": "1 Civic Centre-TDSB",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "N/A",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.325949,
+        43.656455
+      ]
+    },
+    "address": "9 Leslie St",
+    "postal_code": "M4M 3M9",
+    "x": 318823.365,
+    "y": 4834959.521,
+    "longitude": -79.325949,
+    "latitude": 43.656455,
+    "object_id": 30,
+    "facility_name": "Ashbridges Bay Treatment Plant",
+    "facility_type": "Industrial Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Grit Bldg",
+    "dev_count": 7
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.555489,
+        43.679019
+      ]
+    },
+    "address": "10 Denfield St",
+    "postal_code": "M9R 3H1",
+    "x": 300310.169,
+    "y": 4837454.161,
+    "longitude": -79.555489,
+    "latitude": 43.679019,
+    "object_id": 46,
+    "facility_name": "Central Etobicoke HS",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "NA",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.542785,
+        43.712835
+      ]
+    },
+    "address": "15 Grierson Rd",
+    "postal_code": "M9W 3R2",
+    "x": 301336.647,
+    "y": 4841209.576,
+    "longitude": -79.542785,
+    "latitude": 43.712835,
+    "object_id": 60,
+    "facility_name": "Pinepoint Arena",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Arena - Near Operators Office",
+    "dev_count": 2
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.407367,
+        43.769548
+      ]
+    },
+    "address": "100 Princess Ave",
+    "postal_code": "M2N 3R7",
+    "x": 312242.323,
+    "y": 4847513.121,
+    "longitude": -79.407367,
+    "latitude": 43.769548,
+    "object_id": 242,
+    "facility_name": "Earl Haig SS",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "N/A",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.259458,
+        43.697762
+      ]
+    },
+    "address": "3663 Danforth Ave",
+    "postal_code": "M1N 2G2",
+    "x": 324173.147,
+    "y": 4839561.861,
+    "longitude": -79.259458,
+    "latitude": 43.697762,
+    "object_id": 768,
+    "facility_name": "Birchmount Park CI",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Main Foyer",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.409812,
+        43.662713
+      ]
+    },
+    "address": "725 Bathurst St",
+    "postal_code": "M5S 2R5",
+    "x": 312058.189,
+    "y": 4835643.991,
+    "longitude": -79.409812,
+    "latitude": 43.662713,
+    "object_id": 539,
+    "facility_name": "Central Technical School",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Main Building",
+    "dev_count": 2
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.47916,
+        43.746667
+      ]
+    },
+    "address": "35 Carl Hall Rd",
+    "postal_code": "M3K 2B6",
+    "x": 306462.998,
+    "y": 4844967.208,
+    "longitude": -79.47916,
+    "latitude": 43.746667,
+    "object_id": 115,
+    "facility_name": "Downsview Park",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": "SITE",
+    "dev_loc": "N/A",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.348741,
+        43.781941
+      ]
+    },
+    "address": "2900 Don Mills Rd E",
+    "postal_code": "M2J 3B6",
+    "x": 316959.604,
+    "y": 4848896.881,
+    "longitude": -79.348741,
+    "latitude": 43.781941,
+    "object_id": 745,
+    "facility_name": "Woodbine JHS",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "outside Office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.334093,
+        43.682847
+      ]
+    },
+    "address": "800 Greenwood Ave",
+    "postal_code": "M4J 4B7",
+    "x": 318160.619,
+    "y": 4837890.243,
+    "longitude": -79.334093,
+    "latitude": 43.682847,
+    "object_id": 557,
+    "facility_name": "Danforth Collegiate & TI",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "unit 2",
+    "dev_count": 2
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.190591,
+        43.775677
+      ]
+    },
+    "address": "350 Morningside Ave",
+    "postal_code": "M1E 3G3",
+    "x": 329691.837,
+    "y": 4848236.195,
+    "longitude": -79.190591,
+    "latitude": 43.775677,
+    "object_id": 418,
+    "facility_name": "West Hill CI",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "N/A",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.484997,
+        43.677233
+      ]
+    },
+    "address": "391 Alliance Ave",
+    "postal_code": "M6N 2J1",
+    "x": 305994.116,
+    "y": 4837253.41,
+    "longitude": -79.484997,
+    "latitude": 43.677233,
+    "object_id": 445,
+    "facility_name": "TTC - Traction Power",
+    "facility_type": "Transportation Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Training Room",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.48716,
+        43.705951
+      ]
+    },
+    "address": "155 Culford Rd",
+    "postal_code": "M6M 4K6",
+    "x": 305819.325,
+    "y": 4840443.8,
+    "longitude": -79.48716,
+    "latitude": 43.705951,
+    "object_id": 315,
+    "facility_name": "Amesbury Sports Complex",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Maintenance Office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.389956,
+        43.715589
+      ]
+    },
+    "address": "190 Sherwood Ave",
+    "postal_code": null,
+    "x": 313651.937,
+    "y": 4841520.368,
+    "longitude": -79.389956,
+    "latitude": 43.715589,
+    "object_id": 340,
+    "facility_name": "Sherwood Park Yard",
+    "facility_type": "Industrial Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Main Entrance",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.166719,
+        43.759598
+      ]
+    },
+    "address": "201 Copperfield Rd",
+    "postal_code": "M1E 5G7",
+    "x": 331620.651,
+    "y": 4846457.204,
+    "longitude": -79.166719,
+    "latitude": 43.759598,
+    "object_id": 354,
+    "facility_name": "FJ Horgan Filtration Plant",
+    "facility_type": "Industrial Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Sub-level 4",
+    "dev_count": 3
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.412555,
+        43.634539
+      ]
+    },
+    "address": "100 Princes Blvd",
+    "postal_code": "M6K 3C3",
+    "x": 311840.298,
+    "y": 4832513.748,
+    "longitude": -79.412555,
+    "latitude": 43.634539,
+    "object_id": 253,
+    "facility_name": "Exhibition Place Grounds",
+    "facility_type": "Convention Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Ricoh Coliseum -East Concourse",
+    "dev_count": 14
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.493596,
+        43.693432
+      ]
+    },
+    "address": "121 Industry St",
+    "postal_code": "M6M 5B6",
+    "x": 305300.667,
+    "y": 4839052.991,
+    "longitude": -79.493596,
+    "latitude": 43.693432,
+    "object_id": 278,
+    "facility_name": "TTC - Mount Dennis Division",
+    "facility_type": "Transportation Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Traffic Office",
+    "dev_count": 2
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.432211,
+        43.720803
+      ]
+    },
+    "address": "20 Covington Rd",
+    "postal_code": "M6A 3C1",
+    "x": 310246.529,
+    "y": 4842095.865,
+    "longitude": -79.432211,
+    "latitude": 43.720803,
+    "object_id": 77,
+    "facility_name": "TPL - Barbara Frum and CC",
+    "facility_type": "Library",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Lobby",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.516542,
+        43.59515
+      ]
+    },
+    "address": "28 Colonel Samuel Smith Park Dr",
+    "postal_code": "M8V 4B7",
+    "x": 303448.789,
+    "y": 4828134.457,
+    "longitude": -79.516542,
+    "latitude": 43.59515,
+    "object_id": 96,
+    "facility_name": "Ken Cox CC",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Main Entrance",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.442363,
+        43.717997
+      ]
+    },
+    "address": "5 Replin Rd",
+    "postal_code": "M6A 2M8",
+    "x": 309428.768,
+    "y": 4841783.595,
+    "longitude": -79.442363,
+    "latitude": 43.717997,
+    "object_id": 23,
+    "facility_name": "Lawrence Heights CC",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Reception",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.380348,
+        43.645528
+      ]
+    },
+    "address": "65 Front St W",
+    "postal_code": "M5J 1E6",
+    "x": 314437.265,
+    "y": 4833737.913,
+    "longitude": -79.380348,
+    "latitude": 43.645528,
+    "object_id": 186,
+    "facility_name": "Union Station",
+    "facility_type": "Transportation Facility",
+    "unit": "402",
+    "unit_type": "RM",
+    "dev_loc": "Security Response",
+    "dev_count": 3
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.400662,
+        43.70606
+      ]
+    },
+    "address": "75 Eglinton Ave W",
+    "postal_code": "M4R 2G9",
+    "x": 312790.492,
+    "y": 4840460.658,
+    "longitude": -79.400662,
+    "latitude": 43.70606,
+    "object_id": 208,
+    "facility_name": "TPS - 53 Division",
+    "facility_type": "Law enforcement agency",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Front Desk",
+    "dev_count": 2
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.371988,
+        43.649444
+      ]
+    },
+    "address": "92 Front St E",
+    "postal_code": "M5E 1C4",
+    "x": 315111.031,
+    "y": 4834173.939,
+    "longitude": -79.371988,
+    "latitude": 43.649444,
+    "object_id": 229,
+    "facility_name": "St. Lawrence Market Complex",
+    "facility_type": "Commercial Retail Space",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "St. Lawrence South - Lobby",
+    "dev_count": 3
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.412555,
+        43.634539
+      ]
+    },
+    "address": "100 Princes Blvd",
+    "postal_code": "M6K 3C3",
+    "x": 311840.298,
+    "y": 4832513.748,
+    "longitude": -79.412555,
+    "latitude": 43.634539,
+    "object_id": 251,
+    "facility_name": "Exhibition Place Grounds",
+    "facility_type": "Convention Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Direct Energy -Heritage Court",
+    "dev_count": 14
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.291079,
+        43.720323
+      ]
+    },
+    "address": "38 Comstock Rd",
+    "postal_code": "M1L 4V8",
+    "x": 321618.075,
+    "y": 4842061.456,
+    "longitude": -79.291079,
+    "latitude": 43.720323,
+    "object_id": 124,
+    "facility_name": "TTC - Eglinton Garage",
+    "facility_type": "Transportation Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "By Formans office",
+    "dev_count": 2
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.594319,
+        43.731397
+      ]
+    },
+    "address": "45 Lynmont Rd",
+    "postal_code": "M9V 3W9",
+    "x": 297186.284,
+    "y": 4843275.016,
+    "longitude": -79.594319,
+    "latitude": 43.731397,
+    "object_id": 147,
+    "facility_name": "Albion Heights JMS  (TDSB)",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Outside Main Office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.37923,
+        43.645761
+      ]
+    },
+    "address": "55 Front St W",
+    "postal_code": null,
+    "x": 314527.479,
+    "y": 4833763.93,
+    "longitude": -79.37923,
+    "latitude": 43.645761,
+    "object_id": 168,
+    "facility_name": "TTC - Union Station",
+    "facility_type": "Transportation Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Union",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.303943,
+        43.815762
+      ]
+    },
+    "address": "3200 Kennedy Rd",
+    "postal_code": "M1V 3S8",
+    "x": 320556.675,
+    "y": 4852661.857,
+    "longitude": -79.303943,
+    "latitude": 43.815762,
+    "object_id": 757,
+    "facility_name": "Mary Ward Catholic High School",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Opposite Main Office Door",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.274582,
+        43.829648
+      ]
+    },
+    "address": "4325 McCowan Rd",
+    "postal_code": "M1V 4P1",
+    "x": 322914.505,
+    "y": 4854210.481,
+    "longitude": -79.274582,
+    "latitude": 43.829648,
+    "object_id": 780,
+    "facility_name": "Milliken Park CRC",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Reception",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.413143,
+        43.768498
+      ]
+    },
+    "address": "5140 Yonge St",
+    "postal_code": "M2N 6L6",
+    "x": 311777.396,
+    "y": 4847396.016,
+    "longitude": -79.413143,
+    "latitude": 43.768498,
+    "object_id": 802,
+    "facility_name": "TTC - 5140 Yonge St.",
+    "facility_type": "Transportation Facility",
+    "unit": "6",
+    "unit_type": "FLR",
+    "dev_loc": "reception 6th floor",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.3711,
+        43.797924
+      ]
+    },
+    "address": "5900 Leslie St",
+    "postal_code": "M2H 1J9",
+    "x": 315157.162,
+    "y": 4850669.447,
+    "longitude": -79.3711,
+    "latitude": 43.797924,
+    "object_id": 817,
+    "facility_name": "Zion Heights JHS",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Outside main office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.39728,
+        43.698779
+      ]
+    },
+    "address": "1920 Yonge St",
+    "postal_code": "M4S 3E6",
+    "x": 313064.002,
+    "y": 4839652.116,
+    "longitude": -79.39728,
+    "latitude": 43.698779,
+    "object_id": 690,
+    "facility_name": "TTC - 1920 Yonge",
+    "facility_type": "Transportation Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "6th Floor (By womans Washroom)",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.271363,
+        43.750906
+      ]
+    },
+    "address": "2430 Lawrence Ave E",
+    "postal_code": "M1P 2R5",
+    "x": 323197.326,
+    "y": 4845463.223,
+    "longitude": -79.271363,
+    "latitude": 43.750906,
+    "object_id": 714,
+    "facility_name": "EMS - District 2",
+    "facility_type": "Emergency Services",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Main Entrance",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.351281,
+        43.78181
+      ]
+    },
+    "address": "2975 Don Mills Rd W",
+    "postal_code": "M2J 3B7",
+    "x": 316755.225,
+    "y": 4848881.921,
+    "longitude": -79.351281,
+    "latitude": 43.78181,
+    "object_id": 747,
+    "facility_name": "Oriole CRC",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Lobby - outside Arena",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.275739,
+        43.756078
+      ]
+    },
+    "address": "1225 Kennedy Rd",
+    "postal_code": "M1P 4Y1",
+    "x": 322843.363,
+    "y": 4846036.857,
+    "longitude": -79.275739,
+    "latitude": 43.756078,
+    "object_id": 625,
+    "facility_name": "Kennedy Employment & Social Services",
+    "facility_type": "Office",
+    "unit": "1",
+    "unit_type": "UNIT",
+    "dev_loc": "Reception",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.436683,
+        43.698327
+      ]
+    },
+    "address": "1435 Eglinton Ave W",
+    "postal_code": "M6C 3Z4",
+    "x": 309888.062,
+    "y": 4839598.678,
+    "longitude": -79.436683,
+    "latitude": 43.698327,
+    "object_id": 646,
+    "facility_name": "TPS - 13 Division",
+    "facility_type": "Law enforcement agency",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Front Door",
+    "dev_count": 2
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.237921,
+        43.790013
+      ]
+    },
+    "address": "1530 Markham Rd",
+    "postal_code": "M1B 3G4",
+    "x": 325876.831,
+    "y": 4849815.768,
+    "longitude": -79.237921,
+    "latitude": 43.790013,
+    "object_id": 658,
+    "facility_name": "1530 Markham Rd",
+    "facility_type": "Office",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Lobby - East Doors",
+    "dev_count": 2
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.404897,
+        43.651794
+      ]
+    },
+    "address": "707 Dundas St W",
+    "postal_code": "M5T 2W6",
+    "x": 312455.994,
+    "y": 4834431.455,
+    "longitude": -79.404897,
+    "latitude": 43.651794,
+    "object_id": 532,
+    "facility_name": "Scadding Court Community Centr",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Reception",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.422726,
+        43.664912
+      ]
+    },
+    "address": "779 Crawford St",
+    "postal_code": "M6G 3K4",
+    "x": 311016.212,
+    "y": 4835888.235,
+    "longitude": -79.422726,
+    "latitude": 43.664912,
+    "object_id": 555,
+    "facility_name": "Alex Duff Memorial ODP/ Ramsde",
+    "facility_type": "Outdoor Seasonal Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "pool office / AIR Changeroom",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.518036,
+        43.77477
+      ]
+    },
+    "address": "1000 Murray Ross Pkwy",
+    "postal_code": "M3J 2P3",
+    "x": 303332.391,
+    "y": 4848090.324,
+    "longitude": -79.518036,
+    "latitude": 43.77477,
+    "object_id": 582,
+    "facility_name": "Black Creek Pioneer Village",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Pavillon",
+    "dev_count": 2
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.343748,
+        43.733032
+      ]
+    },
+    "address": "1030 Don Mills Rd",
+    "postal_code": "M3C 1W6",
+    "x": 317371.677,
+    "y": 4843464.021,
+    "longitude": -79.343748,
+    "latitude": 43.733032,
+    "object_id": 590,
+    "facility_name": "Don Mills Arena",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Arena - South Wall",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.343627,
+        43.657082
+      ]
+    },
+    "address": "433 Eastern Ave",
+    "postal_code": "M4M 1B7",
+    "x": 317397.307,
+    "y": 4835026.366,
+    "longitude": -79.343627,
+    "latitude": 43.657082,
+    "object_id": 462,
+    "facility_name": "433 Eastern (Eastern Yard)",
+    "facility_type": "Industrial Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Building B, West Doors",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.336708,
+        43.787011
+      ]
+    },
+    "address": "545 Van Horne Ave",
+    "postal_code": "M2J 4S8",
+    "x": 317927.093,
+    "y": 4849462.026,
+    "longitude": -79.336708,
+    "latitude": 43.787011,
+    "object_id": 486,
+    "facility_name": "Pleasantview CC",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Reception",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.582711,
+        43.656113
+      ]
+    },
+    "address": "630 Renforth Dr",
+    "postal_code": "M9C 2N6",
+    "x": 298112.982,
+    "y": 4834910.266,
+    "longitude": -79.582711,
+    "latitude": 43.656113,
+    "object_id": 512,
+    "facility_name": "Hollycrest CS",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Outside CS Office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.586868,
+        43.657328
+      ]
+    },
+    "address": "256 Centennial Park Rd",
+    "postal_code": "M9C 5N3",
+    "x": 297777.864,
+    "y": 4835045.576,
+    "longitude": -79.586868,
+    "latitude": 43.657328,
+    "object_id": 385,
+    "facility_name": "Centennial Park - Ski Chalet",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Lobby",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.397867,
+        43.668742
+      ]
+    },
+    "address": "8 Bedford Rd",
+    "postal_code": null,
+    "x": 313020.699,
+    "y": 4836314.951,
+    "longitude": -79.397867,
+    "latitude": 43.668742,
+    "object_id": 409,
+    "facility_name": "TTC - St George Station",
+    "facility_type": "Transportation Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "St. George",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.385157,
+        43.647459
+      ]
+    },
+    "address": "173 King St W",
+    "postal_code": null,
+    "x": 314049.064,
+    "y": 4833951.897,
+    "longitude": -79.385157,
+    "latitude": 43.647459,
+    "object_id": 304,
+    "facility_name": "TTC - St Andrew Station",
+    "facility_type": "Transportation Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "St. Andrew",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.45353,
+        43.736398
+      ]
+    },
+    "address": "160 Transit Rd",
+    "postal_code": "M3H 6C3",
+    "x": 308527.855,
+    "y": 4843827.208,
+    "longitude": -79.45353,
+    "latitude": 43.736398,
+    "object_id": 324,
+    "facility_name": "TTC - Wilson Training Center",
+    "facility_type": "Transportation Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "By Washrooms",
+    "dev_count": 4
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.166719,
+        43.759598
+      ]
+    },
+    "address": "201 Copperfield Rd",
+    "postal_code": "M1E 5G7",
+    "x": 331620.651,
+    "y": 4846457.204,
+    "longitude": -79.166719,
+    "latitude": 43.759598,
+    "object_id": 355,
+    "facility_name": "FJ Horgan Filtration Plant",
+    "facility_type": "Industrial Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Sub-level 9",
+    "dev_count": 3
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.240012,
+        43.789374
+      ]
+    },
+    "address": "242 Milner Ave",
+    "postal_code": "M1S 5C4",
+    "x": 325708.742,
+    "y": 4849744.237,
+    "longitude": -79.240012,
+    "latitude": 43.789374,
+    "object_id": 376,
+    "facility_name": "TPS - 42 Division",
+    "facility_type": "Law enforcement agency",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Booking Hall",
+    "dev_count": 2
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.378413,
+        43.666065
+      ]
+    },
+    "address": "111 Wellesley St E",
+    "postal_code": "M4Y 3A7",
+    "x": 314590.103,
+    "y": 4836019.622,
+    "longitude": -79.378413,
+    "latitude": 43.666065,
+    "object_id": 272,
+    "facility_name": "Wellesley Place Employment & Social Services",
+    "facility_type": "Office",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Reception",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.503482,
+        43.605084
+      ]
+    },
+    "address": "70 Birmingham St",
+    "postal_code": "M8V 3W6",
+    "x": 304503.218,
+    "y": 4829238.015,
+    "longitude": -79.503482,
+    "latitude": 43.605084,
+    "object_id": 203,
+    "facility_name": "TPS - Training -Birmingham",
+    "facility_type": "Law enforcement agency",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Outside Gym and Theatre",
+    "dev_count": 5
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.594793,
+        43.755711
+      ]
+    },
+    "address": "75 Gihon Spring Dr",
+    "postal_code": "M9V 4X6",
+    "x": 297150.961,
+    "y": 4845977.234,
+    "longitude": -79.594793,
+    "latitude": 43.755711,
+    "object_id": 213,
+    "facility_name": "Gihon Spring ODP",
+    "facility_type": "Outdoor Seasonal Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Pool Office / AIR Change Room",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.530195,
+        43.594363
+      ]
+    },
+    "address": "90 Thirty First St",
+    "postal_code": "M8W 3E9",
+    "x": 302346.416,
+    "y": 4828047.318,
+    "longitude": -79.530195,
+    "latitude": 43.594363,
+    "object_id": 226,
+    "facility_name": "James S Bell CS",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Outside CS Office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.383628,
+        43.652831
+      ]
+    },
+    "address": "100 Queen St W",
+    "postal_code": "M5H 2N2",
+    "x": 314171.528,
+    "y": 4834548.831,
+    "longitude": -79.383628,
+    "latitude": 43.652831,
+    "object_id": 243,
+    "facility_name": "City Hall",
+    "facility_type": "Office",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Council Chambers",
+    "dev_count": 3
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.378391,
+        43.615709
+      ]
+    },
+    "address": "30 Centre Island Pk",
+    "postal_code": "M5J 2E9",
+    "x": 314599.946,
+    "y": 4830425.376,
+    "longitude": -79.378391,
+    "latitude": 43.615709,
+    "object_id": 106,
+    "facility_name": "Island Natural Science School",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "N/A",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.46063,
+        43.71993
+      ]
+    },
+    "address": "38 Orfus Rd",
+    "postal_code": "M6A 1L6",
+    "x": 307956.74,
+    "y": 4841997.464,
+    "longitude": -79.46063,
+    "latitude": 43.71993,
+    "object_id": 125,
+    "facility_name": "Yorkdale ALC   SS",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Main Office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.392497,
+        43.688668
+      ]
+    },
+    "address": "40 St Clair Ave E",
+    "postal_code": "M4T 1M9",
+    "x": 313451.031,
+    "y": 4838529.247,
+    "longitude": -79.392497,
+    "latitude": 43.688668,
+    "object_id": 132,
+    "facility_name": "TPL - Deer Park",
+    "facility_type": "Library",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Reference Desk",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.527046,
+        43.757818
+      ]
+    },
+    "address": "45 Norfinch Dr",
+    "postal_code": "M3N 1W8",
+    "x": 302606.741,
+    "y": 4846206.268,
+    "longitude": -79.527046,
+    "latitude": 43.757818,
+    "object_id": 142,
+    "facility_name": "Monsignor Fraser - Norfinch",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Main Entrance",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.366559,
+        43.80527
+      ]
+    },
+    "address": "50 Francine Dr",
+    "postal_code": "M2H 2G6",
+    "x": 315521.36,
+    "y": 4851486.198,
+    "longitude": -79.366559,
+    "latitude": 43.80527,
+    "object_id": 150,
+    "facility_name": "AY Jackson SS",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "N/A",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.546591,
+        43.754921
+      ]
+    },
+    "address": "50 Toryork Dr",
+    "postal_code": "M9L 1X6",
+    "x": 301032.7,
+    "y": 4845885.089,
+    "longitude": -79.546591,
+    "latitude": 43.754921,
+    "object_id": 159,
+    "facility_name": "EMS - District 1",
+    "facility_type": "Emergency Services",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Main Entrance",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.453387,
+        43.711882
+      ]
+    },
+    "address": "2999 Dufferin St",
+    "postal_code": "M6B 3T4",
+    "x": 308540.783,
+    "y": 4841103.633,
+    "longitude": -79.453387,
+    "latitude": 43.711882,
+    "object_id": 750,
+    "facility_name": "Fieldstone School",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Front Office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.285199,
+        43.713968
+      ]
+    },
+    "address": "3276 St Clair Ave E",
+    "postal_code": "M1L 1W1",
+    "x": 322093.622,
+    "y": 4841356.641,
+    "longitude": -79.285199,
+    "latitude": 43.713968,
+    "object_id": 759,
+    "facility_name": "TTC - Warden Station",
+    "facility_type": "Transportation Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Warden",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.257226,
+        43.698594
+      ]
+    },
+    "address": "3701 Danforth Ave",
+    "postal_code": "M1N 2G2",
+    "x": 324352.8,
+    "y": 4839654.886,
+    "longitude": -79.257226,
+    "latitude": 43.698594,
+    "object_id": 770,
+    "facility_name": "Variety Village",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "weight room",
+    "dev_count": 4
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.466535,
+        43.761799
+      ]
+    },
+    "address": "4330 Dufferin St",
+    "postal_code": "M3H 5R9",
+    "x": 307479.187,
+    "y": 4846648.734,
+    "longitude": -79.466535,
+    "latitude": 43.761799,
+    "object_id": 781,
+    "facility_name": "EMS HQ Security",
+    "facility_type": "Emergency Services",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "2nd FL by Community Medicine",
+    "dev_count": 3
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.530101,
+        43.647653
+      ]
+    },
+    "address": "4968 Dundas St W",
+    "postal_code": "M9A 1B7",
+    "x": 302355.951,
+    "y": 4833967.679,
+    "longitude": -79.530101,
+    "latitude": 43.647653,
+    "object_id": 793,
+    "facility_name": "Islington Seniors Center",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Main Lobby",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.233491,
+        43.794684
+      ]
+    },
+    "address": "5183 Sheppard Ave E",
+    "postal_code": "M1B 5Z5",
+    "x": 326231.708,
+    "y": 4850335.863,
+    "longitude": -79.233491,
+    "latitude": 43.794684,
+    "object_id": 807,
+    "facility_name": "Chinese Cultural Centre of Gre",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "main ent-reception desk",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.592381,
+        43.735851
+      ]
+    },
+    "address": "1760 Martin Grove Rd",
+    "postal_code": "M9V 3S4",
+    "x": 297342.957,
+    "y": 4843769.692,
+    "longitude": -79.592381,
+    "latitude": 43.735851,
+    "object_id": 675,
+    "facility_name": "Father Henry Carr Catholic High School",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "near main office",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.397125,
+        43.697859
+      ]
+    },
+    "address": "1900 Yonge St",
+    "postal_code": "M4S 1Z2",
+    "x": 313076.613,
+    "y": 4839549.896,
+    "longitude": -79.397125,
+    "latitude": 43.697859,
+    "object_id": 687,
+    "facility_name": "TTC - Davisville Station",
+    "facility_type": "Transportation Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Davisville",
+    "dev_count": 4
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.421921,
+        43.739454
+      ]
+    },
+    "address": "2140 Avenue Rd",
+    "postal_code": "M5M 4M7",
+    "x": 311073.667,
+    "y": 4844168.674,
+    "longitude": -79.421921,
+    "latitude": 43.739454,
+    "object_id": 698,
+    "facility_name": "Armour Heights CC",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Lobby",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.27711,
+        43.730805
+      ]
+    },
+    "address": "2222 Eglinton Ave E",
+    "postal_code": "M1K 2M2",
+    "x": 322740.421,
+    "y": 4843228.904,
+    "longitude": -79.27711,
+    "latitude": 43.730805,
+    "object_id": 707,
+    "facility_name": "TPS - 41 Division",
+    "facility_type": "Law enforcement agency",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Front Desk",
+    "dev_count": 2
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.488846,
+        43.613534
+      ]
+    },
+    "address": "2445 Lake Shore Blvd W",
+    "postal_code": "M8V 1C5",
+    "x": 305684.654,
+    "y": 4830176.769,
+    "longitude": -79.488846,
+    "latitude": 43.613534,
+    "object_id": 717,
+    "facility_name": "Amos Waites ODP",
+    "facility_type": "Outdoor Seasonal Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Pool Office / AIR Change Room",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.566549,
+        43.747446
+      ]
+    },
+    "address": "2650 Finch Ave W",
+    "postal_code": "M9M 3A3",
+    "x": 299424.918,
+    "y": 4845055.788,
+    "longitude": -79.566549,
+    "latitude": 43.747446,
+    "object_id": 729,
+    "facility_name": "Gord and Irene Risk CC",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Main Lobby",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.415761,
+        43.675909
+      ]
+    },
+    "address": "1138 Bathurst St",
+    "postal_code": "M5R 3H2",
+    "x": 311576.905,
+    "y": 4837109.598,
+    "longitude": -79.415761,
+    "latitude": 43.675909,
+    "object_id": 608,
+    "facility_name": "TTC - Hillcrest Complex",
+    "facility_type": "Transportation Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Safety Dept. 1st floor",
+    "dev_count": 10
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.423237,
+        43.639025
+      ]
+    },
+    "address": "1155 King St W",
+    "postal_code": "M6K 1E9",
+    "x": 310977.961,
+    "y": 4833011.302,
+    "longitude": -79.423237,
+    "latitude": 43.639025,
+    "object_id": 619,
+    "facility_name": "Allan Lamport Stadium",
+    "facility_type": "Recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "East Bowl Entrance",
+    "dev_count": 2
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.442536,
+        43.658169
+      ]
+    },
+    "address": "1287 Bloor St W",
+    "postal_code": "M6H 1N7",
+    "x": 309419.341,
+    "y": 4835136.921,
+    "longitude": -79.442536,
+    "latitude": 43.658169,
+    "object_id": 631,
+    "facility_name": "TTC - Lansdowne Station",
+    "facility_type": "Transportation Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Lansdowne",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.4514,
+        43.675339
+      ]
+    },
+    "address": "1369 St Clair Ave W",
+    "postal_code": "M6E 1C5",
+    "x": 308703.214,
+    "y": 4837044.02,
+    "longitude": -79.4514,
+    "latitude": 43.675339,
+    "object_id": 641,
+    "facility_name": "Giovanni Caboto ODP",
+    "facility_type": "Outdoor Seasonal Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Pool Office / AIR Change Room",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.482623,
+        43.707175
+      ]
+    },
+    "address": "1507 Lawrence Ave W",
+    "postal_code": "M6L 1A8",
+    "x": 306184.971,
+    "y": 4840579.829,
+    "longitude": -79.482623,
+    "latitude": 43.707175,
+    "object_id": 653,
+    "facility_name": "Amesbury CC",
+    "facility_type": "recreation or Sports Facility",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Lobby",
+    "dev_count": 1
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.333213,
+        43.709022
+      ]
+    },
+    "address": "703 Don Mills Rd",
+    "postal_code": "M3C 3N3",
+    "x": 318225.691,
+    "y": 4840798.39,
+    "longitude": -79.333213,
+    "latitude": 43.709022,
+    "object_id": 530,
+    "facility_name": "703 Don Mills",
+    "facility_type": "Office",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "6th Flr - EMO",
+    "dev_count": 2
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.409812,
+        43.662713
+      ]
+    },
+    "address": "725 Bathurst St",
+    "postal_code": "M5S 2R5",
+    "x": 312058.189,
+    "y": 4835643.991,
+    "longitude": -79.409812,
+    "latitude": 43.662713,
+    "object_id": 538,
+    "facility_name": "Central Technical School",
+    "facility_type": "School",
+    "unit": null,
+    "unit_type": null,
+    "dev_loc": "Art Building",
+    "dev_count": 2
+  }
+]

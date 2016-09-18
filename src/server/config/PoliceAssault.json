@@ -1,0 +1,3640 @@
+[
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.522534,
+        43.5908
+      ]
+    },
+    "event_uniq": "GO-2016968368",
+    "crime_type": "Assault",
+    "objectid": 1,
+    "district": "d22",
+    "occurren_4": 16,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d22/",
+    "datecon": "Friday, June 3, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.524588,
+        43.595523
+      ]
+    },
+    "event_uniq": "GO-2016965847",
+    "crime_type": "Assault",
+    "objectid": 2,
+    "district": "d22",
+    "occurren_4": 11,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d22/",
+    "datecon": "Friday, June 3, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.522842,
+        43.597824
+      ]
+    },
+    "event_uniq": "GO-2016939003",
+    "crime_type": "Assault",
+    "objectid": 3,
+    "district": "d22",
+    "occurren_4": 1,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d22/",
+    "datecon": "Tuesday, May 31, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.543752,
+        43.598382
+      ]
+    },
+    "event_uniq": "GO-2016945338",
+    "crime_type": "Assault",
+    "objectid": 4,
+    "district": "d22",
+    "occurren_4": 21,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d22/",
+    "datecon": "Tuesday, May 31, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.489787,
+        43.612731
+      ]
+    },
+    "event_uniq": "GO-2016977777",
+    "crime_type": "Assault",
+    "objectid": 5,
+    "district": "d22",
+    "occurren_4": 18,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d22/",
+    "datecon": "Sunday, June 5, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.497134,
+        43.613091
+      ]
+    },
+    "event_uniq": "GO-2016934751",
+    "crime_type": "Assault",
+    "objectid": 6,
+    "district": "d22",
+    "occurren_4": 13,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d22/",
+    "datecon": "Monday, May 30, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.504244,
+        43.614596
+      ]
+    },
+    "event_uniq": "GO-2016974258",
+    "crime_type": "Assault",
+    "objectid": 7,
+    "district": "d22",
+    "occurren_4": 3,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d22/",
+    "datecon": "Sunday, June 5, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.540867,
+        43.61774
+      ]
+    },
+    "event_uniq": "GO-2016954010",
+    "crime_type": "Assault",
+    "objectid": 8,
+    "district": "d22",
+    "occurren_4": 0,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d22/",
+    "datecon": "Monday, May 30, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.576059,
+        43.630465
+      ]
+    },
+    "event_uniq": "GO-2016978916",
+    "crime_type": "Assault",
+    "objectid": 9,
+    "district": "d22",
+    "occurren_4": 22,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d22/",
+    "datecon": "Sunday, June 5, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.492072,
+        43.633033
+      ]
+    },
+    "event_uniq": "GO-2016943627",
+    "crime_type": "Assault",
+    "objectid": 10,
+    "district": "d22",
+    "occurren_4": 14,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d22/",
+    "datecon": "Monday, May 30, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.434782,
+        43.633952
+      ]
+    },
+    "event_uniq": "GO-2016939615",
+    "crime_type": "Assault",
+    "objectid": 11,
+    "district": "d14",
+    "occurren_4": 6,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d14/",
+    "datecon": "Tuesday, May 31, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.40329,
+        43.635737
+      ]
+    },
+    "event_uniq": "GO-2016931709",
+    "crime_type": "Assault",
+    "objectid": 12,
+    "district": "d14",
+    "occurren_4": 1,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d14/",
+    "datecon": "Monday, May 30, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.437274,
+        43.636926
+      ]
+    },
+    "event_uniq": "GO-2016931708",
+    "crime_type": "Assault",
+    "objectid": 13,
+    "district": "d14",
+    "occurren_4": 1,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d14/",
+    "datecon": "Monday, May 30, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.426655,
+        43.637074
+      ]
+    },
+    "event_uniq": "GO-2016935485",
+    "crime_type": "Assault",
+    "objectid": 14,
+    "district": "d14",
+    "occurren_4": 15,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d14/",
+    "datecon": "Monday, May 30, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.439165,
+        43.638212
+      ]
+    },
+    "event_uniq": "GO-2016942113",
+    "crime_type": "Assault",
+    "objectid": 15,
+    "district": "d14",
+    "occurren_4": 13,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d14/",
+    "datecon": "Tuesday, May 31, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.433283,
+        43.637743
+      ]
+    },
+    "event_uniq": "GO-2016963594",
+    "crime_type": "Assault",
+    "objectid": 16,
+    "district": "d14",
+    "occurren_4": 20,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d14/",
+    "datecon": "Thursday, June 2, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.383347,
+        43.640672
+      ]
+    },
+    "event_uniq": "GO-2016968107",
+    "crime_type": "Assault",
+    "objectid": 17,
+    "district": "d52",
+    "occurren_4": 5,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d52/",
+    "datecon": "Saturday, June 4, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.529062,
+        43.640927
+      ]
+    },
+    "event_uniq": "GO-2016953172",
+    "crime_type": "Assault",
+    "objectid": 18,
+    "district": "d22",
+    "occurren_4": 1,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d22/",
+    "datecon": "Thursday, June 2, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.417244,
+        43.640992
+      ]
+    },
+    "event_uniq": "GO-2016941498",
+    "crime_type": "Assault",
+    "objectid": 19,
+    "district": "d14",
+    "occurren_4": 12,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d14/",
+    "datecon": "Tuesday, May 31, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.391904,
+        43.641644
+      ]
+    },
+    "event_uniq": "GO-2016979006",
+    "crime_type": "Assault",
+    "objectid": 20,
+    "district": "d52",
+    "occurren_4": 22,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d52/",
+    "datecon": "Sunday, June 5, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.397587,
+        43.641769
+      ]
+    },
+    "event_uniq": "GO-2016976648",
+    "crime_type": "Assault",
+    "objectid": 21,
+    "district": "d14",
+    "occurren_4": 2,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d14/",
+    "datecon": "Sunday, June 5, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.398247,
+        43.643301
+      ]
+    },
+    "event_uniq": "GO-2016955316",
+    "crime_type": "Assault",
+    "objectid": 22,
+    "district": "d14",
+    "occurren_4": 14,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d14/",
+    "datecon": "Wednesday, June 1, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.393691,
+        43.642171
+      ]
+    },
+    "event_uniq": "GO-2016938998",
+    "crime_type": "Assault",
+    "objectid": 23,
+    "district": "d52",
+    "occurren_4": 0,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d52/",
+    "datecon": "Tuesday, May 31, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.391286,
+        43.643421
+      ]
+    },
+    "event_uniq": "GO-2016974165",
+    "crime_type": "Assault",
+    "objectid": 24,
+    "district": "d52",
+    "occurren_4": 2,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d52/",
+    "datecon": "Sunday, June 5, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.389987,
+        43.643704
+      ]
+    },
+    "event_uniq": "GO-2016966028",
+    "crime_type": "Assault",
+    "objectid": 25,
+    "district": "d52",
+    "occurren_4": 18,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d52/",
+    "datecon": "Friday, June 3, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.389987,
+        43.643704
+      ]
+    },
+    "event_uniq": "GO-2016974527",
+    "crime_type": "Assault",
+    "objectid": 26,
+    "district": "d52",
+    "occurren_4": 4,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d52/",
+    "datecon": "Sunday, June 5, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.530798,
+        43.644654
+      ]
+    },
+    "event_uniq": "GO-2016950723",
+    "crime_type": "Assault",
+    "objectid": 27,
+    "district": "d22",
+    "occurren_4": 16,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d22/",
+    "datecon": "Wednesday, June 1, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.370547,
+        43.645708
+      ]
+    },
+    "event_uniq": "GO-2016942651",
+    "crime_type": "Assault",
+    "objectid": 28,
+    "district": "d51",
+    "occurren_4": 21,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d51/",
+    "datecon": "Monday, May 30, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.399628,
+        43.645934
+      ]
+    },
+    "event_uniq": "GO-2016941326",
+    "crime_type": "Assault",
+    "objectid": 29,
+    "district": "d14",
+    "occurren_4": 11,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d14/",
+    "datecon": "Tuesday, May 31, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.523816,
+        43.64551
+      ]
+    },
+    "event_uniq": "GO-2016975758",
+    "crime_type": "Assault",
+    "objectid": 30,
+    "district": "d22",
+    "occurren_4": 11,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d22/",
+    "datecon": "Sunday, June 5, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.370224,
+        43.646427
+      ]
+    },
+    "event_uniq": "GO-2016960547",
+    "crime_type": "Assault",
+    "objectid": 31,
+    "district": "d51",
+    "occurren_4": 4,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d51/",
+    "datecon": "Friday, June 3, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.393935,
+        43.646513
+      ]
+    },
+    "event_uniq": "GO-2016958697",
+    "crime_type": "Assault",
+    "objectid": 32,
+    "district": "d52",
+    "occurren_4": 19,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d52/",
+    "datecon": "Thursday, June 2, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.393935,
+        43.646513
+      ]
+    },
+    "event_uniq": "GO-2016959364",
+    "crime_type": "Assault",
+    "objectid": 33,
+    "district": "d52",
+    "occurren_4": 22,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d52/",
+    "datecon": "Thursday, June 2, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.432712,
+        43.647303
+      ]
+    },
+    "event_uniq": "GO-2016953147",
+    "crime_type": "Assault",
+    "objectid": 34,
+    "district": "d11",
+    "occurren_4": 2,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d11/",
+    "datecon": "Thursday, June 2, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.420179,
+        43.647835
+      ]
+    },
+    "event_uniq": "GO-2016967845",
+    "crime_type": "Assault",
+    "objectid": 35,
+    "district": "d14",
+    "occurren_4": 3,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d14/",
+    "datecon": "Saturday, June 4, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.422471,
+        43.647351
+      ]
+    },
+    "event_uniq": "GO-2016974291",
+    "crime_type": "Assault",
+    "objectid": 36,
+    "district": "d14",
+    "occurren_4": 3,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d14/",
+    "datecon": "Sunday, June 5, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.569971,
+        43.649157
+      ]
+    },
+    "event_uniq": "GO-2016943550",
+    "crime_type": "Assault",
+    "objectid": 37,
+    "district": "d22",
+    "occurren_4": 16,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d22/",
+    "datecon": "Tuesday, May 31, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.382402,
+        43.650278
+      ]
+    },
+    "event_uniq": "GO-2016934616",
+    "crime_type": "Assault",
+    "objectid": 38,
+    "district": "d52",
+    "occurren_4": 12,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d52/",
+    "datecon": "Monday, May 30, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.396885,
+        43.650069
+      ]
+    },
+    "event_uniq": "GO-2016972424",
+    "crime_type": "Assault",
+    "objectid": 39,
+    "district": "d52",
+    "occurren_4": 20,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d52/",
+    "datecon": "Saturday, June 4, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.406997,
+        43.651379
+      ]
+    },
+    "event_uniq": "GO-2016957161",
+    "crime_type": "Assault",
+    "objectid": 40,
+    "district": "d14",
+    "occurren_4": 16,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d14/",
+    "datecon": "Thursday, June 2, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.401874,
+        43.651021
+      ]
+    },
+    "event_uniq": "GO-2016963188",
+    "crime_type": "Assault",
+    "objectid": 41,
+    "district": "d14",
+    "occurren_4": 13,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d14/",
+    "datecon": "Friday, June 3, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.377759,
+        43.651963
+      ]
+    },
+    "event_uniq": "GO-2016956105",
+    "crime_type": "Assault",
+    "objectid": 42,
+    "district": "d51",
+    "occurren_4": 13,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d51/",
+    "datecon": "Thursday, June 2, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.372365,
+        43.651528
+      ]
+    },
+    "event_uniq": "GO-2016963927",
+    "crime_type": "Assault",
+    "objectid": 43,
+    "district": "d51",
+    "occurren_4": 15,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d51/",
+    "datecon": "Friday, June 3, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.39868,
+        43.65206
+      ]
+    },
+    "event_uniq": "GO-2016972329",
+    "crime_type": "Assault",
+    "objectid": 44,
+    "district": "d52",
+    "occurren_4": 20,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d52/",
+    "datecon": "Saturday, June 4, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.380759,
+        43.652126
+      ]
+    },
+    "event_uniq": "GO-2016949370",
+    "crime_type": "Assault",
+    "objectid": 45,
+    "district": "d52",
+    "occurren_4": 13,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d52/",
+    "datecon": "Wednesday, June 1, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.451444,
+        43.652533
+      ]
+    },
+    "event_uniq": "GO-2016964041",
+    "crime_type": "Assault",
+    "objectid": 46,
+    "district": "d11",
+    "occurren_4": 15,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d11/",
+    "datecon": "Friday, June 3, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.369148,
+        43.653378
+      ]
+    },
+    "event_uniq": "GO-2016946131",
+    "crime_type": "Assault",
+    "objectid": 47,
+    "district": "d51",
+    "occurren_4": 0,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d51/",
+    "datecon": "Wednesday, June 1, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.369148,
+        43.653378
+      ]
+    },
+    "event_uniq": "GO-2016952066",
+    "crime_type": "Assault",
+    "objectid": 48,
+    "district": "d51",
+    "occurren_4": 20,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d51/",
+    "datecon": "Wednesday, June 1, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.386446,
+        43.653377
+      ]
+    },
+    "event_uniq": "GO-2016971243",
+    "crime_type": "Assault",
+    "objectid": 49,
+    "district": "d52",
+    "occurren_4": 17,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d52/",
+    "datecon": "Saturday, June 4, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.435219,
+        43.653832
+      ]
+    },
+    "event_uniq": "GO-2016942306",
+    "crime_type": "Assault",
+    "objectid": 50,
+    "district": "d11",
+    "occurren_4": 13,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d11/",
+    "datecon": "Tuesday, May 31, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.381286,
+        43.653207
+      ]
+    },
+    "event_uniq": "GO-2016968735",
+    "crime_type": "Assault",
+    "objectid": 51,
+    "district": "d52",
+    "occurren_4": 9,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d52/",
+    "datecon": "Saturday, June 4, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.381286,
+        43.653207
+      ]
+    },
+    "event_uniq": "GO-2016973324",
+    "crime_type": "Assault",
+    "objectid": 52,
+    "district": "d52",
+    "occurren_4": 23,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d52/",
+    "datecon": "Saturday, June 4, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.467244,
+        43.653981
+      ]
+    },
+    "event_uniq": "GO-2016945429",
+    "crime_type": "Assault",
+    "objectid": 53,
+    "district": "d11",
+    "occurren_4": 22,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d11/",
+    "datecon": "Tuesday, May 31, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.406836,
+        43.654287
+      ]
+    },
+    "event_uniq": "GO-2016967501",
+    "crime_type": "Assault",
+    "objectid": 54,
+    "district": "d14",
+    "occurren_4": 1,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d14/",
+    "datecon": "Saturday, June 4, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.406836,
+        43.654287
+      ]
+    },
+    "event_uniq": "GO-2016967989",
+    "crime_type": "Assault",
+    "objectid": 55,
+    "district": "d14",
+    "occurren_4": 4,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d14/",
+    "datecon": "Saturday, June 4, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.406836,
+        43.654287
+      ]
+    },
+    "event_uniq": "GO-2016968080",
+    "crime_type": "Assault",
+    "objectid": 56,
+    "district": "d14",
+    "occurren_4": 4,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d14/",
+    "datecon": "Saturday, June 4, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.380675,
+        43.655774
+      ]
+    },
+    "event_uniq": "GO-2016958341",
+    "crime_type": "Assault",
+    "objectid": 57,
+    "district": "d51",
+    "occurren_4": 19,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d51/",
+    "datecon": "Thursday, June 2, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.446345,
+        43.655203
+      ]
+    },
+    "event_uniq": "GO-2016938387",
+    "crime_type": "Assault",
+    "objectid": 58,
+    "district": "d11",
+    "occurren_4": 22,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d11/",
+    "datecon": "Monday, May 30, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.399316,
+        43.656102
+      ]
+    },
+    "event_uniq": "GO-2016934586",
+    "crime_type": "Assault",
+    "objectid": 59,
+    "district": "d14",
+    "occurren_4": 12,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d/",
+    "datecon": "Monday, May 30, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.401761,
+        43.656288
+      ]
+    },
+    "event_uniq": "GO-2016974304",
+    "crime_type": "Assault",
+    "objectid": 60,
+    "district": "d14",
+    "occurren_4": 3,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d14/",
+    "datecon": "Sunday, June 5, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.371444,
+        43.655896
+      ]
+    },
+    "event_uniq": "GO-2016973090",
+    "crime_type": "Assault",
+    "objectid": 61,
+    "district": "d51",
+    "occurren_4": 22,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d51/",
+    "datecon": "Saturday, June 4, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.509125,
+        43.657299
+      ]
+    },
+    "event_uniq": "GO-2016947543",
+    "crime_type": "Assault",
+    "objectid": 62,
+    "district": "d22",
+    "occurren_4": 8,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d22/",
+    "datecon": "Tuesday, May 31, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.381226,
+        43.657038
+      ]
+    },
+    "event_uniq": "GO-2016959691",
+    "crime_type": "Assault",
+    "objectid": 63,
+    "district": "d51",
+    "occurren_4": 23,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d51/",
+    "datecon": "Thursday, June 2, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.367597,
+        43.656368
+      ]
+    },
+    "event_uniq": "GO-2016957687",
+    "crime_type": "Assault",
+    "objectid": 64,
+    "district": "d51",
+    "occurren_4": 17,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d51/",
+    "datecon": "Thursday, June 2, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.374567,
+        43.657067
+      ]
+    },
+    "event_uniq": "GO-2016945114",
+    "crime_type": "Assault",
+    "objectid": 65,
+    "district": "d51",
+    "occurren_4": 20,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d51/",
+    "datecon": "Tuesday, May 31, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.374567,
+        43.657067
+      ]
+    },
+    "event_uniq": "GO-2016946095",
+    "crime_type": "Assault",
+    "objectid": 66,
+    "district": "d51",
+    "occurren_4": 0,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d51/",
+    "datecon": "Wednesday, June 1, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.374567,
+        43.657067
+      ]
+    },
+    "event_uniq": "GO-2016959354",
+    "crime_type": "Assault",
+    "objectid": 67,
+    "district": "d51",
+    "occurren_4": 21,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d51/",
+    "datecon": "Thursday, June 2, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.344344,
+        43.657225
+      ]
+    },
+    "event_uniq": "GO-2016945859",
+    "crime_type": "Assault",
+    "objectid": 68,
+    "district": "d55",
+    "occurren_4": 23,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d55/",
+    "datecon": "Tuesday, May 31, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.353348,
+        43.658091
+      ]
+    },
+    "event_uniq": "GO-2016931467",
+    "crime_type": "Assault",
+    "objectid": 69,
+    "district": "d55",
+    "occurren_4": 0,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d55/",
+    "datecon": "Monday, May 30, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.337804,
+        43.658668
+      ]
+    },
+    "event_uniq": "GO-2016951635",
+    "crime_type": "Assault",
+    "objectid": 70,
+    "district": "d55",
+    "occurren_4": 18,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d55/",
+    "datecon": "Wednesday, June 1, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.367352,
+        43.659123
+      ]
+    },
+    "event_uniq": "GO-2016962195",
+    "crime_type": "Assault",
+    "objectid": 71,
+    "district": "d51",
+    "occurren_4": 12,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d51/",
+    "datecon": "Tuesday, May 31, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.377042,
+        43.660175
+      ]
+    },
+    "event_uniq": "GO-2016943621",
+    "crime_type": "Assault",
+    "objectid": 72,
+    "district": "d51",
+    "occurren_4": 16,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d51/",
+    "datecon": "Tuesday, May 31, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.377042,
+        43.660175
+      ]
+    },
+    "event_uniq": "GO-2016975737",
+    "crime_type": "Assault",
+    "objectid": 73,
+    "district": "d51",
+    "occurren_4": 11,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d51/",
+    "datecon": "Sunday, June 5, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.409769,
+        43.661515
+      ]
+    },
+    "event_uniq": "GO-2016936436",
+    "crime_type": "Assault",
+    "objectid": 74,
+    "district": "d14",
+    "occurren_4": 10,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d14/",
+    "datecon": "Thursday, June 2, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.442641,
+        43.66087
+      ]
+    },
+    "event_uniq": "GO-2016959515",
+    "crime_type": "Assault",
+    "objectid": 75,
+    "district": "d11",
+    "occurren_4": 22,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d11/",
+    "datecon": "Thursday, June 2, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.372236,
+        43.661227
+      ]
+    },
+    "event_uniq": "GO-2016960047",
+    "crime_type": "Assault",
+    "objectid": 76,
+    "district": "d51",
+    "occurren_4": 0,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d51/",
+    "datecon": "Friday, June 3, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.351361,
+        43.662467
+      ]
+    },
+    "event_uniq": "GO-2016948333",
+    "crime_type": "Assault",
+    "objectid": 77,
+    "district": "d55",
+    "occurren_4": 16,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d55/",
+    "datecon": "Monday, May 30, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.379756,
+        43.662826
+      ]
+    },
+    "event_uniq": "GO-2016945446",
+    "crime_type": "Assault",
+    "objectid": 78,
+    "district": "d51",
+    "occurren_4": 21,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d51/",
+    "datecon": "Tuesday, May 31, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.383789,
+        43.663021
+      ]
+    },
+    "event_uniq": "GO-2016951126",
+    "crime_type": "Assault",
+    "objectid": 79,
+    "district": "d51",
+    "occurren_4": 18,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d51/",
+    "datecon": "Wednesday, June 1, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.383789,
+        43.663021
+      ]
+    },
+    "event_uniq": "GO-2016960966",
+    "crime_type": "Assault",
+    "objectid": 80,
+    "district": "d51",
+    "occurren_4": 7,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d51/",
+    "datecon": "Friday, June 3, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.446882,
+        43.664634
+      ]
+    },
+    "event_uniq": "GO-2016939183",
+    "crime_type": "Assault",
+    "objectid": 81,
+    "district": "d11",
+    "occurren_4": 3,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d11/",
+    "datecon": "Tuesday, May 31, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.373778,
+        43.667295
+      ]
+    },
+    "event_uniq": "GO-2016965528",
+    "crime_type": "Assault",
+    "objectid": 82,
+    "district": "d51",
+    "occurren_4": 0,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d51/",
+    "datecon": "Thursday, June 2, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.312594,
+        43.667245
+      ]
+    },
+    "event_uniq": "GO-2016949180",
+    "crime_type": "Assault",
+    "objectid": 83,
+    "district": "d55",
+    "occurren_4": 12,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d55/",
+    "datecon": "Wednesday, June 1, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.486101,
+        43.669504
+      ]
+    },
+    "event_uniq": "GO-2016973498",
+    "crime_type": "Assault",
+    "objectid": 84,
+    "district": "d12",
+    "occurren_4": 0,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d12/",
+    "datecon": "Sunday, June 5, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.335345,
+        43.671829
+      ]
+    },
+    "event_uniq": "GO-2016945408",
+    "crime_type": "Assault",
+    "objectid": 85,
+    "district": "d55",
+    "occurren_4": 21,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d55/",
+    "datecon": "Tuesday, May 31, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.38946,
+        43.672929
+      ]
+    },
+    "event_uniq": "GO-2016974524",
+    "crime_type": "Assault",
+    "objectid": 86,
+    "district": "d53",
+    "occurren_4": 4,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d53/",
+    "datecon": "Sunday, June 5, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.422431,
+        43.673983
+      ]
+    },
+    "event_uniq": "GO-2016944342",
+    "crime_type": "Assault",
+    "objectid": 87,
+    "district": "d13",
+    "occurren_4": 12,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d13/",
+    "datecon": "Tuesday, May 31, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.340004,
+        43.676647
+      ]
+    },
+    "event_uniq": "GO-2016934485",
+    "crime_type": "Assault",
+    "objectid": 88,
+    "district": "d55",
+    "occurren_4": 14,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d55/",
+    "datecon": "Monday, May 30, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.358085,
+        43.675402
+      ]
+    },
+    "event_uniq": "GO-2016943642",
+    "crime_type": "Assault",
+    "objectid": 89,
+    "district": "d54",
+    "occurren_4": 17,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d54/",
+    "datecon": "Tuesday, May 31, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.442083,
+        43.675545
+      ]
+    },
+    "event_uniq": "GO-2016937114",
+    "crime_type": "Assault",
+    "objectid": 90,
+    "district": "d13",
+    "occurren_4": 18,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d13/",
+    "datecon": "Monday, May 30, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.320802,
+        43.676533
+      ]
+    },
+    "event_uniq": "GO-2016970626",
+    "crime_type": "Assault",
+    "objectid": 91,
+    "district": "d55",
+    "occurren_4": 15,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d55/",
+    "datecon": "Saturday, June 4, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.463121,
+        43.676752
+      ]
+    },
+    "event_uniq": "GO-2016966133",
+    "crime_type": "Assault",
+    "objectid": 92,
+    "district": "d12",
+    "occurren_4": 2,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d12/",
+    "datecon": "Saturday, June 4, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.477775,
+        43.678018
+      ]
+    },
+    "event_uniq": "GO-2016959924",
+    "crime_type": "Assault",
+    "objectid": 93,
+    "district": "d12",
+    "occurren_4": 8,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d12/",
+    "datecon": "Thursday, June 2, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.390432,
+        43.679146
+      ]
+    },
+    "event_uniq": "GO-2016966008",
+    "crime_type": "Assault",
+    "objectid": 94,
+    "district": "d53",
+    "occurren_4": 21,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d53/",
+    "datecon": "Friday, June 3, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.426654,
+        43.679642
+      ]
+    },
+    "event_uniq": "GO-2016951854",
+    "crime_type": "Assault",
+    "objectid": 95,
+    "district": "d13",
+    "occurren_4": 20,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d13/",
+    "datecon": "Wednesday, June 1, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.592852,
+        43.680815
+      ]
+    },
+    "event_uniq": "GO-2016967397",
+    "crime_type": "Assault",
+    "objectid": 96,
+    "district": "d23",
+    "occurren_4": 1,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d23/",
+    "datecon": "Saturday, June 4, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.334861,
+        43.680948
+      ]
+    },
+    "event_uniq": "GO-2016933521",
+    "crime_type": "Assault",
+    "objectid": 97,
+    "district": "d54",
+    "occurren_4": 10,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d54/",
+    "datecon": "Monday, May 30, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.427701,
+        43.6813
+      ]
+    },
+    "event_uniq": "GO-2016936067",
+    "crime_type": "Assault",
+    "objectid": 98,
+    "district": "d13",
+    "occurren_4": 16,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d13/",
+    "datecon": "Monday, May 30, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.357518,
+        43.681941
+      ]
+    },
+    "event_uniq": "GO-2016957070",
+    "crime_type": "Assault",
+    "objectid": 99,
+    "district": "d54",
+    "occurren_4": 13,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d54/",
+    "datecon": "Thursday, June 2, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.562021,
+        43.682668
+      ]
+    },
+    "event_uniq": "GO-2016955571",
+    "crime_type": "Assault",
+    "objectid": 100,
+    "district": "d23",
+    "occurren_4": 11,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d23/",
+    "datecon": "Thursday, June 2, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.267839,
+        43.685389
+      ]
+    },
+    "event_uniq": "GO-2016951281",
+    "crime_type": "Assault",
+    "objectid": 101,
+    "district": "d41",
+    "occurren_4": 18,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d41/",
+    "datecon": "Wednesday, June 1, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.347801,
+        43.684636
+      ]
+    },
+    "event_uniq": "GO-2016951107",
+    "crime_type": "Assault",
+    "objectid": 102,
+    "district": "d54",
+    "occurren_4": 17,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d54/",
+    "datecon": "Wednesday, June 1, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.498823,
+        43.684476
+      ]
+    },
+    "event_uniq": "GO-2016977767",
+    "crime_type": "Assault",
+    "objectid": 103,
+    "district": "d12",
+    "occurren_4": 23,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d12/",
+    "datecon": "Saturday, June 4, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.439668,
+        43.686916
+      ]
+    },
+    "event_uniq": "GO-2016953130",
+    "crime_type": "Assault",
+    "objectid": 104,
+    "district": "d13",
+    "occurren_4": 1,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d13/",
+    "datecon": "Thursday, June 2, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.360912,
+        43.685612
+      ]
+    },
+    "event_uniq": "GO-2016969032",
+    "crime_type": "Assault",
+    "objectid": 105,
+    "district": "d54",
+    "occurren_4": 10,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d54/",
+    "datecon": "Saturday, June 4, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.463364,
+        43.68723
+      ]
+    },
+    "event_uniq": "GO-2016945090",
+    "crime_type": "Assault",
+    "objectid": 106,
+    "district": "d13",
+    "occurren_4": 20,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d13/",
+    "datecon": "Tuesday, May 31, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.467366,
+        43.688145
+      ]
+    },
+    "event_uniq": "GO-2016971696",
+    "crime_type": "Assault",
+    "objectid": 107,
+    "district": "d12",
+    "occurren_4": 18,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d12/",
+    "datecon": "Saturday, June 4, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.434939,
+        43.687818
+      ]
+    },
+    "event_uniq": "GO-2016944344",
+    "crime_type": "Assault",
+    "objectid": 108,
+    "district": "d13",
+    "occurren_4": 16,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d13/",
+    "datecon": "Tuesday, May 31, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.585982,
+        43.688131
+      ]
+    },
+    "event_uniq": "GO-2016951827",
+    "crime_type": "Assault",
+    "objectid": 109,
+    "district": "d23",
+    "occurren_4": 20,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d23/",
+    "datecon": "Wednesday, June 1, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.297901,
+        43.68904
+      ]
+    },
+    "event_uniq": "GO-2016961637",
+    "crime_type": "Assault",
+    "objectid": 110,
+    "district": "d54",
+    "occurren_4": 9,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d54/",
+    "datecon": "Friday, June 3, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.327289,
+        43.692349
+      ]
+    },
+    "event_uniq": "GO-2016934952",
+    "crime_type": "Assault",
+    "objectid": 111,
+    "district": "d54",
+    "occurren_4": 13,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d54/",
+    "datecon": "Monday, May 30, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.327289,
+        43.692349
+      ]
+    },
+    "event_uniq": "GO-2016964683",
+    "crime_type": "Assault",
+    "objectid": 112,
+    "district": "d54",
+    "occurren_4": 15,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d54/",
+    "datecon": "Friday, June 3, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.486222,
+        43.693306
+      ]
+    },
+    "event_uniq": "GO-2016977453",
+    "crime_type": "Assault",
+    "objectid": 113,
+    "district": "d12",
+    "occurren_4": 17,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d12/",
+    "datecon": "Sunday, June 5, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.291521,
+        43.693664
+      ]
+    },
+    "event_uniq": "GO-2016958512",
+    "crime_type": "Assault",
+    "objectid": 114,
+    "district": "d54",
+    "occurren_4": 19,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d54/",
+    "datecon": "Thursday, June 2, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.329066,
+        43.693896
+      ]
+    },
+    "event_uniq": "GO-2016948886",
+    "crime_type": "Assault",
+    "objectid": 115,
+    "district": "d54",
+    "occurren_4": 12,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d54/",
+    "datecon": "Wednesday, June 1, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.446097,
+        43.694385
+      ]
+    },
+    "event_uniq": "GO-2016975252",
+    "crime_type": "Assault",
+    "objectid": 116,
+    "district": "d13",
+    "occurren_4": 3,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d13/",
+    "datecon": "Sunday, June 5, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.257491,
+        43.695526
+      ]
+    },
+    "event_uniq": "GO-2016948215",
+    "crime_type": "Assault",
+    "objectid": 117,
+    "district": "d41",
+    "occurren_4": 10,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d41/",
+    "datecon": "Wednesday, June 1, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.397344,
+        43.695092
+      ]
+    },
+    "event_uniq": "GO-2016950736",
+    "crime_type": "Assault",
+    "objectid": 118,
+    "district": "d53",
+    "occurren_4": 16,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d53/",
+    "datecon": "Wednesday, June 1, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.327655,
+        43.696188
+      ]
+    },
+    "event_uniq": "GO-2016942956",
+    "crime_type": "Assault",
+    "objectid": 119,
+    "district": "d54",
+    "occurren_4": 17,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d54/",
+    "datecon": "Monday, May 30, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.435377,
+        43.697177
+      ]
+    },
+    "event_uniq": "GO-2016965268",
+    "crime_type": "Assault",
+    "objectid": 120,
+    "district": "d13",
+    "occurren_4": 18,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d13/",
+    "datecon": "Friday, June 3, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.545962,
+        43.69836
+      ]
+    },
+    "event_uniq": "GO-2016958147",
+    "crime_type": "Assault",
+    "objectid": 121,
+    "district": "d23",
+    "occurren_4": 11,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d23/",
+    "datecon": "Thursday, June 2, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.424766,
+        43.699023
+      ]
+    },
+    "event_uniq": "GO-2016955553",
+    "crime_type": "Assault",
+    "objectid": 122,
+    "district": "d13",
+    "occurren_4": 12,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d13/",
+    "datecon": "Thursday, June 2, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.519887,
+        43.699283
+      ]
+    },
+    "event_uniq": "GO-2016956646",
+    "crime_type": "Assault",
+    "objectid": 123,
+    "district": "d12",
+    "occurren_4": 14,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d12/",
+    "datecon": "Thursday, June 2, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.508043,
+        43.698752
+      ]
+    },
+    "event_uniq": "GO-2016971663",
+    "crime_type": "Assault",
+    "objectid": 124,
+    "district": "d12",
+    "occurren_4": 18,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d12/",
+    "datecon": "Saturday, June 4, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.473247,
+        43.70452
+      ]
+    },
+    "event_uniq": "GO-2016958153",
+    "crime_type": "Assault",
+    "objectid": 125,
+    "district": "d12",
+    "occurren_4": 18,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d12/",
+    "datecon": "Thursday, June 2, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.452923,
+        43.705773
+      ]
+    },
+    "event_uniq": "GO-2016954360",
+    "crime_type": "Assault",
+    "objectid": 126,
+    "district": "d13",
+    "occurren_4": 8,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d13/",
+    "datecon": "Thursday, June 2, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.465001,
+        43.705337
+      ]
+    },
+    "event_uniq": "GO-2016965080",
+    "crime_type": "Assault",
+    "objectid": 127,
+    "district": "d13",
+    "occurren_4": 18,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d13/",
+    "datecon": "Friday, June 3, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.247044,
+        43.705922
+      ]
+    },
+    "event_uniq": "GO-2016950773",
+    "crime_type": "Assault",
+    "objectid": 128,
+    "district": "d41",
+    "occurren_4": 16,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d41/",
+    "datecon": "Wednesday, June 1, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.364425,
+        43.709371
+      ]
+    },
+    "event_uniq": "GO-2016971738",
+    "crime_type": "Assault",
+    "objectid": 129,
+    "district": "d53",
+    "occurren_4": 20,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d53/",
+    "datecon": "Thursday, June 2, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.281003,
+        43.712046
+      ]
+    },
+    "event_uniq": "GO-2016940109",
+    "crime_type": "Assault",
+    "objectid": 130,
+    "district": "d41",
+    "occurren_4": 8,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d41/",
+    "datecon": "Tuesday, May 31, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.565515,
+        43.709152
+      ]
+    },
+    "event_uniq": "GO-2016932501",
+    "crime_type": "Assault",
+    "objectid": 131,
+    "district": "d23",
+    "occurren_4": 8,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d23/",
+    "datecon": "Monday, May 30, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.248037,
+        43.710947
+      ]
+    },
+    "event_uniq": "GO-2016943172",
+    "crime_type": "Assault",
+    "objectid": 132,
+    "district": "d41",
+    "occurren_4": 15,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d41/",
+    "datecon": "Tuesday, May 31, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.334395,
+        43.709996
+      ]
+    },
+    "event_uniq": "GO-2016965592",
+    "crime_type": "Assault",
+    "objectid": 133,
+    "district": "d54",
+    "occurren_4": 19,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d54/",
+    "datecon": "Friday, June 3, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.26927,
+        43.712794
+      ]
+    },
+    "event_uniq": "GO-2016952884",
+    "crime_type": "Assault",
+    "objectid": 134,
+    "district": "d41",
+    "occurren_4": 0,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d41/",
+    "datecon": "Thursday, June 2, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.567881,
+        43.714151
+      ]
+    },
+    "event_uniq": "GO-2016975969",
+    "crime_type": "Assault",
+    "objectid": 135,
+    "district": "d23",
+    "occurren_4": 12,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d23/",
+    "datecon": "Sunday, June 5, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.531506,
+        43.714091
+      ]
+    },
+    "event_uniq": "GO-2016938582",
+    "crime_type": "Assault",
+    "objectid": 136,
+    "district": "d31",
+    "occurren_4": 23,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Monday, May 30, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.334186,
+        43.714926
+      ]
+    },
+    "event_uniq": "GO-2016958755",
+    "crime_type": "Assault",
+    "objectid": 137,
+    "district": "d54",
+    "occurren_4": 20,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d54/",
+    "datecon": "Thursday, June 2, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.429006,
+        43.715951
+      ]
+    },
+    "event_uniq": "GO-2016945096",
+    "crime_type": "Assault",
+    "objectid": 138,
+    "district": "d13",
+    "occurren_4": 20,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d13/",
+    "datecon": "Tuesday, May 31, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.455516,
+        43.71764
+      ]
+    },
+    "event_uniq": "GO-2016943257",
+    "crime_type": "Assault",
+    "objectid": 139,
+    "district": "d32",
+    "occurren_4": 15,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d32/",
+    "datecon": "Tuesday, May 31, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.515969,
+        43.717506
+      ]
+    },
+    "event_uniq": "GO-2016945368",
+    "crime_type": "Assault",
+    "objectid": 140,
+    "district": "d31",
+    "occurren_4": 21,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Tuesday, May 31, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.429414,
+        43.71763
+      ]
+    },
+    "event_uniq": "GO-2016934944",
+    "crime_type": "Assault",
+    "objectid": 141,
+    "district": "d32",
+    "occurren_4": 13,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d32/",
+    "datecon": "Monday, May 30, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.46172,
+        43.719186
+      ]
+    },
+    "event_uniq": "GO-2016978600",
+    "crime_type": "Assault",
+    "objectid": 142,
+    "district": "d32",
+    "occurren_4": 20,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d32/",
+    "datecon": "Sunday, June 5, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.508634,
+        43.720915
+      ]
+    },
+    "event_uniq": "GO-2016932249",
+    "crime_type": "Assault",
+    "objectid": 143,
+    "district": "d31",
+    "occurren_4": 5,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Monday, May 30, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.508634,
+        43.720915
+      ]
+    },
+    "event_uniq": "GO-2016976896",
+    "crime_type": "Assault",
+    "objectid": 144,
+    "district": "d31",
+    "occurren_4": 15,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Sunday, June 5, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.426415,
+        43.71999
+      ]
+    },
+    "event_uniq": "GO-2016961399",
+    "crime_type": "Assault",
+    "objectid": 145,
+    "district": "d32",
+    "occurren_4": 12,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d32/",
+    "datecon": "Thursday, June 2, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.441022,
+        43.720127
+      ]
+    },
+    "event_uniq": "GO-2016961776",
+    "crime_type": "Assault",
+    "objectid": 146,
+    "district": "d32",
+    "occurren_4": 9,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d32/",
+    "datecon": "Friday, June 3, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.514872,
+        43.722337
+      ]
+    },
+    "event_uniq": "GO-2016932554",
+    "crime_type": "Assault",
+    "objectid": 147,
+    "district": "d31",
+    "occurren_4": 7,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Monday, May 30, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.564553,
+        43.724505
+      ]
+    },
+    "event_uniq": "GO-2016951153",
+    "crime_type": "Assault",
+    "objectid": 148,
+    "district": "d23",
+    "occurren_4": 18,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d23/",
+    "datecon": "Wednesday, June 1, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.45135,
+        43.72365
+      ]
+    },
+    "event_uniq": "GO-2016977189",
+    "crime_type": "Assault",
+    "objectid": 149,
+    "district": "d32",
+    "occurren_4": 16,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d32/",
+    "datecon": "Sunday, June 5, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.45135,
+        43.72365
+      ]
+    },
+    "event_uniq": "GO-2016977527",
+    "crime_type": "Assault",
+    "objectid": 150,
+    "district": "d32",
+    "occurren_4": 17,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d32/",
+    "datecon": "Sunday, June 5, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.257075,
+        43.723421
+      ]
+    },
+    "event_uniq": "GO-2016955211",
+    "crime_type": "Assault",
+    "objectid": 151,
+    "district": "d41",
+    "occurren_4": 11,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d41/",
+    "datecon": "Thursday, June 2, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.48207,
+        43.726642
+      ]
+    },
+    "event_uniq": "GO-2016966662",
+    "crime_type": "Assault",
+    "objectid": 152,
+    "district": "d31",
+    "occurren_4": 22,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Friday, June 3, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.592098,
+        43.728443
+      ]
+    },
+    "event_uniq": "GO-2016959162",
+    "crime_type": "Assault",
+    "objectid": 153,
+    "district": "d23",
+    "occurren_4": 21,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d23/",
+    "datecon": "Thursday, June 2, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.277451,
+        43.728602
+      ]
+    },
+    "event_uniq": "GO-2016961051",
+    "crime_type": "Assault",
+    "objectid": 154,
+    "district": "d41",
+    "occurren_4": 7,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d41/",
+    "datecon": "Friday, June 3, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.537495,
+        43.73157
+      ]
+    },
+    "event_uniq": "GO-2016947917",
+    "crime_type": "Assault",
+    "objectid": 155,
+    "district": "d31",
+    "occurren_4": 9,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Wednesday, June 1, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.504401,
+        43.731013
+      ]
+    },
+    "event_uniq": "GO-2016950362",
+    "crime_type": "Assault",
+    "objectid": 156,
+    "district": "d31",
+    "occurren_4": 15,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Wednesday, June 1, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.256029,
+        43.732879
+      ]
+    },
+    "event_uniq": "GO-2016974837",
+    "crime_type": "Assault",
+    "objectid": 157,
+    "district": "d41",
+    "occurren_4": 7,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d41/",
+    "datecon": "Sunday, June 5, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.590371,
+        43.734011
+      ]
+    },
+    "event_uniq": "GO-2016936732",
+    "crime_type": "Assault",
+    "objectid": 158,
+    "district": "d23",
+    "occurren_4": 17,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d23/",
+    "datecon": "Monday, May 30, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.544606,
+        43.735252
+      ]
+    },
+    "event_uniq": "GO-2016938176",
+    "crime_type": "Assault",
+    "objectid": 159,
+    "district": "d31",
+    "occurren_4": 21,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Monday, May 30, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.5968,
+        43.736093
+      ]
+    },
+    "event_uniq": "GO-2016972936",
+    "crime_type": "Assault",
+    "objectid": 160,
+    "district": "d23",
+    "occurren_4": 22,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d23/",
+    "datecon": "Saturday, June 4, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.503853,
+        43.737384
+      ]
+    },
+    "event_uniq": "GO-2016940765",
+    "crime_type": "Assault",
+    "objectid": 161,
+    "district": "d31",
+    "occurren_4": 14,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Monday, May 30, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.594956,
+        43.736017
+      ]
+    },
+    "event_uniq": "GO-2016940285",
+    "crime_type": "Assault",
+    "objectid": 162,
+    "district": "d23",
+    "occurren_4": 19,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d23/",
+    "datecon": "Monday, May 30, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.340978,
+        43.737696
+      ]
+    },
+    "event_uniq": "GO-2016964015",
+    "crime_type": "Assault",
+    "objectid": 163,
+    "district": "d33",
+    "occurren_4": 15,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d33/",
+    "datecon": "Friday, June 3, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.297813,
+        43.738361
+      ]
+    },
+    "event_uniq": "GO-2016978521",
+    "crime_type": "Assault",
+    "objectid": 164,
+    "district": "d41",
+    "occurren_4": 20,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d41/",
+    "datecon": "Sunday, June 5, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.239298,
+        43.74059
+      ]
+    },
+    "event_uniq": "GO-2016963943",
+    "crime_type": "Assault",
+    "objectid": 165,
+    "district": "d43",
+    "occurren_4": 14,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d43/",
+    "datecon": "Friday, June 3, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.589233,
+        43.741094
+      ]
+    },
+    "event_uniq": "GO-2016944653",
+    "crime_type": "Assault",
+    "objectid": 166,
+    "district": "d23",
+    "occurren_4": 19,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d23/",
+    "datecon": "Tuesday, May 31, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.219693,
+        43.74502
+      ]
+    },
+    "event_uniq": "GO-2016944522",
+    "crime_type": "Assault",
+    "objectid": 167,
+    "district": "d43",
+    "occurren_4": 19,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d43/",
+    "datecon": "Tuesday, May 31, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.477127,
+        43.747475
+      ]
+    },
+    "event_uniq": "GO-2016951899",
+    "crime_type": "Assault",
+    "objectid": 168,
+    "district": "d32",
+    "occurren_4": 20,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d32/",
+    "datecon": "Wednesday, June 1, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.486452,
+        43.744778
+      ]
+    },
+    "event_uniq": "GO-2016952686",
+    "crime_type": "Assault",
+    "objectid": 169,
+    "district": "d31",
+    "occurren_4": 23,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Wednesday, June 1, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.553515,
+        43.747704
+      ]
+    },
+    "event_uniq": "GO-2016969775",
+    "crime_type": "Assault",
+    "objectid": 170,
+    "district": "d31",
+    "occurren_4": 12,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Saturday, June 4, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.46339,
+        43.750251
+      ]
+    },
+    "event_uniq": "GO-2016951409",
+    "crime_type": "Assault",
+    "objectid": 171,
+    "district": "d32",
+    "occurren_4": 18,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d32/",
+    "datecon": "Wednesday, June 1, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.202794,
+        43.749838
+      ]
+    },
+    "event_uniq": "GO-2016957920",
+    "crime_type": "Assault",
+    "objectid": 172,
+    "district": "d43",
+    "occurren_4": 17,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d43/",
+    "datecon": "Thursday, June 2, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.523502,
+        43.749044
+      ]
+    },
+    "event_uniq": "GO-2016960928",
+    "crime_type": "Assault",
+    "objectid": 173,
+    "district": "d31",
+    "occurren_4": 11,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Tuesday, May 31, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.252901,
+        43.751473
+      ]
+    },
+    "event_uniq": "GO-2016975925",
+    "crime_type": "Assault",
+    "objectid": 174,
+    "district": "d43",
+    "occurren_4": 12,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d43/",
+    "datecon": "Sunday, June 5, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.51649,
+        43.752509
+      ]
+    },
+    "event_uniq": "GO-2016964285",
+    "crime_type": "Assault",
+    "objectid": 175,
+    "district": "d31",
+    "occurren_4": 22,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Friday, June 3, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.530475,
+        43.75325
+      ]
+    },
+    "event_uniq": "GO-2016933639",
+    "crime_type": "Assault",
+    "objectid": 176,
+    "district": "d31",
+    "occurren_4": 10,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Monday, May 30, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.518125,
+        43.754485
+      ]
+    },
+    "event_uniq": "GO-2016969598",
+    "crime_type": "Assault",
+    "objectid": 177,
+    "district": "d31",
+    "occurren_4": 12,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Saturday, June 4, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.515363,
+        43.757612
+      ]
+    },
+    "event_uniq": "GO-2016945400",
+    "crime_type": "Assault",
+    "objectid": 178,
+    "district": "d31",
+    "occurren_4": 21,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Tuesday, May 31, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.229358,
+        43.756901
+      ]
+    },
+    "event_uniq": "GO-2016950272",
+    "crime_type": "Assault",
+    "objectid": 179,
+    "district": "d43",
+    "occurren_4": 16,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d43/",
+    "datecon": "Wednesday, June 1, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.229358,
+        43.756901
+      ]
+    },
+    "event_uniq": "GO-2016970092",
+    "crime_type": "Assault",
+    "objectid": 180,
+    "district": "d43",
+    "occurren_4": 13,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d43/",
+    "datecon": "Saturday, June 4, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.239565,
+        43.760333
+      ]
+    },
+    "event_uniq": "GO-2016978165",
+    "crime_type": "Assault",
+    "objectid": 181,
+    "district": "d43",
+    "occurren_4": 19,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d43/",
+    "datecon": "Sunday, June 5, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.411156,
+        43.762352
+      ]
+    },
+    "event_uniq": "GO-2016967702",
+    "crime_type": "Assault",
+    "objectid": 182,
+    "district": "d32",
+    "occurren_4": 3,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d32/",
+    "datecon": "Saturday, June 4, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.411156,
+        43.762352
+      ]
+    },
+    "event_uniq": "GO-2016940666",
+    "crime_type": "Assault",
+    "objectid": 183,
+    "district": "d32",
+    "occurren_4": 9,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d32/",
+    "datecon": "Tuesday, May 31, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.182556,
+        43.763025
+      ]
+    },
+    "event_uniq": "GO-2016975139",
+    "crime_type": "Assault",
+    "objectid": 184,
+    "district": "d43",
+    "occurren_4": 9,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d43/",
+    "datecon": "Sunday, June 5, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.204783,
+        43.763967
+      ]
+    },
+    "event_uniq": "GO-2016960018",
+    "crime_type": "Assault",
+    "objectid": 185,
+    "district": "d43",
+    "occurren_4": 0,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d43/",
+    "datecon": "Friday, June 3, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.503767,
+        43.76525
+      ]
+    },
+    "event_uniq": "GO-2016958467",
+    "crime_type": "Assault",
+    "objectid": 186,
+    "district": "d31",
+    "occurren_4": 19,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d31/",
+    "datecon": "Thursday, June 2, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.196895,
+        43.763613
+      ]
+    },
+    "event_uniq": "GO-2016971181",
+    "crime_type": "Assault",
+    "objectid": 187,
+    "district": "d43",
+    "occurren_4": 16,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d43/",
+    "datecon": "Saturday, June 4, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.190593,
+        43.764943
+      ]
+    },
+    "event_uniq": "GO-2016940949",
+    "crime_type": "Assault",
+    "objectid": 188,
+    "district": "d43",
+    "occurren_4": 10,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d43/",
+    "datecon": "Tuesday, May 31, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.188609,
+        43.763969
+      ]
+    },
+    "event_uniq": "GO-2016956970",
+    "crime_type": "Assault",
+    "objectid": 189,
+    "district": "d43",
+    "occurren_4": 15,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d43/",
+    "datecon": "Thursday, June 2, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.190593,
+        43.764943
+      ]
+    },
+    "event_uniq": "GO-2016971315",
+    "crime_type": "Assault",
+    "objectid": 190,
+    "district": "d43",
+    "occurren_4": 17,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d43/",
+    "datecon": "Saturday, June 4, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.471481,
+        43.767826
+      ]
+    },
+    "event_uniq": "GO-2016976414",
+    "crime_type": "Assault",
+    "objectid": 191,
+    "district": "d32",
+    "occurren_4": 13,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d32/",
+    "datecon": "Sunday, June 5, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.268256,
+        43.767082
+      ]
+    },
+    "event_uniq": "GO-2016934791",
+    "crime_type": "Assault",
+    "objectid": 192,
+    "district": "d41",
+    "occurren_4": 13,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d41/",
+    "datecon": "Monday, May 30, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.401373,
+        43.768001
+      ]
+    },
+    "event_uniq": "GO-2016957002",
+    "crime_type": "Assault",
+    "objectid": 193,
+    "district": "d32",
+    "occurren_4": 15,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d32/",
+    "datecon": "Thursday, June 2, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.188077,
+        43.76727
+      ]
+    },
+    "event_uniq": "GO-2016958351",
+    "crime_type": "Assault",
+    "objectid": 194,
+    "district": "d43",
+    "occurren_4": 18,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d43/",
+    "datecon": "Thursday, June 2, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.179609,
+        43.768365
+      ]
+    },
+    "event_uniq": "GO-2016924600",
+    "crime_type": "Assault",
+    "objectid": 195,
+    "district": "d43",
+    "occurren_4": 17,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d43/",
+    "datecon": "Tuesday, May 31, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.179609,
+        43.768365
+      ]
+    },
+    "event_uniq": "GO-2016942600",
+    "crime_type": "Assault",
+    "objectid": 196,
+    "district": "d43",
+    "occurren_4": 18,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d43/",
+    "datecon": "Tuesday, May 31, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.449537,
+        43.765883
+      ]
+    },
+    "event_uniq": "GO-2016979186",
+    "crime_type": "Assault",
+    "objectid": 197,
+    "district": "d32",
+    "occurren_4": 1,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d32/",
+    "datecon": "Sunday, June 5, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.441702,
+        43.76857
+      ]
+    },
+    "event_uniq": "GO-2016965723",
+    "crime_type": "Assault",
+    "objectid": 198,
+    "district": "d32",
+    "occurren_4": 19,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d32/",
+    "datecon": "Friday, June 3, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.188819,
+        43.768507
+      ]
+    },
+    "event_uniq": "GO-2016948845",
+    "crime_type": "Assault",
+    "objectid": 199,
+    "district": "d43",
+    "occurren_4": 16,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d43/",
+    "datecon": "Wednesday, June 1, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.190721,
+        43.773623
+      ]
+    },
+    "event_uniq": "GO-2016935438",
+    "crime_type": "Assault",
+    "objectid": 200,
+    "district": "d43",
+    "occurren_4": 8,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d43/",
+    "datecon": "Tuesday, May 31, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.174812,
+        43.774428
+      ]
+    },
+    "event_uniq": "GO-2016948802",
+    "crime_type": "Assault",
+    "objectid": 201,
+    "district": "d43",
+    "occurren_4": 11,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d43/",
+    "datecon": "Wednesday, June 1, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.145949,
+        43.775908
+      ]
+    },
+    "event_uniq": "GO-2016950553",
+    "crime_type": "Assault",
+    "objectid": 202,
+    "district": "d43",
+    "occurren_4": 8,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d43/",
+    "datecon": "Wednesday, June 1, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.143467,
+        43.778053
+      ]
+    },
+    "event_uniq": "GO-2016934724",
+    "crime_type": "Assault",
+    "objectid": 203,
+    "district": "d43",
+    "occurren_4": 13,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d43/",
+    "datecon": "Monday, May 30, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.232979,
+        43.779545
+      ]
+    },
+    "event_uniq": "GO-2016936070",
+    "crime_type": "Assault",
+    "objectid": 204,
+    "district": "d43",
+    "occurren_4": 16,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d43/",
+    "datecon": "Monday, May 30, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.260048,
+        43.785175
+      ]
+    },
+    "event_uniq": "GO-2016962835",
+    "crime_type": "Assault",
+    "objectid": 205,
+    "district": "d42",
+    "occurren_4": 12,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d42/",
+    "datecon": "Friday, June 3, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.43795,
+        43.790567
+      ]
+    },
+    "event_uniq": "GO-2016973529",
+    "crime_type": "Assault",
+    "objectid": 206,
+    "district": "d32",
+    "occurren_4": 23,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d32/",
+    "datecon": "Saturday, June 4, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.303782,
+        43.790092
+      ]
+    },
+    "event_uniq": "GO-2016975775",
+    "crime_type": "Assault",
+    "objectid": 207,
+    "district": "d42",
+    "occurren_4": 14,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d42/",
+    "datecon": "Saturday, June 4, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.160333,
+        43.789913
+      ]
+    },
+    "event_uniq": "GO-2016957526",
+    "crime_type": "Assault",
+    "objectid": 208,
+    "district": "d43",
+    "occurren_4": 17,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d43/",
+    "datecon": "Thursday, June 2, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.184286,
+        43.794642
+      ]
+    },
+    "event_uniq": "GO-2016967298",
+    "crime_type": "Assault",
+    "objectid": 209,
+    "district": "d43",
+    "occurren_4": 1,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d43/",
+    "datecon": "Saturday, June 4, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.239912,
+        43.795718
+      ]
+    },
+    "event_uniq": "GO-2016970277",
+    "crime_type": "Assault",
+    "objectid": 210,
+    "district": "d42",
+    "occurren_4": 14,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d42/",
+    "datecon": "Saturday, June 4, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.226221,
+        43.800915
+      ]
+    },
+    "event_uniq": "GO-2016934651",
+    "crime_type": "Assault",
+    "objectid": 211,
+    "district": "d42",
+    "occurren_4": 9,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d42/",
+    "datecon": "Monday, May 30, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.185507,
+        43.806642
+      ]
+    },
+    "event_uniq": "GO-2016952296",
+    "crime_type": "Assault",
+    "objectid": 212,
+    "district": "d42",
+    "occurren_4": 21,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d42/",
+    "datecon": "Wednesday, June 1, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.213317,
+        43.809868
+      ]
+    },
+    "event_uniq": "GO-2016955848",
+    "crime_type": "Assault",
+    "objectid": 213,
+    "district": "d42",
+    "occurren_4": 12,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d42/",
+    "datecon": "Thursday, June 2, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.213317,
+        43.809868
+      ]
+    },
+    "event_uniq": "GO-2016963124",
+    "crime_type": "Assault",
+    "objectid": 214,
+    "district": "d42",
+    "occurren_4": 21,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d42/",
+    "datecon": "Thursday, June 2, 2016"
+  }
+]

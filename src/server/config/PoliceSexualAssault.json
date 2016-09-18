@@ -1,0 +1,104 @@
+[
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.453443,
+        43.65503
+      ]
+    },
+    "event_uniq": "GO-2016858232",
+    "crime_type": "Sexual Assault",
+    "objectid": 1,
+    "district": "d11",
+    "occurren_4": 21,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d11/",
+    "datecon": "Wednesday, May 18, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.401895,
+        43.641915
+      ]
+    },
+    "event_uniq": "GO-2016838924",
+    "crime_type": "Sexual Assault",
+    "objectid": 2,
+    "district": "d14",
+    "occurren_4": 2,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d14/",
+    "datecon": "Monday, May 16, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.429903,
+        43.740372
+      ]
+    },
+    "event_uniq": "GO-2016851916",
+    "crime_type": "Sexual Assault",
+    "objectid": 3,
+    "district": "d32",
+    "occurren_4": 23,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d32/",
+    "datecon": "Tuesday, May 17, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.366733,
+        43.653933
+      ]
+    },
+    "event_uniq": "GO-2016873916",
+    "crime_type": "Sexual Assault",
+    "objectid": 4,
+    "district": "d51",
+    "occurren_4": 6,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d51/",
+    "datecon": "Saturday, May 21, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.357001,
+        43.654755
+      ]
+    },
+    "event_uniq": "GO-2016880060",
+    "crime_type": "Sexual Assault",
+    "objectid": 5,
+    "district": "d51",
+    "occurren_4": 4,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d51/",
+    "datecon": "Sunday, May 22, 2016"
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.396938,
+        43.660447
+      ]
+    },
+    "event_uniq": "GO-2016858267",
+    "crime_type": "Sexual Assault",
+    "objectid": 6,
+    "district": "d52",
+    "occurren_4": 9,
+    "crimestopp": "https://www.tipsubmit.com/WebTips.aspx?AgencyID=312&HR=https://www.alphacomputer.ca/fb/boxes/leave-a-tip/index.html",
+    "divisional": "http://www.torontopolice.on.ca/d52/",
+    "datecon": "Wednesday, May 18, 2016"
+  }
+]

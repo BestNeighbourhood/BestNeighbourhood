@@ -133,22 +133,20 @@ var TablesOptions = [
                     
                         for ( nbr  in nbrhoods) {  
                               var negative = (table.tableName === 'policesafetyindicators') ? -1 : 1;
-                              
-
-                         client.query('SELECT count(*) FROM ' + table +' WHERE TRIM(UPPER(neighbourhood)) = ' + "UPPER('" + nbrhood + "')", function (err, results) {
+                                                       client.query('SELECT count(*) FROM ' + table +' WHERE TRIM(UPPER(neighbourhood)) = ' + "UPPER('" + nbrhood + "')", function (err, results) {
                                  if (err) {
                                         console.log(err);
                                  } else {
-
+                                     
                                      //   isNegative* importance
                                      response.push('Number of Youth Services /population ' + results.rows[0]['count(*)'] + ' / ' + population);
                                       // defibrillators               
                              } });
-
                     }
                 }
              }
          }
+    }
     }
 
     /* Get statistics for neighbourhood : sample usage : getStat?nbrhood=""*/

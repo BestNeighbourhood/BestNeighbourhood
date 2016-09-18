@@ -4,6 +4,7 @@ import ActionGrade from 'material-ui/svg-icons/action/grade';
 import ContentInbox from 'material-ui/svg-icons/content/inbox';
 import ContentDrafts from 'material-ui/svg-icons/content/drafts';
 import ContentSend from 'material-ui/svg-icons/content/send';
+import CategorySlider from './CategorySlider.jsx';
 
 export default class PreferencesList extends React.Component {
   constructor(props) {
@@ -38,29 +39,6 @@ export default class PreferencesList extends React.Component {
       "Recreational Drop in Programs",
       "Cultural Hotspot Points of Interest"
     ];
-
-"Police Facility Locations",
-"Fire Station Locations",
-"Automatic External Defibrillators (AED) Locations",
-"Toronto Beaches Water Quality",
-"Safety Indicators (2014)",
-"Break and Enter - Residential",
-"Assault",
-"Robbery",
-"Auto theft",
-"Sexual Assault",
-"Theft Over",
-"Break and Enter - Other",
-"Homicide Snapped Layer",
-"Homicide",
-"Shooting",
-"Theftover Snapped Layer",
-"Patrol Zones Prod",
-"MCI Snapped Layer",
-"ShootingsSnapped Layer",
-"Break and Enter- Commercial",
-"Dinesafe",
-"BodySafe"
 
     let safety_categories = [
       "Police Facility Locations",
@@ -161,6 +139,7 @@ export default class PreferencesList extends React.Component {
                   key={index}
                   primaryText={category}
                   leftIcon={<ActionGrade />}
+                  children={<CategorySlider key={category + index}/>}
                 />
               )
             }
@@ -179,6 +158,7 @@ export default class PreferencesList extends React.Component {
                   key={index}
                   primaryText={category}
                   leftIcon={<ActionGrade />}
+                  children={<CategorySlider key={category + index}/>}
                 />
               )
             }
@@ -197,6 +177,7 @@ export default class PreferencesList extends React.Component {
                   key={index}
                   primaryText={category}
                   leftIcon={<ActionGrade />}
+                  children={<CategorySlider key={category + index}/>}
                 />
               )
             }
@@ -215,6 +196,7 @@ export default class PreferencesList extends React.Component {
                   key={index}
                   primaryText={category}
                   leftIcon={<ActionGrade />}
+                  children={<CategorySlider key={category + index}/>}
                 />
               )
             }
@@ -233,6 +215,7 @@ export default class PreferencesList extends React.Component {
                   key={index}
                   primaryText={category}
                   leftIcon={<ActionGrade />}
+                  children={<CategorySlider key={category + index}/>}
                 />
               )
             }
@@ -251,6 +234,7 @@ export default class PreferencesList extends React.Component {
                   key={index}
                   primaryText={category}
                   leftIcon={<ActionGrade />}
+                  children={<CategorySlider key={category + index}/>}
                 />
               )
             }
@@ -269,6 +253,7 @@ export default class PreferencesList extends React.Component {
                   key={index}
                   primaryText={category}
                   leftIcon={<ActionGrade />}
+                  children={<CategorySlider key={category + index}/>}
                 />
               )
             }

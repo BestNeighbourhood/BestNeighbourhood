@@ -1,18 +1,18 @@
 {
-  "name": "bloomhack",
+  "name": "Neighbrohood",
   "version": "1.0.0",
-  "description": "BloomHack",
+  "description": "App which helps you to find a neighborhood in Toronto based on your priorities",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://OZhurbenko@bitbucket.org/bloomhack/bloomhack.git"
+    "url": "git+https://github.com/HackTheNorth-2016/Neighbrohood.git"
   },
   "author": "",
   "license": "MIT",
-  "homepage": "https://bitbucket.org/bloomhack/bloomhack#readme",
+  "homepage": "https://github.com/HackTheNorth-2016/Neighbrohood#readme",
   "dependencies": {
     "body-parser": "^1.15.2",
     "cookie-parser": "^1.4.3",

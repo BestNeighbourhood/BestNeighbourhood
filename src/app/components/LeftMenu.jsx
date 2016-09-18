@@ -1,5 +1,5 @@
 import React from 'react';
-import { List, ListItem, Subheader } from 'material-ui';
+import { List, ListItem, Subheader, Divider } from 'material-ui';
 import ActionInfo from 'material-ui/svg-icons/action/info';
 import ContentInbox from 'material-ui/svg-icons/content/inbox';
 import ContentDrafts from 'material-ui/svg-icons/content/drafts';
@@ -22,12 +22,13 @@ export default class LeftMenu extends React.Component {
     return (
       <div>
         <List>
-          <Subheader>Nested List Items</Subheader>
           {neighborhoods_borders.map(neighborhood => (
-            <ListItem
-              key={neighborhood.area_s_cd}
-              primaryText={neighborhood.area_name.substring(0,neighborhood.area_name.indexOf('('))}
-            />
+            <span key={neighborhood.area_s_cd}>
+              <ListItem
+                primaryText={neighborhood.area_name.substring(0,neighborhood.area_name.indexOf('('))}
+              />
+              <Divider/>
+            </span>
           ))}
         </List>
       </div>

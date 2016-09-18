@@ -5,6 +5,7 @@ import ContentInbox from 'material-ui/svg-icons/content/inbox';
 import ContentDrafts from 'material-ui/svg-icons/content/drafts';
 import ContentSend from 'material-ui/svg-icons/content/send';
 import CategorySlider from './CategorySlider.jsx';
+import IP from '../../../config/config.js';
 
 export default class PreferencesList extends React.Component {
   constructor(props) {
@@ -89,21 +90,22 @@ export default class PreferencesList extends React.Component {
     ];
 
     this.state = {
-      educationOpen: true,
-      healthOpen: false,
-      cosinessOpen: false,
-      cultureOpen: false,
-      publicSafetyOpen: false,
-      transportationOpen: false,
-      demographicOpen: false,
-      currentOpen: "educationOpen",
-      educationCategories: ed_categories,
-      healthCategories: health_categories,
-      cosinessCategories: cosiness_categories,
-      cultureCategories: culture_categories,
-      safetyCategories: safety_categories,
-      transportationCategories: transportation_categories,
-      otherCategories: other_categories
+      Education: true,
+      Health: false,
+      Recreation: false,
+      Transportation: false,
+      Other: false,
+      Safety: false,
+      currentOpen: "Education",
+      preferences: [],
+      showList: false,
+      // educationCategories: ed_categories,
+      // healthCategories: health_categories,
+      // cosinessCategories: cosiness_categories,
+      // cultureCategories: culture_categories,
+      // safetyCategories: safety_categories,
+      // transportationCategories: transportation_categories,
+      // otherCategories: other_categories
     }
   }
 
@@ -119,145 +121,48 @@ export default class PreferencesList extends React.Component {
       })
     }
   }
+  componentDidMount() {
+    console.log('ComponentDidMount');
+    var httpRequest = new XMLHttpRequest();
+    httpRequest.onreadystatechange = function() {
+      var preferences =  JSON.parse(httpRequest.responseText);
+      this.setState({
+        preferences: preferences,
+        showList: true
+      });
+    }.bind(this);
+    httpRequest.open('GET', "http://" + IP + "/options");
+    httpRequest.send(null);
+  }
 
   render() {
     return (
       <div>
         <List>
-          <Subheader>Nested List Items</Subheader>
-          <ListItem
-            primaryText="Education"
-            primaryTogglesNestedList={true}
-            leftCheckbox={
-              <Checkbox/>
-            }
-            open={this.state.currentOpen == "educationOpen" ? true : false }
-            onNestedListToggle={this.toggleCategory.bind(this, "educationOpen")}
-            nestedItems={
-              this.state.educationCategories.map((category, index) =>
-                <ListItem
-                  key={index}
-                  primaryText={category}
-                  leftIcon={<ActionGrade />}
-                  children={<CategorySlider key={category + index}/>}
-                />
-              )
-            }
-          />
-          <ListItem
-            primaryText="Health"
-            primaryTogglesNestedList={true}
-            leftCheckbox={
-              <Checkbox/>
-            }
-            onNestedListToggle={this.toggleCategory.bind(this, "healthOpen")}
-            open={this.state.currentOpen == "healthOpen" ? true : false }
-            nestedItems={
-              this.state.healthCategories.map((category, index) =>
-                <ListItem
-                  key={index}
-                  primaryText={category}
-                  leftIcon={<ActionGrade />}
-                  children={<CategorySlider key={category + index}/>}
-                />
-              )
-            }
-          />
-          <ListItem
-            primaryText="Cosiness"
-            primaryTogglesNestedList={true}
-            leftCheckbox={
-              <Checkbox/>
-            }
-            onNestedListToggle={this.toggleCategory.bind(this, "cosinessOpen")}
-            open={this.state.currentOpen == "cosinessOpen" ? true : false }
-            nestedItems={
-              this.state.cosinessCategories.map((category, index) =>
-                <ListItem
-                  key={index}
-                  primaryText={category}
-                  leftIcon={<ActionGrade />}
-                  children={<CategorySlider key={category + index}/>}
-                />
-              )
-            }
-          />
-          <ListItem
-            primaryText="Culture/Recreation"
-            primaryTogglesNestedList={true}
-            leftCheckbox={
-              <Checkbox/>
-            }
-            onNestedListToggle={this.toggleCategory.bind(this, "cultureOpen")}
-            open={this.state.currentOpen == "cultureOpen" ? true : false }
-            nestedItems={
-              this.state.cultureCategories.map((category, index) =>
-                <ListItem
-                  key={index}
-                  primaryText={category}
-                  leftIcon={<ActionGrade />}
-                  children={<CategorySlider key={category + index}/>}
-                />
-              )
-            }
-          />
-          <ListItem
-            primaryText="Public Safety"
-            primaryTogglesNestedList={true}
-            leftCheckbox={
-              <Checkbox/>
-            }
-            onNestedListToggle={this.toggleCategory.bind(this, "publicSafetyOpen")}
-            open={this.state.currentOpen == "publicSafetyOpen" ? true : false }
-            nestedItems={
-              this.state.safetyCategories.map((category, index) =>
-                <ListItem
-                  key={index}
-                  primaryText={category}
-                  leftIcon={<ActionGrade />}
-                  children={<CategorySlider key={category + index}/>}
-                />
-              )
-            }
-          />
-          <ListItem
-            primaryText="Transportation"
-            primaryTogglesNestedList={true}
-            leftCheckbox={
-              <Checkbox/>
-            }
-            onNestedListToggle={this.toggleCategory.bind(this, "transportationOpen")}
-            open={this.state.currentOpen == "transportationOpen" ? true : false }
-            nestedItems={
-              this.state.transportationCategories.map((category, index) =>
-                <ListItem
-                  key={index}
-                  primaryText={category}
-                  leftIcon={<ActionGrade />}
-                  children={<CategorySlider key={category + index}/>}
-                />
-              )
-            }
-          />
-          <ListItem
-            primaryText="Other (Demographic/Neighbourhoods)"
-            primaryTogglesNestedList={true}
-            leftCheckbox={
-              <Checkbox/>
-            }
-            onNestedListToggle={this.toggleCategory.bind(this, "demographicOpen")}
-            open={this.state.currentOpen == "demographicOpen" ? true : false }
-            nestedItems={
-              this.state.otherCategories.map((category, index) =>
-                <ListItem
-                  key={index}
-                  primaryText={category}
-                  leftIcon={<ActionGrade />}
-                  children={<CategorySlider key={category + index}/>}
-                />
-              )
-            }
-          />
+          <Subheader>Preferences</Subheader>
+          {this.state.showList ?
+            this.state.preferences.map((obj, index) =>
+              <ListItem
+              primaryText={obj.category}
+              primaryTogglesNestedList={true}
+              leftCheckbox={
+                <Checkbox defaultChecked={true}/>
+              }
+              open={this.state.currentOpen == obj.category ? true : false }
+              onNestedListToggle={this.toggleCategory.bind(this, obj.category)}
+              nestedItems={
+                obj.tables.map((_obj, index) =>
+                  <ListItem
+                    key={index}
+                    primaryText={_obj.title}
+                    leftIcon={<ActionGrade />}
+                    children={<CategorySlider key={_obj.title + index}/>}
+                  />
+                )
+              }
+            />
+            )
+          : null}
         </List>
       </div>
     );

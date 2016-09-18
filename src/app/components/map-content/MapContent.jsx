@@ -6,12 +6,13 @@ import shouldPureComponentUpdate from 'react-pure-render/function';
 
 import GoogleMap from 'google-map-react';
 import MyGreatPlaceWithStick from './my_great_place_with_stick.jsx';
+import neighborhoods_borders from '../../../data/neighborhoods_borders.js';
 
 import {K_CIRCLE_SIZE, K_STICK_SIZE} from './my_great_place_with_hover_styles.js';
 
 const defaultProps = {
-  center: [43.6532 ,-79.3832],
-  zoom: 9,
+  center: [43.723736 ,-79.379555],
+  zoom: 11,
   greatPlaceCoords: {lat: 43.6532, lng: -79.3832}
 };
 
@@ -20,11 +21,22 @@ export default class MapContent extends Component {
     super(props);
     this.shouldComponentUpdate = shouldPureComponentUpdate.bind(this);
     this._distanceToMouse = this._distanceToMouse.bind(this);
+
+    var i;
+    var markers_coordinates = [];
+    for (var i = 0; i < this.props.neighborhoods_borders.length; i++) {  // 140
+      markers_coordinates.push({
+        coordinate: this.props.neighborhoods_borders[i].geometry.coordinates[0][0],
+        code: parseInt(this.props.neighborhoods_borders[i].area_s_cd)});
+    }
+
     this.state = {
       map: undefined,
       maps: undefined,
       neighborhoodsDrawn: false,
+      markers_coordinates: markers_coordinates
     }
+    console.log(markers_coordinates);
   }
 
   _distanceToMouse(markerPos, mousePos, markerProps) {
@@ -56,13 +68,14 @@ export default class MapContent extends Component {
       for (var i = 0; i < this.props.neighborhoods_borders.length; i++) {  // 140
         var entry = new Array();
         var _data = this.props.neighborhoods_borders[i].geometry.coordinates[0];
+
         for(var j = 0; j < _data.length; j++){ // 93
           entry.push({
             lat: _data[j][1],
             lng: _data[j][0],
           });
         }
-        console.log(entry[0].lat + ' - ' + entry[0].lng);
+
         var nbrhood = new this.state.maps.Polygon({
           paths: entry,
           strokeColor: '#ff4d4d',
@@ -96,8 +109,9 @@ export default class MapContent extends Component {
         hoverDistance={K_CIRCLE_SIZE / 2}
         distanceToMouse={this._distanceToMouse}
         >
-        <MyGreatPlaceWithStick lat={43.6632} lng={-79.3932} text={'A'} zIndex={2} /* Kreyser Avrora */ />
-        <MyGreatPlaceWithStick {...this.props.greatPlaceCoords} text={'B'} zIndex={1} /* place near Kreyser Avrora */ />
+        {this.state.markers_coordinates.map((obj, index) => (
+          <MyGreatPlaceWithStick key={index} lat={obj.coordinate[1]} lng={obj.coordinate[0]} text={obj.code} zIndex={2} /* Kreyser Avrora */ />
+        ))}
       </GoogleMap>
     );
   }

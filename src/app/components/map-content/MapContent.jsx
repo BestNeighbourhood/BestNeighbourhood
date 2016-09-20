@@ -25,9 +25,17 @@ export default class MapContent extends Component {
     var i;
     var markers_coordinates = [];
     for (var i = 0; i < this.props.neighborhoods_borders.length; i++) {  // 140
+      var center = this.props.neighborhoods_borders[i].center.split(",");
+      console.log(center);
+      center = [parseFloat(center[0]), parseFloat(center[1])];
+
+      console.log(i);
+      console.log(center[0], center[1]);
       markers_coordinates.push({
         coordinate: this.props.neighborhoods_borders[i].geometry.coordinates[0][0],
-        code: parseInt(this.props.neighborhoods_borders[i].area_s_cd)});
+        code: parseInt(this.props.neighborhoods_borders[i].area_s_cd),
+        center: center
+      });
     }
 
     this.state = {
@@ -110,7 +118,7 @@ export default class MapContent extends Component {
         distanceToMouse={this._distanceToMouse}
         >
         {this.state.markers_coordinates.map((obj, index) => (
-          <MyGreatPlaceWithStick key={index} lat={obj.coordinate[1]} lng={obj.coordinate[0]} text={obj.code} zIndex={2} /* Kreyser Avrora */ />
+          <MyGreatPlaceWithStick key={index} lat={obj.center[0]} lng={obj.center[1]} text={obj.code.toString()} zIndex={1} /* Kreyser Avrora */ />
         ))}
       </GoogleMap>
     );

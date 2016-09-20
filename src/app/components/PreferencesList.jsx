@@ -90,22 +90,9 @@ export default class PreferencesList extends React.Component {
     ];
 
     this.state = {
-      Education: true,
-      Health: false,
-      Recreation: false,
-      Transportation: false,
-      Other: false,
-      Safety: false,
       currentOpen: "Education",
       preferences: [],
       showList: false,
-      // educationCategories: ed_categories,
-      // healthCategories: health_categories,
-      // cosinessCategories: cosiness_categories,
-      // cultureCategories: culture_categories,
-      // safetyCategories: safety_categories,
-      // transportationCategories: transportation_categories,
-      // otherCategories: other_categories
     }
   }
 
@@ -126,13 +113,33 @@ export default class PreferencesList extends React.Component {
     var httpRequest = new XMLHttpRequest();
     httpRequest.onreadystatechange = function() {
       var preferences =  JSON.parse(httpRequest.responseText);
+      var i, j;
+      var sliders = [];
+      for(i =0; i< preferences.length; i++) {
+        for(j = 0; j < preferences[i].tables.length; j++) {
+          sliders.push({tableName: preferences[i].tables[j].tableName, priority: 50});
+        }
+      }
       this.setState({
         preferences: preferences,
-        showList: true
+        showList: true,
+        sliders:sliders
       });
     }.bind(this);
     httpRequest.open('GET', "http://" + IP + "/options");
     httpRequest.send(null);
+  }
+
+  sliderOnDragStop(value, tableName) {
+    var i = 0;
+    console.log(this.state.sliders.length);
+    for (; i < this.state.sliders.length; i++) {
+      if(this.state.sliders[i].tableName == tableName) {
+        console.log("HAHAHAHAHAHA");
+      }
+    }
+    console.log(value);
+    console.log(tableName);
   }
 
   render() {
@@ -143,6 +150,7 @@ export default class PreferencesList extends React.Component {
           {this.state.showList ?
             this.state.preferences.map((obj, index) =>
               <ListItem
+              key={index}
               primaryText={obj.category}
               primaryTogglesNestedList={true}
               leftCheckbox={
@@ -156,7 +164,13 @@ export default class PreferencesList extends React.Component {
                     key={index}
                     primaryText={_obj.title}
                     leftIcon={<ActionGrade />}
-                    children={<CategorySlider key={_obj.title + index}/>}
+                    children={
+                      <CategorySlider
+                        key={_obj.title + index}
+                        onDragStop={this.sliderOnDragStop.bind(this)}
+                        tableName={_obj.tableName}
+                      />
+                    }
                   />
                 )
               }

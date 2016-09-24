@@ -9,18 +9,24 @@ export default class CategorySlider extends React.Component {
 constructor(props) {
   super(props);
   this.state = {
-    firstSlider: 0.5,
     secondSlider: 50,
+    tableName: this.props.tableName
   };
 }
-  handleFirstSlider(event, value) {
-    this.setState({firstSlider: value});
-  }
-
+componentDidUpdate() {
+  console.log('updated slider class');
+}
   handleSecondSlider(event, value) {
+    console.log("changing the value");
+    console.log(value);
     this.setState({secondSlider: value});
   }
-
+  handleOnDragStop(event, value) {
+    console.log('on drag stop inside the slider');
+    console.log('current value is :');
+    console.log(this.state.secondSlider);
+    this.props.onDragStop(this.state.secondSlider, this.state.tableName);
+  }
   render() {
     return (
       <Slider
@@ -31,6 +37,7 @@ constructor(props) {
         defaultValue={50}
         value={this.state.secondSlider}
         onChange={this.handleSecondSlider.bind(this)}
+        onDragStop={this.handleOnDragStop.bind(this)}
       />
     );
   }

@@ -25,6 +25,7 @@
     "passport": "^0.3.2",
     "passport-local": "^1.0.0",
     "pg": "^6.1.0",
+    "point-in-polygon": "^1.0.1",
     "react": "^15.3.0",
     "react-addons-create-fragment": "^15.3.0",
     "react-addons-transition-group": "^15.3.0",

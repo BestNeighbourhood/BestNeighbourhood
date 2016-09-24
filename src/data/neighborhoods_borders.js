@@ -381,7 +381,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "097",
-    "area_name": "Yonge-St.Clair (97)"
+    "area_name": "Yonge-St.Clair (97)",
+	  "center": "43.688076,-79.394128"
   },
   {
     "geometry": {
@@ -2512,7 +2513,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "027",
-    "area_name": "York University Heights (27)"
+    "area_name": "York University Heights (27)",
+	"center" : "43.76798,-79.487262"
   },
   {
     "geometry": {
@@ -3555,7 +3557,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "038",
-    "area_name": "Lansing-Westgate (38)"
+    "area_name": "Lansing-Westgate (38)",
+	"center" : "43.741436,-79.43129"
   },
   {
     "geometry": {
@@ -4242,7 +4245,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "031",
-    "area_name": "Yorkdale-Glen Park (31)"
+    "area_name": "Yorkdale-Glen Park (31)",
+	"center" : "43.709215,-79.447079"
   },
   {
     "geometry": {
@@ -5277,7 +5281,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "016",
-    "area_name": "Stonegate-Queensway (16)"
+    "area_name": "Stonegate-Queensway (16)",
+	"center":"43.637273,-79.48384"
   },
   {
     "geometry": {
@@ -6460,7 +6465,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "118",
-    "area_name": "Tam O'Shanter-Sullivan (118)"
+    "area_name": "Tam O'Shanter-Sullivan (118)",
+	"center" : "43.788056,-79.301389"
   },
   {
     "geometry": {
@@ -9171,7 +9177,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "063",
-    "area_name": "The Beaches (63)"
+    "area_name": "The Beaches (63)",
+	"center" :"43.667348,-79.296693"
   },
   {
     "geometry": {
@@ -10490,7 +10497,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "003",
-    "area_name": "Thistletown-Beaumond Heights (3)"
+    "area_name": "Thistletown-Beaumond Heights (3)",
+	"center":"43.742896,-79.571247"
   },
   {
     "geometry": {
@@ -11609,7 +11617,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "055",
-    "area_name": "Thorncliffe Park (55)"
+    "area_name": "Thorncliffe Park (55)",
+	"center":"43.708003,-79.352188"
   },
   {
     "geometry": {
@@ -12008,7 +12017,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "059",
-    "area_name": "Danforth East York (59)"
+    "area_name": "Danforth East York (59)",
+	"center":"43.6868,-79.30805"
   },
   {
     "geometry": {
@@ -12447,7 +12457,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "106",
-    "area_name": "Humewood-Cedarvale (106)"
+    "area_name": "Humewood-Cedarvale (106)",
+	"center":"43.693781,-79.428191"
   },
   {
     "geometry": {
@@ -15910,7 +15921,9 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "014",
-    "area_name": "Islington-City Centre West (14)"
+    "area_name": "Islington-City Centre West (14)",
+	"center" :"43.630916,-79.543484"
+	
   },
   {
     "geometry": {
@@ -16205,7 +16218,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "066",
-    "area_name": "Danforth (66)"
+    "area_name": "Danforth (66)",
+	"center":"43.683757,-79.321206"
   },
   {
     "geometry": {
@@ -16728,7 +16742,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "028",
-    "area_name": "Rustic (28)"
+    "area_name": "Rustic (28)",
+	"center" :"43.714277,-79.495697"
   },
   {
     "geometry": {
@@ -19287,7 +19302,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "139",
-    "area_name": "Scarborough Village (139)"
+    "area_name": "Scarborough Village (139)",
+	"center":"43.740615,-79.208887"
   },
   {
     "geometry": {
@@ -22554,7 +22570,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "085",
-    "area_name": "South Parkdale (85)"
+    "area_name": "South Parkdale (85)",
+	"center":"43.643832,-79.442534"
   },
   {
     "geometry": {
@@ -36381,7 +36398,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "070",
-    "area_name": "South Riverdale (70)"
+    "area_name": "South Riverdale (70)",
+	"center" :"43.669714,-79.353185"
   },
   {
     "geometry": {
@@ -38368,7 +38386,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "040",
-    "area_name": "St.Andrew-Windfields (40)"
+    "area_name": "St.Andrew-Windfields (40)",
+	"center":"43.75749,-79.374714"
   },
   {
     "geometry": {
@@ -38735,7 +38754,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "061",
-    "area_name": "Taylor-Massey (61)"
+    "area_name": "Taylor-Massey (61)",
+	"center":"43.653226,-79.383184"
   },
   {
     "geometry": {
@@ -39702,7 +39722,9 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "021",
-    "area_name": "Humber Summit (21)"
+    "area_name": "Humber Summit (21)",
+	"center":"43.7601,-79.571785"
+	
   },
   {
     "geometry": {
@@ -40817,7 +40839,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "022",
-    "area_name": "Humbermede (22)"
+    "area_name": "Humbermede (22)",
+	"center":"43.74213,-79.540674"
   },
   {
     "geometry": {
@@ -43268,7 +43291,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "133",
-    "area_name": "Centennial Scarborough (133)"
+    "area_name": "Centennial Scarborough (133)",
+	"center":"43.783455,-79.149209"
   },
   {
     "geometry": {
@@ -43623,7 +43647,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "075",
-    "area_name": "Church-Yonge Corridor (75)"
+    "area_name": "Church-Yonge Corridor (75)",
+	"center":"43.653226,-79.383184"
   },
   {
     "geometry": {
@@ -44946,7 +44971,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "120",
-    "area_name": "Clairlea-Birchmount (120)"
+    "area_name": "Clairlea-Birchmount (120)",
+	"center":"43.712087,-79.281873"
   },
   {
     "geometry": {
@@ -54401,7 +54427,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "123",
-    "area_name": "Cliffcrest (123)"
+    "area_name": "Cliffcrest (123)",
+	"center":"43.724917,-79.226329"
   },
   {
     "geometry": {
@@ -55376,7 +55403,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "044",
-    "area_name": "Flemingdon Park (44)"
+    "area_name": "Flemingdon Park (44)",
+	"center":"43.720507,-79.338778"
   },
   {
     "geometry": {
@@ -56155,7 +56183,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "092",
-    "area_name": "Corso Italia-Davenport (92)"
+    "area_name": "Corso Italia-Davenport (92)",
+	"center":"43.674537,-79.432599"
   },
   {
     "geometry": {
@@ -56574,7 +56603,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "125",
-    "area_name": "Ionview (125)"
+    "area_name": "Ionview (125)",
+	"center":"43.730824,-79.2739"
   },
   {
     "geometry": {
@@ -57113,7 +57143,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "090",
-    "area_name": "Junction Area (90)"
+    "area_name": "Junction Area (90)",
+	"center":"43.653226,-79.383184"
   },
   {
     "geometry": {
@@ -57772,7 +57803,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "057",
-    "area_name": "Broadview North (57)"
+    "area_name": "Broadview North (57)",
+	"center":"43.686935,-79.355004"
   },
   {
     "geometry": {
@@ -58507,7 +58539,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "010",
-    "area_name": "Princess-Rosethorn (10)"
+    "area_name": "Princess-Rosethorn (10)",
+	"center":"43.668892,-79.543484"
   },
   {
     "geometry": {
@@ -59318,7 +59351,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "068",
-    "area_name": "North Riverdale (68)"
+    "area_name": "North Riverdale (68)",
+	"center":"43.669714,-79.353185"
   },
   {
     "geometry": {
@@ -60149,7 +60183,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "013",
-    "area_name": "Etobicoke West Mall (13)"
+    "area_name": "Etobicoke West Mall (13)",
+	"center":"43.630916,-79.543484"
   },
   {
     "geometry": {
@@ -60468,7 +60503,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "102",
-    "area_name": "Forest Hill North (102)"
+    "area_name": "Forest Hill North (102)",
+	"center":"43.704318,-79.426784"
   },
   {
     "geometry": {
@@ -61871,7 +61907,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "025",
-    "area_name": "Glenfield-Jane Heights (25)"
+    "area_name": "Glenfield-Jane Heights (25)",
+	"center":"43.712065,-79.506196"
   },
   {
     "geometry": {
@@ -62302,7 +62339,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "065",
-    "area_name": "Greenwood-Coxwell (65)"
+    "area_name": "Greenwood-Coxwell (65)",
+	"center":"43.679545,-79.32684"
   },
   {
     "geometry": {
@@ -64473,7 +64511,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "140",
-    "area_name": "Guildwood (140)"
+    "area_name": "Guildwood (140)",
+	"center":"43.752743,-79.192777"
   },
   {
     "geometry": {
@@ -64816,7 +64855,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "081",
-    "area_name": "Trinity-Bellwoods (81)"
+    "area_name": "Trinity-Bellwoods (81)",
+	"center":"43.650037,-79.416936"
   },
   {
     "geometry": {
@@ -65931,7 +65971,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "043",
-    "area_name": "Victoria Village (43)"
+    "area_name": "Victoria Village (43)",
+	"center":"43.735735,-79.312418"
   },
   {
     "geometry": {
@@ -68422,7 +68463,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "077",
-    "area_name": "Waterfront Communities-The Island (77)"
+    "area_name": "Waterfront Communities-The Island (77)",
+	"center":"43.653226,-79.383184"
   },
   {
     "geometry": {
@@ -71357,7 +71399,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "136",
-    "area_name": "West Hill (136)"
+    "area_name": "West Hill (136)",
+	"center":"43.769163,-79.182803"
   },
   {
     "geometry": {
@@ -73948,7 +73991,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "001",
-    "area_name": "West Humber-Clairville (1)"
+    "area_name": "West Humber-Clairville (1)",
+	"center":"43.736341,-79.627222"
   },
   {
     "geometry": {
@@ -75639,7 +75683,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "035",
-    "area_name": "Westminster-Branson (35)"
+    "area_name": "Westminster-Branson (35)",
+	"center": "43.776421,-79.450699"
   },
   {
     "geometry": {
@@ -76246,7 +76291,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "124",
-    "area_name": "Kennedy Park (124)"
+    "area_name": "Kennedy Park (124)",
+	"center":"43.716667,-79.259722"
   },
   {
     "geometry": {
@@ -77369,7 +77415,9 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "006",
-    "area_name": "Kingsview Village-The Westway (6)"
+    "area_name": "Kingsview Village-The Westway (6)",
+	"center":"43.687376,-79.549774"
+	
   },
   {
     "geometry": {
@@ -77892,7 +77940,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "049",
-    "area_name": "Bayview Woods-Steeles (49)"
+    "area_name": "Bayview Woods-Steeles (49)",
+	"center":"43.796411,-79.385975"
   },
   {
     "geometry": {
@@ -78555,7 +78604,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "033",
-    "area_name": "Clanton Park (33)"
+    "area_name": "Clanton Park (33)",
+	"center":"43.740698,-79.438824"
   },
   {
     "geometry": {
@@ -79138,7 +79188,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "110",
-    "area_name": "Keelesdale-Eglinton West (110)"
+    "area_name": "Keelesdale-Eglinton West (110)",
+	"center":"43.687961,-79.467576"
   },
   {
     "geometry": {
@@ -79941,7 +79992,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "054",
-    "area_name": "O'Connor-Parkview (54)"
+    "area_name": "O'Connor-Parkview (54)",
+	"center":"43.706397,-79.309937"
   },
   {
     "geometry": {
@@ -80692,7 +80744,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "058",
-    "area_name": "Old East York (58)"
+    "area_name": "Old East York (58)",
+	"center":"43.696405,-79.329656"
   },
   {
     "geometry": {
@@ -81211,7 +81264,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "096",
-    "area_name": "Casa Loma (96)"
+    "area_name": "Casa Loma (96)",
+	"center":"43.682196,-79.405678"
   },
   {
     "geometry": {
@@ -81558,7 +81612,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "078",
-    "area_name": "Kensington-Chinatown (78)"
+    "area_name": "Kensington-Chinatown (78)",
+	"center":"43.653934,-79.4004"
   },
   {
     "geometry": {
@@ -82417,7 +82472,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "015",
-    "area_name": "Kingsway South (15)"
+    "area_name": "Kingsway South (15)",
+	"center":"43.652674,-79.507194"
   },
   {
     "geometry": {
@@ -82972,7 +83028,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "089",
-    "area_name": "Runnymede-Bloor West Village (89)"
+    "area_name": "Runnymede-Bloor West Village (89)",
+	"center":"43.650263,-79.480402"
   },
   {
     "geometry": {
@@ -83411,7 +83468,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "101",
-    "area_name": "Forest Hill South (101)"
+    "area_name": "Forest Hill South (101)",
+	"center":"43.692732,-79.416936"
   },
   {
     "geometry": {
@@ -84154,7 +84212,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "053",
-    "area_name": "Henry Farm (53)"
+    "area_name": "Henry Farm (53)",
+	"center":"43.771782,-79.352086"
   },
   {
     "geometry": {
@@ -84753,7 +84812,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "095",
-    "area_name": "Annex (95)"
+    "area_name": "Annex (95)",
+	"center":"43.669833,-79.407585"
   },
   {
     "geometry": {
@@ -85344,7 +85404,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "109",
-    "area_name": "Caledonia-Fairbank (109)"
+    "area_name": "Caledonia-Fairbank (109)",
+	"center":"43.686916,-79.456325"
   },
   {
     "geometry": {
@@ -86095,7 +86156,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "008",
-    "area_name": "Humber Heights-Westmount (8)"
+    "area_name": "Humber Heights-Westmount (8)",
+	"center":"43.696358,-79.527033"
   },
   {
     "geometry": {
@@ -86718,7 +86780,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "086",
-    "area_name": "Roncesvalles (86)"
+    "area_name": "Roncesvalles (86)",
+	"center":"43.646344,-79.449051"
   },
   {
     "geometry": {
@@ -87421,7 +87484,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "079",
-    "area_name": "University (79)"
+    "area_name": "University (79)",
+	"center":"43.662696,-79.400049"
   },
   {
     "geometry": {
@@ -87980,7 +88044,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "048",
-    "area_name": "Hillcrest Village (48)"
+    "area_name": "Hillcrest Village (48)",
+	"center":"43.804877,-79.35469"
   },
   {
     "geometry": {
@@ -88499,7 +88564,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "115",
-    "area_name": "Mount Dennis (115)"
+    "area_name": "Mount Dennis (115)",
+	"center":"43.687076,-79.489833"
   },
   {
     "geometry": {
@@ -89118,7 +89184,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "126",
-    "area_name": "Dorset Park (126)"
+    "area_name": "Dorset Park (126)",
+	"center":"43.754001,-79.282117"
   },
   {
     "geometry": {
@@ -89909,7 +89976,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "009",
-    "area_name": "Edenbridge-Humber Valley (9)"
+    "area_name": "Edenbridge-Humber Valley (9)",
+	"center":"43.667113,-79.527974"
   },
   {
     "geometry": {
@@ -90644,7 +90712,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "093",
-    "area_name": "Dovercourt-Wallace Emerson-Junction (93)"
+    "area_name": "Dovercourt-Wallace Emerson-Junction (93)",
+	"center":"43.662793,-79.442308"
   },
   {
     "geometry": {
@@ -91099,7 +91168,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "036",
-    "area_name": "Newtonbrook West (36)"
+    "area_name": "Newtonbrook West (36)",
+	"center":"43.790104,-79.41975"
   },
   {
     "geometry": {
@@ -92742,7 +92812,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "082",
-    "area_name": "Niagara (82)"
+    "area_name": "Niagara (82)",
+	"center":"43.637383,-79.408493"
   },
   {
     "geometry": {
@@ -93089,7 +93160,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "112",
-    "area_name": "Beechborough-Greenbrook (112)"
+    "area_name": "Beechborough-Greenbrook (112)",
+	"center":"43.693748,-79.478826"
   },
   {
     "geometry": {
@@ -93464,7 +93536,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "088",
-    "area_name": "High Park North (88)"
+    "area_name": "High Park North (88)",
+	"center":"43.659497,-79.467576"
   },
   {
     "geometry": {
@@ -94907,7 +94980,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "087",
-    "area_name": "High Park-Swansea (87)"
+    "area_name": "High Park-Swansea (87)",
+	"center":"43.649483,-79.461951"
   },
   {
     "geometry": {
@@ -95970,7 +96044,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "134",
-    "area_name": "Highland Creek (134)"
+    "area_name": "Highland Creek (134)",
+	"center":"43.78658,-79.188292"
   },
   {
     "geometry": {
@@ -96245,7 +96320,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "074",
-    "area_name": "North St.James Town (74)"
+    "area_name": "North St.James Town (74)",
+	"center":"43.670867,-79.373306"
   },
   {
     "geometry": {
@@ -97288,7 +97364,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "121",
-    "area_name": "Oakridge (121)"
+    "area_name": "Oakridge (121)",
+	"center":"43.696632,-79.282859"
   },
   {
     "geometry": {
@@ -98067,7 +98144,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "098",
-    "area_name": "Rosedale-Moore Park (98)"
+    "area_name": "Rosedale-Moore Park (98)",
+	"center":"43.687715,-79.377598"
   },
   {
     "geometry": {
@@ -98450,7 +98528,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "107",
-    "area_name": "Oakwood Village (107)"
+    "area_name": "Oakwood Village (107)",
+	"center":"43.690088,-79.439446"
   },
   {
     "geometry": {
@@ -99509,7 +99588,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "119",
-    "area_name": "Wexford/Maryvale (119)"
+    "area_name": "Wexford/Maryvale (119)",
+	"center":"43.750072,-79.295849"
   },
   {
     "geometry": {
@@ -100676,7 +100756,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "138",
-    "area_name": "Eglinton East (138)"
+    "area_name": "Eglinton East (138)",
+	"center":"43.74,-79.246"
   },
   {
     "geometry": {
@@ -101783,8 +101864,9 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "005",
-    "area_name": "Elms-Old Rexdale (5)"
-  },
+    "area_name": "Elms-Old Rexdale (5)",
+	"center": "43.697116,-79.521673"
+	},
   {
     "geometry": {
       "type": "Polygon",
@@ -102726,7 +102808,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "129",
-    "area_name": "Agincourt North (129)"
+    "area_name": "Agincourt North (129)",
+	"center":"43.80366,-79.262029"
   },
   {
     "geometry": {
@@ -103633,7 +103716,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "128",
-    "area_name": "Agincourt South-Malvern West (128)"
+    "area_name": "Agincourt South-Malvern West (128)",
+	"center":"43.78842,-79.284238"
   },
   {
     "geometry": {
@@ -104476,7 +104560,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "032",
-    "area_name": "Englemount-Lawrence (32)"
+    "area_name": "Englemount-Lawrence (32)",
+	"center":"43.718533,-79.439446"
   },
   {
     "geometry": {
@@ -106799,7 +106884,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "011",
-    "area_name": "Eringate-Centennial-West Deane (11)"
+    "area_name": "Eringate-Centennial-West Deane (11)",
+	"center":"43.662504,-79.577201"
   },
   {
     "geometry": {
@@ -107586,7 +107672,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "117",
-    "area_name": "L'Amoreaux (117)"
+    "area_name": "L'Amoreaux (117)",
+	"center":"43.796,-79.309"
   },
   {
     "geometry": {
@@ -110829,7 +110916,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "042",
-    "area_name": "Banbury-Don Mills (42)"
+    "area_name": "Banbury-Don Mills (42)",
+	"center":"43.744847,-79.340923"
   },
   {
     "geometry": {
@@ -112760,7 +112848,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "034",
-    "area_name": "Bathurst Manor (34)"
+    "area_name": "Bathurst Manor (34)",
+	"center":"43.762741,-79.456325"
   },
   {
     "geometry": {
@@ -114747,7 +114836,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "020",
-    "area_name": "Alderwood (20)"
+    "area_name": "Alderwood (20)",
+	"center":"43.603541,-79.546409"
   },
   {
     "geometry": {
@@ -115186,7 +115276,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "072",
-    "area_name": "Regent Park (72)"
+    "area_name": "Regent Park (72)",
+	"center":"43.660323,-79.362044"
   },
   {
     "geometry": {
@@ -116649,7 +116740,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "127",
-    "area_name": "Bendale (127)"
+    "area_name": "Bendale (127)",
+	"center":"43.765434,-79.248935"
   },
   {
     "geometry": {
@@ -121224,7 +121316,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "122",
-    "area_name": "Birchcliffe-Cliffside (122)"
+    "area_name": "Birchcliffe-Cliffside (122)",
+	"center":"43.712217,-79.244001"
   },
   {
     "geometry": {
@@ -122163,7 +122256,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "091",
-    "area_name": "Weston-Pellam Park (91)"
+    "area_name": "Weston-Pellam Park (91)",
+	"center":"43.653226,-79.383184"
   },
   {
     "geometry": {
@@ -124106,7 +124200,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "026",
-    "area_name": "Downsview-Roding-CFB (26)"
+    "area_name": "Downsview-Roding-CFB (26)",
+	"center":"43.730635,-79.492721"
   },
   {
     "geometry": {
@@ -125057,7 +125152,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "114",
-    "area_name": "Lambton Baby Point (114)"
+    "area_name": "Lambton Baby Point (114)",
+	"center":"43.656042,-79.494292"
   },
   {
     "geometry": {
@@ -125908,7 +126004,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "076",
-    "area_name": "Bay Street Corridor (76)"
+    "area_name": "Bay Street Corridor (76)",
+	"center":"43.655902,-79.383801"
   },
   {
     "geometry": {
@@ -126859,7 +126956,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "024",
-    "area_name": "Black Creek (24)"
+    "area_name": "Black Creek (24)",
+	"center":"43.764259,-79.52381"
   },
   {
     "geometry": {
@@ -127806,7 +127904,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "051",
-    "area_name": "Willowdale East (51)"
+    "area_name": "Willowdale East (51)",
+	"center":"43.771171,-79.41975"
   },
   {
     "geometry": {
@@ -128161,7 +128260,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "037",
-    "area_name": "Willowdale West (37)"
+    "area_name": "Willowdale West (37)",
+	"center":"43.771171,-79.41975"
   },
   {
     "geometry": {
@@ -132932,7 +133032,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "131",
-    "area_name": "Rouge (131)"
+    "area_name": "Rouge (131)",
+	"center":"43.804929,-79.165842"
   },
   {
     "geometry": {
@@ -134015,7 +134116,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "002",
-    "area_name": "Mount Olive-Silverstone-Jamestown (2)"
+    "area_name": "Mount Olive-Silverstone-Jamestown (2)",
+	"center":"43.741216,-79.5978"
   },
   {
     "geometry": {
@@ -134970,7 +135072,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "071",
-    "area_name": "Cabbagetown-South St.James Town (71)"
+    "area_name": "Cabbagetown-South St.James Town (71)",
+	"center":"43.653203,-79.381139"
   },
   {
     "geometry": {
@@ -135549,7 +135652,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "099",
-    "area_name": "Mount Pleasant East (99)"
+    "area_name": "Mount Pleasant East (99)",
+	"center":"43.703797,-79.38316"
   },
   {
     "geometry": {
@@ -135820,7 +135924,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "104",
-    "area_name": "Mount Pleasant West (104)"
+    "area_name": "Mount Pleasant West (104)",
+	"center":"43.704851,-79.39442"
   },
   {
     "geometry": {
@@ -136247,7 +136352,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "069",
-    "area_name": "Blake-Jones (69)"
+    "area_name": "Blake-Jones (69)",
+	"center":"43.675863,-79.338106"
   },
   {
     "geometry": {
@@ -136690,7 +136796,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "004",
-    "area_name": "Rexdale-Kipling (4)"
+    "area_name": "Rexdale-Kipling (4)",
+	"center":"43.730208,-79.575594"
   },
   {
     "geometry": {
@@ -137129,7 +137236,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "062",
-    "area_name": "East End-Danforth (62)"
+    "area_name": "East End-Danforth (62)",
+	"center":"43.677953,-79.309937"
   },
   {
     "geometry": {
@@ -139940,7 +140048,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "018",
-    "area_name": "New Toronto (18)"
+    "area_name": "New Toronto (18)",
+	"center":"43.600778,-79.505257"
   },
   {
     "geometry": {
@@ -140215,7 +140324,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "080",
-    "area_name": "Palmerston-Little Italy (80)"
+    "area_name": "Palmerston-Little Italy (80)",
+	"center":"43.659528,-79.416936"
   },
   {
     "geometry": {
@@ -142522,7 +142632,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "045",
-    "area_name": "Parkwoods-Donalda (45)"
+    "area_name": "Parkwoods-Donalda (45)",
+	"center":"43.753259,-79.329656"
   },
   {
     "geometry": {
@@ -144093,7 +144204,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "023",
-    "area_name": "Pelmo Park-Humberlea (23)"
+    "area_name": "Pelmo Park-Humberlea (23)",
+	"center":"43.710668,-79.510259"
   },
   {
     "geometry": {
@@ -144428,7 +144540,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "067",
-    "area_name": "Playter Estates-Danforth (67)"
+    "area_name": "Playter Estates-Danforth (67)",
+	"center":"43.680306,-79.33784"
   },
   {
     "geometry": {
@@ -145471,7 +145584,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "007",
-    "area_name": "Willowridge-Martingrove-Richview (7)"
+    "area_name": "Willowridge-Martingrove-Richview (7)",
+	"center":"43.68787,-79.543484"
   },
   {
     "geometry": {
@@ -148182,7 +148296,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "137",
-    "area_name": "Woburn (137)"
+    "area_name": "Woburn (137)",
+	"center":"43.767528,-79.217721"
   },
   {
     "geometry": {
@@ -148469,7 +148584,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "060",
-    "area_name": "Woodbine-Lumsden (60)"
+    "area_name": "Woodbine-Lumsden (60)",
+	"center":"43.692177,-79.309937"
   },
   {
     "geometry": {
@@ -149372,7 +149488,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "052",
-    "area_name": "Bayview Village (52)"
+    "area_name": "Bayview Village (52)",
+	"center":"43.778243,-79.382758"
   },
   {
     "geometry": {
@@ -150451,7 +150568,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "039",
-    "area_name": "Bedford Park-Nortown (39)"
+    "area_name": "Bedford Park-Nortown (39)",
+	"center":"43.723097,-79.423342"
   },
   {
     "geometry": {
@@ -151466,7 +151584,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "111",
-    "area_name": "Rockcliffe-Smythe (111)"
+    "area_name": "Rockcliffe-Smythe (111)",
+	"center":"43.674227,-79.498509"
   },
   {
     "geometry": {
@@ -153325,7 +153444,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "041",
-    "area_name": "Bridle Path-Sunnybrook-York Mills (41)"
+    "area_name": "Bridle Path-Sunnybrook-York Mills (41)",
+	"center":"43.747725,-79.382632"
   },
   {
     "geometry": {
@@ -153932,7 +154052,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "047",
-    "area_name": "Don Valley Village (47)"
+    "area_name": "Don Valley Village (47)",
+	"center":"43.783779,-79.352188"
   },
   {
     "geometry": {
@@ -154963,7 +155084,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "113",
-    "area_name": "Weston (113)"
+    "area_name": "Weston (113)",
+	"center":"43.700232,-79.515078"
   },
   {
     "geometry": {
@@ -155498,7 +155620,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "103",
-    "area_name": "Lawrence Park South (103)"
+    "area_name": "Lawrence Park South (103)",
+	"center":"43.715383,-79.405678"
   },
   {
     "geometry": {
@@ -155909,7 +156032,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "030",
-    "area_name": "Brookhaven-Amesbury (30)"
+    "area_name": "Brookhaven-Amesbury (30)",
+	"center":"43.699012,-79.48445"
   },
   {
     "geometry": {
@@ -157228,7 +157352,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "019",
-    "area_name": "Long Branch (19)"
+    "area_name": "Long Branch (19)",
+	"center":"43.593421,-79.538164"
   },
   {
     "geometry": {
@@ -159111,7 +159236,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "132",
-    "area_name": "Malvern (132)"
+    "area_name": "Malvern (132)",
+	"center":"43.80916,-79.22169"
   },
   {
     "geometry": {
@@ -159418,7 +159544,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "083",
-    "area_name": "Dufferin Grove (83)"
+    "area_name": "Dufferin Grove (83)",
+	"center":"43.655833,-79.428191"
   },
   {
     "geometry": {
@@ -159937,7 +160064,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "029",
-    "area_name": "Maple Leaf (29)"
+    "area_name": "Maple Leaf (29)",
+	"center":"43.713756,-79.490074"
   },
   {
     "geometry": {
@@ -161604,7 +161732,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "012",
-    "area_name": "Markland Wood (12)"
+    "area_name": "Markland Wood (12)",
+	"center":"43.632036,-79.5751"
   },
   {
     "geometry": {
@@ -161915,7 +162044,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "116",
-    "area_name": "Steeles (116)"
+    "area_name": "Steeles (116)",
+	"center":"43.815552,-79.310769"
   },
   {
     "geometry": {
@@ -162198,7 +162328,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "105",
-    "area_name": "Lawrence Park North (105)"
+    "area_name": "Lawrence Park North (105)",
+	"center":"43.723282,-79.38879"
   },
   {
     "geometry": {
@@ -162585,7 +162716,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "100",
-    "area_name": "Yonge-Eglinton (100)"
+    "area_name": "Yonge-Eglinton (100)",
+	"center":"43.706431,-79.398642"
   },
   {
     "geometry": {
@@ -169764,7 +169896,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "017",
-    "area_name": "Mimico (includes Humber Bay Shores) (17)"
+    "area_name": "Mimico (includes Humber Bay Shores) (17)",
+	"center":"43.614627,-79.495697"
   },
   {
     "geometry": {
@@ -171343,7 +171476,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "135",
-    "area_name": "Morningside (135)"
+    "area_name": "Morningside (135)",
+	"center":"43.787,-79.206"
   },
   {
     "geometry": {
@@ -171910,7 +172044,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "073",
-    "area_name": "Moss Park (73)"
+    "area_name": "Moss Park (73)",
+	"center":"43.654789,-79.372602"
   },
   {
     "geometry": {
@@ -172673,7 +172808,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "084",
-    "area_name": "Little Portugal (84)"
+    "area_name": "Little Portugal (84)",
+	"center":"43.646341,-79.428191"
   },
   {
     "geometry": {
@@ -172968,7 +173104,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "064",
-    "area_name": "Woodbine Corridor (64)"
+    "area_name": "Woodbine Corridor (64)",
+	"center":"43.692177,-79.309937"
   },
   {
     "geometry": {
@@ -173359,7 +173496,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "050",
-    "area_name": "Newtonbrook East (50)"
+    "area_name": "Newtonbrook East (50)",
+	"center":"43.790104,-79.41975"
   },
   {
     "geometry": {
@@ -174130,7 +174268,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "130",
-    "area_name": "Milliken (130)"
+    "area_name": "Milliken (130)",
+	"center":"43.823733,-79.307085"
   },
   {
     "geometry": {
@@ -174489,7 +174628,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "046",
-    "area_name": "Pleasant View (46)"
+    "area_name": "Pleasant View (46)",
+	"center":"43.784822,-79.338106"
   },
   {
     "geometry": {
@@ -174812,7 +174952,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "094",
-    "area_name": "Wychwood (94)"
+    "area_name": "Wychwood (94)",
+	"center":"43.674811,-79.428191"
   },
   {
     "geometry": {
@@ -176019,7 +176160,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "056",
-    "area_name": "Leaside-Bennington (56)"
+    "area_name": "Leaside-Bennington (56)",
+	"center":"43.693464,-79.371054"
   },
   {
     "geometry": {
@@ -176430,7 +176572,8 @@ var neighborhoods_borders =
       ]
     },
     "area_s_cd": "108",
-    "area_name": "Briar Hill-Belgravia (108)"
+    "area_name": "Briar Hill-Belgravia (108)",
+	"center":"43.705883,-79.456325"
   }
 ]
 

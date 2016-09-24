@@ -25,7 +25,7 @@ const greatPlaceCircleStyle = {
 
   verticalAlign: 'middle',
   lineHeight: 'normal',
-  fontSize: 16,
+  fontSize: 14,
 
   color: '#3f51b5',
   fontWeight: 'bold',
@@ -44,7 +44,7 @@ const greatPlaceCircleStyleHover = {
   borderRadius: K_CIRCLE_SIZE,
   backgroundColor: 'white',
   textAlign: 'center',
-  fontSize: 18,
+  fontSize: 15,
   fontWeight: 'bold',
   padding: 0,
   cursor: 'pointer',

@@ -40,6 +40,9 @@
 
 var pg = require('pg');
 var config = require('../config/db_config.js');
+var nb_borders = require('../../data/neighborhoods_borders.js');
+
+var async = require('async');
 
 /* 
 "ems_name": "Station 29",
@@ -111,42 +114,60 @@ var TablesOptions = [
 
 
     /* slider range 0...100  : getTop?nbrhoods= &importance= {category & rating from 0 to 1000}*/
+    // neighborhood.area_name.substring(0,neighborhood.area_name.indexOf('('))
     var getTopNeighbourhood = function (req, res) {
+        var json = require('./test.json');
+        var tables = json['tables'];
+        var analysis = [
+            { neighborhood : "", occumulateRating : 0 }
+        ];
+        
 
+       tables.forEach( function(object) {
 
-        var sortedNbrhoods = [];
-        var nbrhoods = req.query.nbrhoods;
+           var count  = 0;
+           var rating = 0; 
 
-         for (var i = 0; i < TablesOptions.length; i++) {
-             console.log(">> Going thoruhg categories");
-             for (var k = 0; k < importance[i].length; k++) {
+           if (object['tableName'] != 'policesafetyindicators') {
 
-                 console.log(">>>> Going thru selected categories");
-                if (TablesOptions[i].category === importance[k].category) {
-                     console.log("= >>>> Found the Category selected");
-                    for( var j =0; j < TablesOptions[i].tables.length; j++) {
-                         console.log("= >>>> Go throuh tables in that category");
-                        
-                        var table = TablesOptions[i].tables[j];
+               nb_borders.forEach( function(neighborhood) {
+                   nbrh = neighborhood.area_name.substring(0,neighborhood.area_name.indexOf('('));
+                   count = findCountForNbrHood(nbrh, object['tableName']);
+                   rating += count * object['priority'] / 100 ;
+                   console.log(">>>>>> Table " + object['tableName'] + " got rating " + rating);
+               });
 
-                        /* Go thru each neighbourhood   policesafetyindicators*/ 
-                    
-                        for ( nbr  in nbrhoods) {  
-                              var negative = (table.tableName === 'policesafetyindicators') ? -1 : 1;
-                                                       client.query('SELECT count(*) FROM ' + table +' WHERE TRIM(UPPER(neighbourhood)) = ' + "UPPER('" + nbrhood + "')", function (err, results) {
-                                 if (err) {
-                                        console.log(err);
-                                 } else {
-                                     
-                                     //   isNegative* importance
-                                     response.push('Number of Youth Services /population ' + results.rows[0]['count(*)'] + ' / ' + population);
-                                      // defibrillators               
-                             } });
-                    }
-                }
-             }
-         }
+               var table = object['tableName'];
+               analysis.push({ nbrh , rating });
+               console.log("===============================================");
+
+           } else {
+
+           }
+        });
     }
+
+
+    var findCountForNbrHood = function (nbrhood, tableName) {
+         pg.connect(config, function(err, client, done) {
+                   var finish = function() {
+                       done();
+                       process.exit();
+                   }
+
+                   if (err) {
+                        console.error('Failed to connect to cockroach', err);
+                        finish();
+                   }
+            
+                    client.query('SELECT count(*) FROM '+ tableName +' WHERE TRIM(UPPER(neighbourhood)) = ' + "UPPER('" + nbrhood + "')", function (err, results) {
+                        if (err) {
+                            console.log(err);
+                            finish();
+                        } else {
+                            return results.rows[0]['count(*)']; 
+                    } });
+               });
     }
 
     /* Get statistics for neighbourhood : sample usage : getStat?nbrhood=""*/
@@ -245,7 +266,8 @@ var TablesOptions = [
 
      return {
        getCategories : getCategories,
-       getStat       : getStat
+       getStat       : getStat,
+       getTop        : getTopNeighbourhood
   };
 }
 

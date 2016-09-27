@@ -14,6 +14,7 @@
   "license": "MIT",
   "homepage": "https://github.com/HackTheNorth-2016/Neighbrohood#readme",
   "dependencies": {
+    "async": "^2.0.1",
     "body-parser": "^1.15.2",
     "cookie-parser": "^1.4.3",
     "csvtojson": "^1.0.0",

@@ -44,8 +44,11 @@
     "jshint": "^2.9.3",
     "jshint-stylish": "^2.2.1",
     "node-sass": "^3.9.0",
+    "nodemon": "^1.10.2",
     "sass-loader": "^4.0.1",
     "style-loader": "^0.13.1",
-    "webpack": "^1.13.2"
+    "webpack": "^1.13.2",
+    "webpack-dev-middleware": "^1.8.3",
+    "webpack-hot-middleware": "^2.12.2"
   }
 }

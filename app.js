@@ -15,6 +15,16 @@ var authRouter = require(routesFolder + '/authRoutes')();
 var adminRouter = require(routesFolder + '/adminRoutes')();
 var optionsRouter = require(routesFolder + '/optionsRoutes')();
 
+//webpack hot load
+var webpack = require('webpack');
+var webpackConfig = require('./config/webpack.config');
+var compiler = webpack(webpackConfig);
+app.use(require("webpack-dev-middleware")(compiler, {
+    noInfo: true, publicPath: webpackConfig.output.publicPath
+}));
+app.use(require("webpack-hot-middleware")(compiler));
+//end of webpack hot load
+
 
 // Set up middleware
 app.use(express.static('dist'));

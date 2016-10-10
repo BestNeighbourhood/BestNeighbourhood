@@ -103,7 +103,7 @@ export default class App extends React.Component {
         />
         <div className="contentContainer">
           <div className="leftPanel" style={leftMenuStyles}>
-            <LeftMenu neighborhoods_borders={neighborhoods_borders}/>
+            <LeftMenu neighbourhoods_names_centres={this.props.neighbourhoods_names_centres}/>
           </div>
           <div className="mainContent">
             <div className="map">

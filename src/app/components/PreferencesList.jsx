@@ -1,15 +1,15 @@
 import React from 'react';
-import { Checkbox, List, ListItem, Subheader, Toggle } from 'material-ui';
+import { Checkbox, List, ListItem, Subheader } from 'material-ui';
 import ActionGrade from 'material-ui/svg-icons/action/grade';
-import ContentInbox from 'material-ui/svg-icons/content/inbox';
-import ContentDrafts from 'material-ui/svg-icons/content/drafts';
-import ContentSend from 'material-ui/svg-icons/content/send';
 import CategorySlider from './CategorySlider.jsx';
 import IP from '../../../config/config.js';
 
 export default class PreferencesList extends React.Component {
   constructor(props) {
     super(props);
+/* not used anymore
+  keep it just for future reference
+
     let ed_categories = [
       "Private school contact information",
       "School Locations All Types",
@@ -88,7 +88,7 @@ export default class PreferencesList extends React.Component {
       "Ethnicity by Neighbourhood (2011)",
       "Aboriginal Service Organizations"
     ];
-
+*/
     this.state = {
       currentOpen: "Education",
       preferences: [],

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Dialog, FlatButton, RaisedButton, TextField, IconButton } from 'material-ui';
+import { Dialog, FlatButton, TextField, IconButton } from 'material-ui';
 import '../../client/styles/style.scss';
 import IP from '../../../config/config.js';
 import { validateLogin, validatePassword, validateEmail } from './common.js';

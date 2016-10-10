@@ -15,7 +15,7 @@ body {
 
 .leftPanel {
   flex: 1;
-  flex-basis: 20%;
+  flex-basis: 410px;
   background-color: #1baae1;
   overflow: auto;
   color:white;
@@ -64,4 +64,17 @@ body {
     font-size: 24px;
     font-weight: bold;
   }
+}
+
+.octagon {
+  margin: 0;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 32px;
+  color: black;
+  width: 32px;
+  height: 32px;
+  background: #dd0252;
+  -webkit-clip-path: polygon(30% 0%, 70% 0%, 100% 30%, 100% 70%, 70% 100%, 30% 100%, 0% 70%, 0% 30%);
+  clip-path: polygon(30% 0%, 70% 0%, 100% 30%, 100% 70%, 70% 100%, 30% 100%, 0% 70%, 0% 30%);
 }

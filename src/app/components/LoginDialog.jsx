@@ -1,7 +1,6 @@
 import React from 'react';
 import IP from '../../../config/config.js';
-import { Dialog, FlatButton, RaisedButton, TextField, IconButton } from 'material-ui';
-import '../../client/styles/style.scss';
+import { Dialog, FlatButton, TextField, IconButton } from 'material-ui';
 import { validateLogin, validatePassword } from './common.js';
 
 const customContentStyle = {

@@ -1,12 +1,7 @@
 import React from 'react';
-import { List, ListItem, Subheader, Divider } from 'material-ui';
-import ActionInfo from 'material-ui/svg-icons/action/info';
-import ContentInbox from 'material-ui/svg-icons/content/inbox';
-import ContentDrafts from 'material-ui/svg-icons/content/drafts';
-import ContentSend from 'material-ui/svg-icons/content/send';
-import ActionGrade from 'material-ui/svg-icons/action/grade';
-import neighborhoods_borders from '../../data/neighborhoods_borders.js';
-import MapsSatellite from 'material-ui/svg-icons/maps/satellite.js';
+import { List, ListItem, Subheader, Divider, IconButton } from 'material-ui';
+import LocationSearching from 'material-ui/svg-icons/device/location-searching.js';
+import PanoramaFishEye from 'material-ui/svg-icons/image/panorama-fish-eye.js';
 
 export default class LeftMenu extends React.Component {
   constructor(props) {
@@ -19,13 +14,31 @@ export default class LeftMenu extends React.Component {
   }
 
   render() {
+    //location search button
+    let iconButton = (<IconButton><LocationSearching /></IconButton>);
+
+    //always display the list in ascending order
+    let sorted_neighbourhoods_list = this.props.neighbourhoods_names_centres.sort(function(a, b) {
+      return a.area_s_cd - b.area_s_cd;
+    });
+
     return (
       <div>
         <List>
-          {neighborhoods_borders.map(neighborhood => (
+          {sorted_neighbourhoods_list.map(neighborhood => (
             <span key={neighborhood.area_s_cd}>
               <ListItem
-                primaryText={neighborhood.area_name.substring(0,neighborhood.area_name.indexOf('('))}
+                primaryText={neighborhood.area_name}
+                rightIconButton={iconButton}
+                leftIcon={
+                  <svg xmlns="http://www.w3.org/2000/svg" style={{margin: '6px'}}>
+                    <foreignObject>
+                      <p className="octagon">
+                        {neighborhood.area_s_cd}
+                      </p>
+                    </foreignObject>
+                  </svg>
+                }
               />
               <Divider/>
             </span>

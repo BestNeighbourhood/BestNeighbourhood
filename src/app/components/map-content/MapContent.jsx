@@ -26,14 +26,11 @@ export default class MapContent extends Component {
     var markers_coordinates = [];
     for (var i = 0; i < this.props.neighborhoods_borders.length; i++) {  // 140
       var center = this.props.neighborhoods_borders[i].center.split(",");
-      console.log(center);
       center = [parseFloat(center[0]), parseFloat(center[1])];
 
-      console.log(i);
-      console.log(center[0], center[1]);
       markers_coordinates.push({
         coordinate: this.props.neighborhoods_borders[i].geometry.coordinates[0][0],
-        code: parseInt(this.props.neighborhoods_borders[i].area_s_cd),
+        code: this.props.neighborhoods_borders[i].area_s_cd,
         center: center
       });
     }
@@ -44,7 +41,6 @@ export default class MapContent extends Component {
       neighborhoodsDrawn: false,
       markers_coordinates: markers_coordinates
     }
-    console.log(markers_coordinates);
   }
 
   _distanceToMouse(markerPos, mousePos, markerProps) {
@@ -64,14 +60,9 @@ export default class MapContent extends Component {
     return distanceKoef * Math.sqrt((x - mousePos.x) * (x - mousePos.x) + (y - mousePos.y) * (y - mousePos.y));
   }
 
-  componentDidMount() {
-    console.log("componentDidMount");
-    console.log(this.state);
-  }
+
 
   componentDidUpdate() {
-    console.log(this.state);
-    console.log("componentdidupdate");
     if(!this.state.neighborhoodsDrawn && this.state.maps != undefined && this.state.map != undefined) {
       for (var i = 0; i < this.props.neighborhoods_borders.length; i++) {  // 140
         var entry = new Array();

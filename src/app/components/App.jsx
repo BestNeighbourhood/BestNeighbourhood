@@ -18,12 +18,21 @@ export default class App extends React.Component {
       loginDialog: false,
       signupDialog: false,
       leftMenuOpen: true,
+      map: undefined,
+      maps: undefined,
+
+      //set this to true and send to MapContent to identify that map and maps have been set
+      //and we can start rendering neighbourhoods' borders
+      updateMaps: false,
     }
 
     this.handleLogin = this.handleLogin.bind(this);
     this.handleSignup = this.handleSignup.bind(this);
     this.closeHandler = this.closeHandler.bind(this);
     this.menuClickHandler = this.menuClickHandler.bind(this);
+    this.setMaps = this.setMaps.bind(this);
+    this.getMaps = this.getMaps.bind(this);
+    this.getMap = this.getMap.bind(this);
   }
 
   getChildContext() {
@@ -52,6 +61,22 @@ export default class App extends React.Component {
       signupDialog: true,
     });
   };
+
+  setMaps(map, maps) {
+    this.setState({
+      map: map,
+      maps: maps,
+      updateMaps: true,
+    });
+  }
+
+  getMaps() {
+    return this.state.maps;
+  }
+
+  getMap() {
+    return this.state.map;
+  }
 
   getRightButtons() {
     var rightButtonsStyle = {
@@ -103,11 +128,21 @@ export default class App extends React.Component {
         />
         <div className="contentContainer">
           <div className="leftPanel" style={leftMenuStyles}>
-            <LeftMenu neighbourhoods_names_centres={this.props.neighbourhoods_names_centres}/>
+            <LeftMenu
+              neighbourhoods_names_centres={this.props.neighbourhoods_names_centres}
+              setMaps={this.setMaps}
+              getMaps={this.getMaps}
+              getMap={this.getMap}
+            />
           </div>
           <div className="mainContent">
             <div className="map">
-              <MapContent neighborhoods_borders={neighborhoods_borders}/>
+              <MapContent
+                setMaps={this.setMaps}
+                getMaps={this.state.updateMaps ? this.getMaps : null}
+                getMap={this.state.updateMaps ? this.getMap : null}
+                neighborhoods_borders={neighborhoods_borders}
+              />
             </div>
             <div className="categories">
               <PreferencesList />

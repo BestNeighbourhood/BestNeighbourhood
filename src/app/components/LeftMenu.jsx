@@ -11,6 +11,23 @@ export default class LeftMenu extends React.Component {
       passwordTxtField: '',
       emailTxtField: '',
     }
+    this.moveToSelectedArea = this.moveToSelectedArea.bind(this);
+  }
+
+  moveToSelectedArea(center, zoom) {
+    let map = this.props.getMap();
+    let maps = this.props.getMaps();
+
+    if(maps != undefined && map != undefined) {
+
+      //getting an actual coordinate from the string
+      let _center = center.split(",");
+      let lat = parseFloat(_center[0]);
+      let lng = parseFloat(_center[1]);
+
+      map.panTo(new maps.LatLng(lat, lng));
+      map.setZoom(zoom);
+    }
   }
 
   render() {
@@ -25,16 +42,20 @@ export default class LeftMenu extends React.Component {
     return (
       <div>
         <List>
-          {sorted_neighbourhoods_list.map(neighborhood => (
-            <span key={neighborhood.area_s_cd}>
+          {sorted_neighbourhoods_list.map(neighbourhood => (
+            <span key={neighbourhood.area_s_cd}>
               <ListItem
-                primaryText={neighborhood.area_name}
-                rightIconButton={iconButton}
+                primaryText={neighbourhood.area_name}
+                rightIconButton={(
+                  <IconButton onClick={this.moveToSelectedArea.bind(null, neighbourhood.center, neighbourhood.zoom)}>
+                    <LocationSearching />
+                  </IconButton>
+                )}
                 leftIcon={
                   <svg xmlns="http://www.w3.org/2000/svg" style={{margin: '6px'}}>
                     <foreignObject>
                       <p className="octagon">
-                        {neighborhood.area_s_cd}
+                        {neighbourhood.area_s_cd}
                       </p>
                     </foreignObject>
                   </svg>

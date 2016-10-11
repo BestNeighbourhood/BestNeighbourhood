@@ -36,8 +36,6 @@ export default class MapContent extends Component {
     }
 
     this.state = {
-      map: undefined,
-      maps: undefined,
       neighborhoodsDrawn: false,
       markers_coordinates: markers_coordinates
     }
@@ -63,7 +61,10 @@ export default class MapContent extends Component {
 
 
   componentDidUpdate() {
-    if(!this.state.neighborhoodsDrawn && this.state.maps != undefined && this.state.map != undefined) {
+    let map = this.props.getMap();
+    let maps = this.props.getMaps();
+
+    if(!this.state.neighborhoodsDrawn && maps != undefined && map != undefined) {
       for (var i = 0; i < this.props.neighborhoods_borders.length; i++) {  // 140
         var entry = new Array();
         var _data = this.props.neighborhoods_borders[i].geometry.coordinates[0];
@@ -75,7 +76,7 @@ export default class MapContent extends Component {
           });
         }
 
-        var nbrhood = new this.state.maps.Polygon({
+        var nbrhood = new maps.Polygon({
           paths: entry,
           strokeColor: '#ff4d4d',
           strokeOpacity: 0.8,
@@ -83,7 +84,7 @@ export default class MapContent extends Component {
           fillColor: '#ffe6e6',
           fillOpacity: 0.35
         });
-        nbrhood.setMap(this.state.map);
+        nbrhood.setMap(map);
       }
     }
   }
@@ -91,7 +92,7 @@ export default class MapContent extends Component {
   render() {
     return (
       <GoogleMap
-        onGoogleApiLoaded={({map, maps}) => this.setState({'map': map, 'maps': maps})}
+        onGoogleApiLoaded={({map, maps}) => this.props.setMaps(map, maps)}
         yesIWantToUseGoogleMapApiInternals
         bootstrapURLKeys={{
           key: 'AIzaSyDvdYfKEjZJZ_H1zV6Cl4ixBaqIc0BPD-0',

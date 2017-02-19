@@ -13,14 +13,16 @@ var routesFolder = './src/server/routes';
 var adminRouter = require(routesFolder + '/adminRoutes')();
 var optionsRouter = require(routesFolder + '/optionsRoutes')();
 
-//webpack hot load
-var webpack = require('webpack');
-var webpackConfig = require('./config/webpack.config');
-var compiler = webpack(webpackConfig);
-app.use(require("webpack-dev-middleware")(compiler, {
-    noInfo: true, publicPath: webpackConfig.output.publicPath
-}));
-app.use(require("webpack-hot-middleware")(compiler));
+//webpack hot load, development only
+if(process.env.NODE_ENV === "development") {
+  var webpack = require('webpack');
+  var webpackConfig = require('./config/webpack.development.config');
+  var compiler = webpack(webpackConfig);
+  app.use(require("webpack-dev-middleware")(compiler, {
+      noInfo: true, publicPath: webpackConfig.output.publicPath
+  }));
+  app.use(require("webpack-hot-middleware")(compiler));
+}
 //end of webpack hot load
 
 

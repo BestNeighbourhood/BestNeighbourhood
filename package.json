@@ -1,5 +1,5 @@
 {
-  "name": "Neighbrohood",
+  "name": "BestNeighbourhood",
   "version": "1.0.0",
   "description": "App which helps you to find a neighborhood in Toronto based on your priorities",
   "main": "app.js",
@@ -16,6 +16,7 @@
   "dependencies": {
     "async": "^2.1.2",
     "body-parser": "^1.15.2",
+    "compression-webpack-plugin": "^0.3.2",
     "cookie-parser": "^1.4.3",
     "csvtojson": "^1.0.0",
     "express": "^4.14.0",

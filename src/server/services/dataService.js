@@ -13,7 +13,6 @@ var dataService = function () {
      */
     var getDataSetInfo = function (dataSetId, cb) {
 
-        console.log("->> Getting dataSetInfo...");
         var options = {
             host : host,
             path : '/v0/data_sets/' + dataSetId + '?api_key=' + api_key
@@ -26,7 +25,6 @@ var dataService = function () {
                 str += chunk;
             });
             response.on('end', function() {
-                 console.log("<<-- dataSetInfo received...");
                  cb(null,  JSON.parse(str));
             }); 
         }
@@ -40,7 +38,6 @@ var dataService = function () {
      */
     var getListOfCategories = function (cb) {
 
-         console.log("->> Getting categories...");
         //  http://api.namara.io/v0/organizations/58090332de44093525000062/projects?api_key=98c561bd55188933cb81609c0ae4541e87f3f2eb5e86e4e5678bf6a4d8da0fd8
     
         var options = {
@@ -55,7 +52,7 @@ var dataService = function () {
                 str += chunk;
             });
             response.on('end', function() {
-                 console.log("<<-- Categories received...");
+
                  cb(null, JSON.parse(str));
             }); 
         }
@@ -67,19 +64,16 @@ var dataService = function () {
      * Fetch data from a particular dataSet
      * 
      */
-    var selectDataFromDataSet = function (dataSetId, cb) {
-
-        console.log("->> Getting data from data set...");
+    var selectDataFromDataSet = function (dataSetId, dataSetVersion, cb) {
 
         var http = require('http');
 
         // https://api.namara.io/v0/data_sets/ea23ff2c-cc42-4fea-8df3-1677b35538cf/data/en-1?api_key=98c561bd55188933cb81609c0ae4541e87f3f2eb5e86e4e5678bf6a4d8da0fd8
         var options = {
             host : host,
-            path : '/v0/data_sets/' + dataSetId + '/data/en-1?api_key=' + api_key
+            path : '/v0/data_sets/' + dataSetId + '/data/' + dataSetVersion + '?api_key=' + api_key
         }
 
-        console.log(options)
 
         var callback = function (response) {
             var str = '';
@@ -88,8 +82,6 @@ var dataService = function () {
                 str += chunk;
             });
             response.on('end', function() {
-
-                 console.log("<<-- data from data set received...");
                  cb(null,  JSON.parse(str));
             });      
         };

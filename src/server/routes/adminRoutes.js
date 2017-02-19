@@ -1,6 +1,8 @@
 var express     = require('express');
 var adminRouter = express.Router();
 
+//Logger
+var logger = require('../config/logger');
 // DB 
 var mongoose = require('mongoose');
 var dbConnect = require('../config/db_connect');
@@ -29,11 +31,15 @@ var router = function() {
             function (err, categories) {
 
                 // Drop existing collections first :
-                // Category.remove({}, function (err) {
-                //     console.log("✔-x-- Categories dropped!");
-                // });
+                Category.remove({}, function (err) {
+                    console.log("✔-x-- Categories dropped!");
+                });
 
-                // Category.create(categories, function(err, results) {
+                DsInfo.remove({}, function (err) {
+                    console.log("✔-x-- DatasetInfo dropped!");
+                });
+
+                Category.create(categories, function(err, results) {
                     if (err) {
                         console.log('X-- Error while adding categories: ' + err);
                     } else {
@@ -46,44 +52,46 @@ var router = function() {
 
                             var dsIdsCount = doc.items.length;
                             for (var i = 0; i < dsIdsCount; i++) {
+                               var dataSetId = doc.items[i].data_set_uuid;
 
-                               var dataSetId = doc.items[i].data_set_uuid;                               
                                dataService.getDataSetInfo(dataSetId, function (err, dsInfo) {
-                                   console.log(dsInfo['data_set_metas'][0]['title']);
+                                   
                                    var collectionTitle = dsInfo['data_set_metas'][0]['title'];
                                    var collectionVersion = dsInfo['versions'][0]['identifier'];
-                                   DsInfo.update({id: dataSetId}, {title:collectionTitle, version: collectionVersion} , {upsert:true}, function(err, doc){
-                                       if (err) {
-                                          console.log('-X-- Error while updating titles for DataSetsInfos: ' + err);
-                                       }
-                                  
-                                    //    console.log("-✔-- New title added for DataSetInfos: '" . collectionTitle + "'");
-                                   });
+                                   var category = doc.title;
+                                   var datasetInfo = {
+                                       id : dsInfo.id,
+                                       title : collectionTitle,
+                                       version : collectionVersion,
+                                       category : category
+                                   };
 
-                                   var id = dataSetId;
-                                //    dataService.selectDataFromDataSet(id , function (err, dataSetData) {
-
-                                //        console.log("-->" + dataSetId + "<--");
-                                //        var Ds = connection.model(collectionTitle, dataSetSchema);
-                                //        Ds.create(dataSetData, function(err, results) {
-                                //             if (err) {
-                                //                 console.log('-X-- Error while adding datasets: ' + err);
-                                //             } else {
-                                //                 console.log("-✔-- Dataset '" + collectionTitle + "'in db!");
-                                //                 // console.log(results);
-                                //             }
-                                //        });
-                                //    });
+                                    DsInfo.create(datasetInfo, function (err, results) {
+                                        if (err) {
+                                            console.log('X-- Error while adding DsInfo: ' + err);
+                                        } else {
+                                            dataService.selectDataFromDataSet(results.id , results.version, function (err, dataSetData) {
+                                                var Ds = connection.model(collectionTitle, dataSetSchema);
+                                                Ds.create(dataSetData, function(err, results) {
+                                                    if (err) {
+                                                        console.log('-X-- Error while adding datasets: ' + err);
+                                                    } else {
+                                                        console.log("-✔-- Dataset '" + collectionTitle + "'in db!");
+                                                        // console.log(results);
+                                                    }
+                                                });
+                                            });
+                                        }
+                                    });
                                }); 
                             }
-                            console.log("=================================================================");
                         });
                         cursor.on('close', function() {
                             // Called when done
                         });
                         res.send(results);
                     }
-                // }); 
+                }); 
 
                 // res.send("done");
               //  res.send(catSchema);

@@ -5,6 +5,7 @@ var connection = mongoose.createConnection(dbConnect.getDbConnectionString(), {a
 
 // List of datasets within category
 var dsInfoSchema = new mongoose.Schema({
+    category : { type: String, default: "" },
     title : { type: String, default: "" },
     version : { type: String, default: "" },
     data_set_uuid : String,

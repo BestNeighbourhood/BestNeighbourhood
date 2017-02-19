@@ -5,3 +5,4 @@ cockroach-data/
 .vscode/
 .jscsrc
 .jshintrc
+src/server/config/db_config.json

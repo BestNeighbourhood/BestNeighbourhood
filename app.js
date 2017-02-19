@@ -6,6 +6,8 @@ var bodyParser = require('body-parser');
 var cookieParser = require('cookie-parser');
 var session = require('express-session');
 
+//Logger
+var logger = require('./src/server/config/logger');
 
 var routesFolder = './src/server/routes';
 
@@ -44,5 +46,5 @@ app.get('/', function(req, res) {
 });
 
 app.listen(3000, function(err) {
-    console.log('Listening at http://... 3000');
+    logger.info('Listening at http://... 3000');
 }); 

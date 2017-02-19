@@ -1,5 +1,6 @@
 node_modules/
-logs/
+logs/development.log
+logs/production.log
 dist/
 .vscode/
 .jscsrc

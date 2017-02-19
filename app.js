@@ -27,6 +27,14 @@ if(process.env.NODE_ENV === "development") {
 }
 //end of webpack hot load
 
+//middleware to serve gzip to the client, production only
+if(process.env.NODE_ENV === "production") {
+  app.get('*.js', function (req, res, next) {
+    req.url = req.url + '.gz';
+    res.set('Content-Encoding', 'gzip');
+    next();
+  });
+}
 
 // Set up middleware
 app.use(express.static('dist'));

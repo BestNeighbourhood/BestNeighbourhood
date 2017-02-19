@@ -122,7 +122,7 @@ export default class App extends React.Component {
     return (
       <div style={{width: '100%', height: '100%'}}>
         <AppBar
-          title='NeighBROhood'
+          title='Best Neighbourhood'
           iconElementRight={this.getRightButtons()}
           onLeftIconButtonTouchTap={this.menuClickHandler}
         />

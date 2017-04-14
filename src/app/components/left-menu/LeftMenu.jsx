@@ -1,7 +1,6 @@
 import React from 'react';
 import { List, ListItem, Subheader, Divider, IconButton } from 'material-ui';
 import LocationSearching from 'material-ui/svg-icons/device/location-searching.js';
-import PanoramaFishEye from 'material-ui/svg-icons/image/panorama-fish-eye.js';
 
 export default class LeftMenu extends React.Component {
   constructor(props) {
@@ -52,9 +51,9 @@ export default class LeftMenu extends React.Component {
                   </IconButton>
                 )}
                 leftIcon={
-                  <svg xmlns="http://www.w3.org/2000/svg" style={{margin: '6px'}}>
-                    <foreignObject>
-                      <p className="octagon">
+                  <svg xmlns="http://www.w3.org/2000/svg" version="1.1" style={{margin: '0', left: '0', padding: '6px', width: 'calc(100% - 12px)', height: 'calc(100% - 12px)'}}>
+                    <foreignObject width="100%" height="100%">
+                      <p className="circle">
                         {neighbourhood.area_s_cd}
                       </p>
                     </foreignObject>

@@ -5,7 +5,7 @@ import baseTheme from 'material-ui/styles/baseThemes/lightBaseTheme';
 import getMuiTheme from 'material-ui/styles/getMuiTheme';
 import LoginDialog from './LoginDialog.jsx';
 import SignupDialog from './SignupDialog.jsx';
-import LeftMenu from './LeftMenu.jsx';
+import LeftMenu from './left-menu/LeftMenu.jsx';
 import MapContent from './map-content/MapContent.jsx';
 import neighborhoods_borders from '../../data/neighborhoods_borders.js';
 import PreferencesList from './PreferencesList.jsx';

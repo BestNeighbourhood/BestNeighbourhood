@@ -1,64 +1,68 @@
-var config = require('../config/db_config');
-var nb_borders = require('../../data/neighborhoods_borders.js');
+var mongoose = require('mongoose');
+var dbConnect = require('../config/db_connect');
+var connection = mongoose.createConnection(dbConnect.getDbConnectionString(), {auth:{authdb:"admin"}});
+//Logger
+var logger = require('../config/logger');
 
-// category - title
 var optionsController = function() {
  
-    /* Get Categories and Subcategories  [category , tables [ title ]]  */
+    /* Get Categories and datasets */
     var getCategories = function (req, res) {
-         res.json(TablesOptions);
+        connection.db.collection('dsinfos', function (err, collection) {
+            collection.aggregate([
+                {  
+                    $group : {
+                        _id : "$category",
+                        datasets : { $addToSet : "$title"}
+                    }
+                }
+            ]).toArray(function (err, docs) {
+                return res.json(docs);
+            });
+        });
     }
 
-
-    /* slider range 0...100  : getTop?nbrhoods= &importance= {category & rating from 0 to 1000}*/
-    // neighborhood.area_name.substring(0,neighborhood.area_name.indexOf('('))
-    var getTopNeighbourhood = function (req, res) {
-        var json = require('./test.json');
-        var tables = json['tables'];
-        var analysis = [
-            { neighborhood : "", occumulateRating : 0 }
-        ];   
+    /* Get demographics for nbrhoods */
+    var getDemo = function (req, res) {
+        connection.db.collection('Population by Age (2014)', function (err, collection) {
+             collection.find({}).toArray(function (err, docs) {
+                return res.json(docs);
+            });
+        });
     }
 
-
-    var findCountForNbrHood = function (nbrhood, tableName) {
-         pg.connect(config, function(err, client, done) {
-                   var finish = function() {
-                       done();
-                       process.exit();
-                   }
-
-                   if (err) {
-                        console.error('Failed to connect to cockroach', err);
-                        finish();
-                   }
-            
-                    client.query('SELECT count(*) FROM '+ tableName +' WHERE TRIM(UPPER(neighbourhood)) = ' + "UPPER('" + nbrhood + "')", function (err, results) {
-                        if (err) {
-                            console.log(err);
-                            finish();
-                        } else {
-                            return results.rows[0]['count(*)']; 
-                    } });
-               });
-    }
-
-    /* Get statistics for neighbourhood : sample usage : getStat?nbrhood=""*/
+    /* Get statistics for dataset : sample usage : getStat*/
     var getStat = function (req, res) {
-        var nbrhood = req.query.nbrhood;
-        
-        if(!nbrhood) {
-            res.send(401);
-        }
-        
-        var response = [];
+
+        connection.db.collection('SumDs', function (err, collection) {
+            collection.aggregate(
+                // Initial document match (uses index, if a suitable one is available)
+                // { $match: {
+                //     _id : "58f2aa09327603720911a9ca"
+                // }},
+                // Filter to 'homework' scores 
+                // { $match: {
+                //     'neighbourhoods.title': 'New Toronto'
+                // }},
+                // // Expand the scores array into a stream of documents
+                // { $unwind: '$neighbourhoods' },
+
+                // // Sort in descending order
+                // { $sort: {
+                //     'neighbourhoods.count': -1
+                // }}
+
+            ).toArray( function (err, docs) {
+                return res.json(docs);
+            });
+        });
     }
 
 
      return {
        getCategories : getCategories,
        getStat       : getStat,
-       getTop        : getTopNeighbourhood
+       getDemo : getDemo
   };
 }
 

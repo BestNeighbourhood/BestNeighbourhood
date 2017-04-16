@@ -29,9 +29,15 @@ export default class LeftMenu extends React.Component {
     }
   }
 
+  handleMouseEnter = (neighbourhood_num) => {
+    this.props.handleHovered(neighbourhood_num);
+  }
+
+  handleMouseLeave = () => {
+    this.props.handleHovered(undefined);
+  }
+
   render() {
-    //location search button
-    let iconButton = (<IconButton><LocationSearching /></IconButton>);
 
     //always display the list in ascending order
     let sorted_neighbourhoods_list = this.props.neighbourhoods_names_centres.sort(function(a, b) {
@@ -44,6 +50,8 @@ export default class LeftMenu extends React.Component {
           {sorted_neighbourhoods_list.map(neighbourhood => (
             <span key={neighbourhood.area_s_cd}>
               <ListItem
+                onMouseEnter={this.handleMouseEnter.bind(null, neighbourhood.area_s_cd)}
+                onMouseLeave={this.handleMouseLeave}
                 primaryText={neighbourhood.area_name}
                 rightIconButton={(
                   <IconButton onClick={this.moveToSelectedArea.bind(null, neighbourhood.center, neighbourhood.zoom)}>

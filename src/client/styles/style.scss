@@ -78,3 +78,13 @@ body {
   border-radius: 50%;
   border: 2px solid black;
 }
+
+.map-marker__marker {
+  &.map-marker__marker--big {
+    background-image: url('../assets/map_icon_text_red.svg');
+  }
+}
+
+.marker-tooltip {
+  z-index: 1010000 !important;
+}

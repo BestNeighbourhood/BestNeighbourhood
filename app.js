@@ -35,11 +35,10 @@ if(process.env.NODE_ENV === "production") {
     next();
   });
 }
-
 // Set up middleware
 app.use(express.static('dist'));
 app.use(bodyParser.json());
-app.use(bodyParser.urlencoded());
+app.use(bodyParser.urlencoded({ extended: true }));
 app.use(cookieParser());
 
 // set up views 

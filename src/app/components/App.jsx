@@ -5,7 +5,7 @@ import baseTheme from 'material-ui/styles/baseThemes/lightBaseTheme';
 import getMuiTheme from 'material-ui/styles/getMuiTheme';
 import LoginDialog from './LoginDialog.jsx';
 import SignupDialog from './SignupDialog.jsx';
-import LeftMenu from './LeftMenu.jsx';
+import LeftMenu from './left-menu/LeftMenu.jsx';
 import MapContent from './map-content/MapContent.jsx';
 import neighborhoods_borders from '../../data/neighborhoods_borders.js';
 import PreferencesList from './PreferencesList.jsx';
@@ -24,6 +24,9 @@ export default class App extends React.Component {
       //set this to true and send to MapContent to identify that map and maps have been set
       //and we can start rendering neighbourhoods' borders
       updateMaps: false,
+
+      //to keep track on what neighbourhood num is hovered on in the list
+      hoveredAreaCode: undefined,
     }
 
     this.handleLogin = this.handleLogin.bind(this);
@@ -116,6 +119,12 @@ export default class App extends React.Component {
     }
   }
 
+  handleHovered = (num) => {
+    this.setState({
+      hoveredAreaCode: num,
+    });
+  }
+
   render() {
     var leftMenuStyles = this.state.leftMenuOpen ? {'' : ''} : { 'display': 'none' };
 
@@ -129,6 +138,7 @@ export default class App extends React.Component {
         <div className="contentContainer">
           <div className="leftPanel" style={leftMenuStyles}>
             <LeftMenu
+              handleHovered={this.handleHovered}
               neighbourhoods_names_centres={this.props.neighbourhoods_names_centres}
               setMaps={this.setMaps}
               getMaps={this.getMaps}
@@ -138,6 +148,7 @@ export default class App extends React.Component {
           <div className="mainContent">
             <div className="map">
               <MapContent
+                hoveredAreaCode={this.state.hoveredAreaCode}
                 setMaps={this.setMaps}
                 getMaps={this.state.updateMaps ? this.getMaps : null}
                 getMap={this.state.updateMaps ? this.getMap : null}

@@ -56,10 +56,10 @@ export default class MapContent extends Component {
 
           var nbrhood = new maps.Polygon({
             paths: entry,
-            strokeColor: '#ff4d4d',
+            strokeColor: '#337ab7',
             strokeOpacity: 0.8,
             strokeWeight: 2,
-            fillColor: '#ffe6e6',
+            fillColor: '#def0f7',
             fillOpacity: 0.35
           });
           nbrhood.setMap(map);

@@ -45,8 +45,8 @@ app.use(cookieParser());
 app.set('views', './src/client'); /* TEST CLIENT */
 
 // Set up Routes
-app.use('/Admin', adminRouter);
-app.use('/Options', optionsRouter);
+app.use('/admin', adminRouter);
+app.use('/data', optionsRouter);
 
 app.get('/', function(req, res) {
     res.sendFile(path.join(__dirname, 'src/client/index.html'));

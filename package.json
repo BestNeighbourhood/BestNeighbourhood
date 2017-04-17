@@ -28,6 +28,7 @@
     "prop-types": "^15.5.8",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
+    "react-flip-move": "^2.9.2",
     "react-pure-render": "^1.0.2",
     "react-tap-event-plugin": "~2.0.0",
     "react-tooltip": "^3.3.0",

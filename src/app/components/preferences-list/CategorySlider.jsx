@@ -29,16 +29,21 @@ componentDidUpdate() {
   }
   render() {
     return (
-      <Slider
-        sliderStyle={{'marginTop': '5px', 'marginBottom': '5px'}}
-        min={0}
-        max={100}
-        step={1}
-        defaultValue={50}
-        value={this.state.secondSlider}
-        onChange={this.handleSecondSlider.bind(this)}
-        onDragStop={this.handleOnDragStop.bind(this)}
-      />
+      <div>
+        <div>
+         {this.props.datasetName}
+        </div>
+        <Slider
+          sliderStyle={{'marginTop': '0px', 'marginBottom': '0px'}}
+          min={0}
+          max={100}
+          step={1}
+          defaultValue={50}
+          value={this.state.secondSlider}
+          onChange={this.handleSecondSlider.bind(this)}
+          onDragStop={this.handleOnDragStop.bind(this)}
+        />
+      </div>
     );
   }
 }

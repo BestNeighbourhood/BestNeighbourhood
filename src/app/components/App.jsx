@@ -8,7 +8,7 @@ import SignupDialog from './SignupDialog.jsx';
 import LeftMenu from './left-menu/LeftMenu.jsx';
 import MapContent from './map-content/MapContent.jsx';
 import neighborhoods_borders from '../../data/neighborhoods_borders.js';
-import PreferencesList from './PreferencesList.jsx';
+import PreferencesList from './preferences-list/PreferencesList.jsx';
 
 export default class App extends React.Component {
 

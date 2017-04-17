@@ -70,6 +70,7 @@ export default class LeftMenu extends React.Component {
           <FlipMove duration={1500} easing="ease-out">
           {this.state.sortedNeighbourhoods.map(neighbourhood => (
               <div key={neighbourhood.area_s_cd}>
+                <Divider/>
                 <ListItem
                   onMouseEnter={this.handleMouseEnter.bind(null, neighbourhood.area_s_cd)}
                   onMouseLeave={this.handleMouseLeave}

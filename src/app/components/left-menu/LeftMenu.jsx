@@ -3,17 +3,6 @@ import { List, ListItem, Subheader, Divider, IconButton } from 'material-ui';
 import LocationSearching from 'material-ui/svg-icons/device/location-searching.js';
 import FlipMove from 'react-flip-move';
 
-class ListWithProps extends React.Component {
-  render() {
-    return (
-      <List>
-        {this.props.children}
-      </List>
-    );
-  }
-}
-
-
 export default class LeftMenu extends React.Component {
   constructor(props) {
     super(props);

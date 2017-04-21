@@ -15,27 +15,15 @@ export default class MapContent extends Component {
   constructor(props) {
     super(props);
 
-    var markers_info = [];
-    for (var i = 0; i < this.props.neighborhoods_borders.length; i++) {  // 140
-      var center = this.props.neighborhoods_borders[i].center.split(",");
-      center = [parseFloat(center[0]), parseFloat(center[1])];
-
-      markers_info.push({
-        coordinate: this.props.neighborhoods_borders[i].geometry.coordinates[0][0],
-        code: this.props.neighborhoods_borders[i].area_s_cd,
-        center: center,
-        name: this.props.neighborhoods_borders[i].area_name
-      });
-    }
-
     this.state = {
       neighborhoodsDrawn: false,
-      markers_info: markers_info
     }
   }
 
   _distanceToMouse = customDistanceToMouse;
 
+  //getMap and getMapsare passed here manually once GoogleMapsAPI is ready
+  //so we can start drawing polygons and render markers after that
   componentDidUpdate() {
     if(!this.state.neighborhoodsDrawn && this.props.getMap && this.props.getMaps) {
 
@@ -43,19 +31,9 @@ export default class MapContent extends Component {
       let maps = this.props.getMaps();
 
       if(maps != undefined && map != undefined) {
-        for (var i = 0; i < this.props.neighborhoods_borders.length; i++) {  // 140
-          var entry = new Array();
-          var _data = this.props.neighborhoods_borders[i].geometry.coordinates[0];
-
-          for(var j = 0; j < _data.length; j++){ // 93
-            entry.push({
-              lat: _data[j][1],
-              lng: _data[j][0],
-            });
-          }
-
+        for (var i = 0; i < this.props.neighbourhoodsData.length; i++) {  // 140
           var nbrhood = new maps.Polygon({
-            paths: entry,
+            paths: this.props.neighbourhoodsData[i].borders,
             strokeColor: '#337ab7',
             strokeOpacity: 0.8,
             strokeWeight: 2,
@@ -72,7 +50,7 @@ export default class MapContent extends Component {
     }
   }
 
-  calculateScale = (index, code) => {
+  calculateScale = (index) => {
     return 0.65 - Math.round(index / 4) / 100;
   }
 
@@ -97,17 +75,24 @@ export default class MapContent extends Component {
         hoverDistance={30}
         distanceToMouse={this._distanceToMouse}
       >
-        {this.state.markers_info.map((marker, index) => (
+        { /* first we draw neighbourhood borders
+           * then we render initial markers
+           * and then we sort the initial data in the app.jsx
+          */
+          this.state.neighborhoodsDrawn
+          ? this.props.neighbourhoodsData.map((marker, index) => (
           <NeighbourhoodMarker
-            scale={this.calculateScale(index, marker.code)}
-            showBallon={marker.code == this.props.hoveredAreaCode}
+            scale={this.calculateScale(index)}
+            showBallon={marker.area_s_cd == this.props.hoveredAreaCode}
             key={index}
             marker={marker}
+            rank={index + 1}
             lat={marker.center[0]}
             lng={marker.center[1]}
             zIndex={1}
+            increaseMarkersRenderCounter={this.props.increaseMarkersRenderCounter}
           />
-        ))}
+        )) : null}
       </GoogleMap>
     );
   }

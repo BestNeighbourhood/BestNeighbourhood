@@ -40,6 +40,7 @@ body {
   flex-basis: 30%;
   overflow: auto;
   background-color: white;
+  overflow-y: scroll;
 }
 
 
@@ -87,4 +88,11 @@ body {
 
 .marker-tooltip {
   z-index: 1010000 !important;
+}
+
+.preferences-header {
+  text-align: center;
+  font-weight: bold !important;
+  font-size: 22px !important;
+  font-family: Georgia, serif;
 }

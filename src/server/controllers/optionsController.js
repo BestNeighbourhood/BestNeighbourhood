@@ -17,7 +17,7 @@ var optionsController = function() {
                     }
                 }
             ]).toArray(function (err, docs) {
-                return res.json(docs);
+                return res.status(200).json(docs);
             });
         });
     }
@@ -53,7 +53,7 @@ var optionsController = function() {
                 // }}
 
             ).toArray( function (err, docs) {
-                return res.json(docs);
+                return res.status(200).json(docs);
             });
         });
     }

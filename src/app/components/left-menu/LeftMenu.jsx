@@ -46,7 +46,7 @@ export default class LeftMenu extends React.Component {
                 <ListItem
                   onMouseEnter={this.handleMouseEnter.bind(null, neighbourhood.area_s_cd)}
                   onMouseLeave={this.handleMouseLeave}
-                  primaryText={neighbourhood.area_name}
+                  primaryText={<div className="truncatedText">{neighbourhood.area_name}</div>}
                   rightIconButton={(
                     <IconButton onClick={this.moveToSelectedArea.bind(null, neighbourhood.center, neighbourhood.zoom)}>
                       <LocationSearching />

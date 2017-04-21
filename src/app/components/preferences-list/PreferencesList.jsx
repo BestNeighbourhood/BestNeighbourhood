@@ -143,7 +143,7 @@ export default class PreferencesList extends React.Component {
             <ListItem
               disableTouchRipple={true}
               key={index}
-              primaryText={category}
+              primaryText={<div className="truncatedText preferencesCategoryText">{category}</div>}
               primaryTogglesNestedList={true}
               leftCheckbox={
                 <div>

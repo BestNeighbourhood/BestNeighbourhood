@@ -21,7 +21,7 @@ export default class CategorySlider extends React.Component {
   render() {
     return (
       <div>
-        <div>
+        <div className="truncatedText">
          {this.props.subcategoryName}
         </div>
         <Slider

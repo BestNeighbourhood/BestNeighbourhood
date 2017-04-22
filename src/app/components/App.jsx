@@ -67,6 +67,7 @@ export default class App extends React.Component {
 
     let neighbourhoodsData = this.state.neighbourhoodsData;
     let statistics = this.props.statistics;
+    let population = this.props.population;
 
     //iterating through the neighbourhoods
     for(let i = 0; i < neighbourhoodsData.length; i++) {
@@ -85,9 +86,9 @@ export default class App extends React.Component {
 
           //making an exception for "Crimes" category, the more crimes - the smaller the rank
           if(preferences[statistics[j].dataset].category == 'Crimes') {
-            neighbourhoodsData[i].calculatedRank -= (preferences[statistics[j].dataset].value * statValue / 100);
+            neighbourhoodsData[i].calculatedRank -= (preferences[statistics[j].dataset].value * statValue * 1000 / population[neighbourhoodsData[i].area_name] );
           } else {
-            neighbourhoodsData[i].calculatedRank += (preferences[statistics[j].dataset].value * statValue / 100);
+            neighbourhoodsData[i].calculatedRank += (preferences[statistics[j].dataset].value * statValue * 1000 / population[neighbourhoodsData[i].area_name] );
           }
         }
       }

@@ -203,6 +203,10 @@ export default class AppContainer extends Component {
       neighbourhoodsData: neighbourhoodsData,
     });
 
+    this.fetchStatistics()
+  }
+
+  fetchStatistics() {
     //fetching the statistics
     var _this = this;
     var httpRequest = new XMLHttpRequest();
@@ -210,7 +214,6 @@ export default class AppContainer extends Component {
       if (this.readyState == 4 && this.status == 200) {
         console.log('fetching statistics');
         var _statistics =  JSON.parse(httpRequest.responseText);
-
         //to avoid empty datasets
         var statistics = [];
         for(let i = 0; i < _statistics.length; i++) {
@@ -218,10 +221,19 @@ export default class AppContainer extends Component {
           //some datasets come without neighbourhoods objects inside (Recreational Drop in Programs)
           if(_statistics[i].neighbourhoods) {
 
-            //changing neighbourhoods arrays to objects
+            //looking for the maxValue for each dataset in the statistics
+            //and making the rest relative to the maxValue (0, 1) where maxValue is 1.
+            let maxValue = 0;
+            for(let j = 0; j < _statistics[i].neighbourhoods[0].length; j++) {
+              if(_statistics[i].neighbourhoods[0][j].count > maxValue) {
+                maxValue = _statistics[i].neighbourhoods[0][j].count;
+              }
+            }
+
+            //changing neighbourhoods arrays to objects and add a calculated count
             let neighbourhoods = {};
             for(let j = 0; j < _statistics[i].neighbourhoods[0].length; j++) {
-              neighbourhoods[_statistics[i].neighbourhoods[0][j].title] = _statistics[i].neighbourhoods[0][j].count;
+              neighbourhoods[_statistics[i].neighbourhoods[0][j].title] = _statistics[i].neighbourhoods[0][j].count / maxValue;
             }
             _statistics[i].neighbourhoods = neighbourhoods;
 
@@ -229,19 +241,44 @@ export default class AppContainer extends Component {
           }
         }
 
-        _this.setState({
-          statistics: statistics,
-        });
+        _this.fetchPopulation(statistics);
       }
     };
     httpRequest.open('GET', "http://" + IP + "/data/stat");
     httpRequest.send(null);
+  }
 
+  fetchPopulation(statistics) {
+    //fetching the statistics
+    var _this = this;
+    var httpRequest = new XMLHttpRequest();
+    httpRequest.onreadystatechange = function() {
+      if (this.readyState == 4 && this.status == 200) {
+        console.log('fetching population');
+        var _population =  JSON.parse(httpRequest.responseText);
+
+        let population = {};
+        for(let i = 0; i < _population.length; i++) {
+          for(let j = 0; j < neighborhoods_borders.length; j++) {
+            if(_population[i].num == neighborhoods_borders[j].area_s_cd) {
+              population[neighborhoods_borders[j].area_name] = _population[i].pop_male + _population[i].pop_female;
+            }
+          }
+        }
+
+        _this.setState({
+          statistics: statistics,
+          population: population,
+        });
+      }
+    };
+    httpRequest.open('GET', "http://" + IP + "/data/population");
+    httpRequest.send(null);
   }
 
   render() {
     return (
-      <App neighbourhoodsData={this.state.neighbourhoodsData} statistics={this.state.statistics}/>
+      <App neighbourhoodsData={this.state.neighbourhoodsData} statistics={this.state.statistics} population={this.state.population}/>
     );
   }
 }

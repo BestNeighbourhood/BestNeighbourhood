@@ -51,7 +51,7 @@ var dataService = function () {
 
     /**
      *  Gets list of categories (projects within organization)
-     *  To get category title -> [i]['title'], to get dataSets within category [i]['items']
+     *  To get category title -> [i]['title']
      * 
      *  e.g. :
      *   http://api.namara.io/v0/organizations/58090332de44093525000062/projects?api_key=98c561bd55188933cb81609c0ae4541e87f3f2eb5e86e4e5678bf6a4d8da0fd8
@@ -65,6 +65,21 @@ var dataService = function () {
 
         makeRequest(options, cb);
     };
+
+    /**
+     *  Gets list of datasets within a category 
+     * 
+     *  e.g. :
+     *   http://api.namara.io/v0/organizations/58090332de44093525000062/projects/591260693bba8a000a000280/items?api_key=98c561bd55188933cb81609c0ae4541e87f3f2eb5e86e4e5678bf6a4d8da0fd8
+     */
+    var getCategoryItems = function (categoryId, cb) {
+        var options = {
+            host : host,
+            path : '/v0/organizations/' + organization + '/projects/' + categoryId + '/items?api_key=' + api_key
+        }
+
+        makeRequest(options, cb);
+    }
 
     /** 
      * Fetch data from a particular dataSet
@@ -85,7 +100,8 @@ var dataService = function () {
     return {
         selectDataFromDataSet : selectDataFromDataSet,
         getListOfCategories   : getListOfCategories,
-        getDataSetInfo        : getDataSetInfo
+        getDataSetInfo        : getDataSetInfo,
+        getCategoryItems      : getCategoryItems
     }; 
 };
 module.exports = dataService;

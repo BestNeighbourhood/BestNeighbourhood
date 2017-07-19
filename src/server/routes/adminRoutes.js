@@ -1,15 +1,16 @@
 var express     = require('express');
 var adminRouter = express.Router();
+var ensureAuth  = require('../config/auth.js'); 
 
 var router = function() {
 
     var adminController = require('../controllers/adminController')();
 
-    // goes through datasets and assigns neighbourhood based on geometry values 
-    adminRouter.route('/processDb').get(adminController.processDb);
+    // Goes through datasets and assigns neighbourhood based on geometry values 
+    adminRouter.route('/processDb').get(ensureAuth, adminController.processDb);
 
-    // Load Categories & Datasets from service api
-    adminRouter.route('/loadData').get(adminController.loadData);
+    // Loads Categories & Datasets from api service
+    adminRouter.route('/loadData').get(ensureAuth, adminController.loadData);
 
     return adminRouter;
 };

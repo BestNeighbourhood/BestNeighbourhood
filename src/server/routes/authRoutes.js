@@ -11,24 +11,31 @@ var router = function() {
     // To login
     authRouter.route('/signIn').post(passport.authenticate('local', {
         successRedirect : '/', 
-        failureRedirect : '/auth/signIn', // redirect back to the signup page if there is an error
+        failureRedirect : '/', 
     
     }));
     
     // process the signup form
     authRouter.route('/signup').post(function(req, res) {
         
-        
+        User.count({}, function (err, c) {
 
-        User.register(new User({ username : req.body.username }), req.body.password, function(err, account) {
-            if (err) {
-                logger.info(err);
-            }
-
-            passport.authenticate('local')(req, res, function () {
+            // Restrist number of admin accounts
+            if (c == 2) {
                 res.redirect('/');
-            });
+            } else {
+                User.register(new User({ username : req.body.username }), req.body.password, function(err, account) {
+                    if (err) {
+                        logger.info(err);
+                    }
+
+                    passport.authenticate('local')(req, res, function () {
+                        res.redirect('/');
+                    });
+                });
+            }
         });
+        
   });
 
 

@@ -22,6 +22,8 @@ var optionsController = function() {
                     }
                 }
             ]).toArray(function (err, docs) {
+                res.header("Access-Control-Allow-Origin", "*");
+                res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
                 return res.status(200).json(docs);
             });
         });
@@ -31,6 +33,8 @@ var optionsController = function() {
     var getDemo = function (req, res) {
         connection.db.collection('Toronto Population by Age (2014)', function (err, collection) {
              collection.find({}).toArray(function (err, docs) {
+                res.header("Access-Control-Allow-Origin", "*");
+                res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
                 return res.json(docs);
             });
         });
@@ -58,6 +62,8 @@ var optionsController = function() {
                 // }}
 
             ).toArray( function (err, docs) {
+                res.header("Access-Control-Allow-Origin", "*");
+                res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
                 return res.status(200).json(docs);
             });
         });

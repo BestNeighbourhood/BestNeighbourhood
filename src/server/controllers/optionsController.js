@@ -10,10 +10,15 @@ var optionsController = function() {
     var getCategories = function (req, res) {
         connection.db.collection('dsinfos', function (err, collection) {
             collection.aggregate([
+                {   
+                    $match : {
+                        "category" : { $ne : "Other"}
+                    }
+                },
                 {  
                     $group : {
                         _id : "$category",
-                        datasets : { $addToSet : "$title"}
+                        datasets : { $addToSet : "$title"},
                     }
                 }
             ]).toArray(function (err, docs) {
@@ -26,7 +31,7 @@ var optionsController = function() {
 
     /* Get demographics for nbrhoods */
     var getDemo = function (req, res) {
-        connection.db.collection('Population by Age (2014)', function (err, collection) {
+        connection.db.collection('Toronto Population by Age (2014)', function (err, collection) {
              collection.find({}).toArray(function (err, docs) {
                 res.header("Access-Control-Allow-Origin", "*");
                 res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");

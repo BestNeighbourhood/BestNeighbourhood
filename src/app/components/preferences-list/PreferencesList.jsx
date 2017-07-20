@@ -171,6 +171,7 @@ export default class PreferencesList extends React.Component {
                         disabled={categories[category].subcategories[subcategory].disabled}
                       />
                     }
+                    style={{fontFamily: "Arial", fontSize: "17"}}
                   />
                 )
               }

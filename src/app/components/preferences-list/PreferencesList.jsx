@@ -141,6 +141,7 @@ export default class PreferencesList extends React.Component {
         {categories && sliderValues ?
           Object.keys(categories).map((category, index) =>
             <ListItem
+              style={{fontFamily: "Arial", fontSize: "17", fontWeight: "bold"}}
               disableTouchRipple={true}
               key={index}
               primaryText={<div className="truncatedText preferencesCategoryText">{category}</div>}

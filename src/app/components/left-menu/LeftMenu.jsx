@@ -61,6 +61,7 @@ export default class LeftMenu extends React.Component {
                       </foreignObject>
                     </svg>
                   }
+                  style={{fontFamily: "Arial", fontSize: "17"}}
                 />
                 <Divider/>
               </div>

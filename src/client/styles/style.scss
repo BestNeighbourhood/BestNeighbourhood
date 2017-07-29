@@ -36,6 +36,7 @@ body {
 .mainContent {
   flex: 2;
   flex-basis: 80%;
+  height: 100%; /* Fix for Safari */
   background-color: #1baae1;
   display: flex;
   flex-direction: row;
@@ -45,6 +46,7 @@ body {
 .map {
   flex: 1;
   flex-basis: 70%;
+  height: 100%; /* Fix for Safari */
 }
 
 .categories {

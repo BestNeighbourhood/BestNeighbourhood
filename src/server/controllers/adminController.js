@@ -17,7 +17,6 @@ var dataSetSchema  = require('../models/dsSchema'); // For schema-less docs
 
 // Load borders 
 var nbrBorders = require('../data/list');
-var inside = require('point-in-polygon');
 var jsts = require("jsts")
 
 var adminController = function() {
@@ -40,7 +39,7 @@ var adminController = function() {
 
             this.requestComplete = function(isComplete) {
                 count++
-                if (count == countToDo) callback(count);
+                if (count == countToDo) callback(count, countToDo);
             };
         };
     })();
@@ -78,191 +77,175 @@ var adminController = function() {
             // insert boundaries (maxy, maxx, miny, minx) and all the coordinates + nbrhood names
             rTree.insert(nbrPoly.polygon.getEnvelopeInternal(), nbrPoly);
         }
+        
+        logger.info('+-- Initializing sum table...')           
 
-        DsInfo.find({}).exec( function(err, info) {
+        // Drop existing sum doc if exists
+        connection.db.collection('SumDs', function (err, collection) {
+            if (!err) { 
+                collection.drop();
+                logger.info("✔-- Dropped existing SumDs document!")
+            }
+        });
+        
+        var SumDs = connection.model('SumDs', dataSetSchema, 'SumDs');
 
-            // First, summary table needs to be initialized
-            logger.info('+-- Initializing sum table...')
-            var sumData = [];            
-            info.reduce(function(infoMap, item) {
-                var data  = [];
-                data["dataset"] = item.toObject().title;
-                sumData.push(data);
-            });
+        logger.info('+-- Processing coordinates & calculating neighbourhoods for each dataset...');
+        var cursor = DsInfo.find().cursor();
 
-            connection.db.collection('SumDs', function (err, collection) {
-                if (!err) { 
-                    collection.drop();
-                    logger.info("✔-- Dropped existing SumDs document!")
+        // For each dataset in dsInfo
+        cursor.on('data', function(doc) {
+
+            // Retrieve dataset itself               
+            connection.db.listCollections({name: doc.title}).next(function(err, collinfo) {
+                    
+                if (err) {
+                    logger.error('X-- Error occured while fetching info about collection "' +collinfo.name+ '" from db');
+                    logger.error('X-- Error message : "' + err + '"');
+                }
+                if (collinfo) {
+                    find(collinfo.name, {}, function (err, docs) { // Retrieve dataset itself 
+
+                        // tracking completion events
+                        var onComplete = new OnComplete({countToDo : docs.length}, function (count, countToDo) {
+                            // Change into mongo-friendly format
+                            var query = [];
+                            var keys = Object.keys(nbrhoods);
+                            for (var i = 0; i < keys.length; i++) {
+                                query.push({
+                                    count : nbrhoods[keys[i]],
+                                    title : keys[i]
+                                });
+                            }
+
+                            var update = {};
+                            update['neighbourhoods'] = query;
+
+                            // For each dataset -> generate summary for each neighbourhood
+                            // e.g. 
+                            // dataset : "BikeStations"
+                            // neighbourhoods :
+                            //     [
+                            //        [0] : { title : "Annex", count : 7},
+                            //        [1] : { title : "New Toronto", count : 2}
+                            //     ]
+                            SumDs.update( { dataset : collinfo.name }, { $push: update }, {upsert: true}, function (err, element) {
+                                var msg = "✔-- Found '" + nbrcount + "' neighbourhood values for dataset entries with row-count '" + countToDo + "' in ('" + collinfo.name + "')";
+
+                                if (nbrcount < docs.length) {
+                                    logger.warn(msg);
+                                } else {
+                                    logger.info(msg)
+                                }
+                            });
+                        });
+
+                        // Total number of geo-neighbourhood intersections
+                        var nbrcount = 0;
+                        // Array stores number of intersections for each neighbourhood
+                        var nbrhoods = {};
+                        var geoType  = (docs[0].geometry !== undefined)?docs[0].geometry.type:'Point';
+
+                        if ('neighbourhood' in docs[0] ) {
+
+                            logger.info("✔-- Dataset '" + doc.title + "' already has 'Neighbourhood' property");
+                                docs.forEach(function (row) {
+                                    nbrhoods[row.neighbourhood] = (nbrhoods[row.neighbourhood] || 0) + 1;
+                                    nbrcount++;
+                                    onComplete.requestComplete();
+                                });
+
+                        } else if (docs[0].geometry != undefined && (geoType == 'Polygon' || geoType == 'LineString')) { /** --- POLYGON or LINESTRING --- */
+
+                            docs.forEach(function (row) { 
+
+                                var geometry = row.geometry;
+
+                                if (geometry) {
+                                    var objCoordinates = [];
+                                    var geoObject = [];
+
+                                    if (geoType == 'Polygon') {
+                                        geometry.coordinates[0].forEach(function(vertex) {
+                                            objCoordinates.push(new jsts.geom.Coordinate(vertex[0], vertex[1]));
+                                        });
+
+                                        // Close the polygon 
+                                        objCoordinates.push(objCoordinates[0]);
+                                        geoObject = geoFactory.createPolygon(geoFactory.createLinearRing(objCoordinates));
+                                    } else if (geoType == 'LineString') {
+                                        geometry.coordinates.forEach(function(vertex) {
+                                            objCoordinates.push(new jsts.geom.Coordinate(vertex[0], vertex[1]));
+                                        });
+                                        geoObject = geoFactory.createLineString(objCoordinates);
+                                    }
+                                
+                                    // Find nodes that *may potentially intersect a polygon / linestring
+                                    var polyNodes = rTree.query(geoObject.getEnvelopeInternal());
+
+                                    polyNodes.array_.forEach(function(d) {
+                                        // verify that a geo obj intersects a neighbourhood
+                                        if(d.polygon.intersects(geoObject)) {
+
+                                            var intersection = d.polygon.intersection(geoObject);
+                                            // use either area or length to determine how much geo object overlaps a neighbourhood
+                                            var geoUnit = 0;
+                                            if (geoType == 'Polygon') {
+                                                geoUnit = intersection.getArea();
+                                            } else if (geoType == 'LineString') {
+                                                geoUnit = intersection.getLength();
+                                            }
+
+                                            nbrhoods[d.area_name] = (nbrhoods[d.area_name] || 0) + geoUnit;
+                                            nbrcount++;
+                                        }
+                                    });
+                                }
+
+                                onComplete.requestComplete();
+                            });
+                        } else if ( (docs[0].lat != undefined && docs[0].lng != undefined) ||                   
+                                    (docs[0].latitude != undefined && docs[0].longitude != undefined) ||
+                                    (docs[0].geometry != undefined && geoType == 'Point')) {   /** --- POINT --- */
+
+                            var countrow = 0;
+                            docs.forEach(function (row) {
+                                countrow ++;
+                                var objCoordinates = [];
+                                // Different longitude & latitude representations
+                                if (docs[0].geometry != undefined && docs[0].geometry.type == 'Point') {
+                                    objCoordinates = row.geometry.coordinates;
+                                } else if (docs[0].lat != undefined && docs[0].lng != undefined ) {
+                                    objCoordinates = [ row.lng , row.lat ];
+                                } else if (docs[0].latitude != undefined && docs[0].longitude != undefined) {
+                                    objCoordinates = [ row.longitude , row.latitude ];
+                                } 
+
+                                var geoObject = geoFactory.createPoint(new jsts.geom.Coordinate(objCoordinates[0], objCoordinates[1]));
+                                var polyNodes = rTree.query(geoObject.getEnvelopeInternal());
+                                
+                                polyNodes.array_.forEach(function(d) {
+                                    // verify that a geo obj intersects a neighbourhood
+                                    if(geoObject.intersects(d.polygon)) {
+                                        nbrhoods[d.area_name] = (nbrhoods[d.area_name] || 0) + 1;
+                                        nbrcount++;
+                                    }
+                                });
+                                
+                                onComplete.requestComplete();
+                            });
+                        }                         
+                        
+                        else {
+                            logger.error("X-- Could not recoginze location field for dataset  ('" + collinfo.name + "')");
+                        } 
+                    });
                 }
             });
-            
-            var SumDs = connection.model('SumDs', dataSetSchema, 'SumDs');
-            SumDs.create(sumData, function(err, results) {
-                logger.info("✔-- SumDs is initialized!");
+        });
 
-                logger.info('+-- Processing coordinates & calculating neighbourhoods for each dataset...');
-                var cursor = DsInfo.find().cursor();
-                var count = 0;
-
-                cursor.on('data', function(doc) {
-                    count++;                
-                    connection.db.listCollections({name: doc.title})
-                        .next(function(err, collinfo) {
-                            
-                            if (err) {
-                                logger.error('X-- Error occured while fetching info about collection "' +collinfo.name+ '" from db');
-                                logger.error('X-- Error message : "' + err + '"');
-                            }
-                            if (collinfo) {
-                                find(collinfo.name, {}, function (err, docs) {
-
-                                    var onComplete = new OnComplete({countToDo : docs.length}, function (count) {
-                                        // Change into mongo-friendly format
-                                        var query = [];
-                                        var keys = Object.keys(nbrhoods);
-                                        for (var i = 0; i < keys.length; i++) {
-                                            query.push({
-                                                count : nbrhoods[keys[i]],
-                                                title : keys[i]
-                                            });
-                                        }
-
-                                        var name = 'neighbourhoods';
-                                        var update = {};
-                                        update[name] = query;
-
-                                        // For each dataset -> generate summary for each neighbourhood
-                                        // e.g. 
-                                        // dataset : "BikeStations"
-                                        // neighbourhoods :
-                                        //     [
-                                        //        [0] : { title : "Annex", count : 7},
-                                        //        [1] : { title : "New Toronto", count : 2}
-                                        //     ]
-                                        SumDs.update( { dataset : collinfo.name }, { $push: update }, function (err, element) {
-                                            var msg = "✔-- Found '" + nbrcount + "' neighbourhood values for dataset entries with row-count '" + docs.length + "' in ('" + collinfo.name + "')";
-
-                                            if (nbrcount < docs.length) {
-                                                logger.warn(msg);
-                                            } else {
-                                                logger.info(msg)
-                                            }
-                                        });
-                                    });
-
-                                    var nbrcount = 0;
-                                    var nbrhoods = {};
-                                    if ('neighbourhood' in docs[0] ) {              
-                                        logger.info("✔-- Dataset '" + doc.title + "' already has 'Neighbourhood' property");
-                                         docs.forEach(function (row) {
-                                             nbrhoods[row.neighbourhood] = (nbrhoods[row.neighbourhood] || 0) + 1;
-                                             nbrcount++;
-                                             onComplete.requestComplete();
-                                         });
-                                    } else if (docs[0].geometry != undefined && docs[0].geometry.type == 'Polygon') { /** --- POLYGON --- */
-                                        docs.forEach(function (row) { 
-                                            var check = row.geometry;
-                                            if (check) {
-                                                var objCoordinates = [];
-                                                row.geometry.coordinates[0].forEach(function(vertex) {
-                                                    objCoordinates.push(new jsts.geom.Coordinate(vertex[0], vertex[1]));
-                                                });
-                                                
-                                                // Close the polygon 
-                                                objCoordinates.push(objCoordinates[0]);
-                                                try {
-                                                    var dsPoly = geoFactory.createPolygon(geoFactory.createLinearRing(objCoordinates));
-                                                    // Find nodes that may potentially intersect a polygon
-                                                    var polyNodes = rTree.query(dsPoly.getEnvelopeInternal());
-
-                                                    polyNodes.array_.forEach(function(d) {
-                                                        // verify that a dataset polygon intersects a neighbourhood
-                                                        if(d.polygon.intersects(dsPoly)) {
-                                                            nbrcount++;
-                                                            var intersection = d.polygon.intersection(dsPoly);
-                                                            nbrhoods[d.area_name] = (nbrhoods[d.area_name] || 0) + intersection.getArea();
-                                                        }
-                                                    });
-                                                } catch (err) { // for some rows JSTS throws ambiguous error
-                                                   //  logger.info(err);
-                                                }
-                                            }
-
-                                            onComplete.requestComplete();
-                                        });
-                                    } else if (docs[0].geometry != undefined && docs[0].geometry.type == 'LineString') {  /** --- LINE STRING --- */
-                                        docs.forEach(function (row) { 
-                                            var check = row.geometry;
-                                            if (check) {
-                                                var objCoordinates = [];
-                                                row.geometry.coordinates.forEach(function(vertex) {
-                                                    objCoordinates.push(new jsts.geom.Coordinate(vertex[0], vertex[1]));
-                                                });
-                                                
-                                                try {
-                                                    var dsString = geoFactory.createLineString(objCoordinates);
-                                                    // Find nodes that may potentially intersect a polygon
-                                                    var polyNodes = rTree.query(dsString.getEnvelopeInternal());
-
-                                                    polyNodes.array_.forEach(function(d) {
-                                                        // verify that a dataset string intersects a neighbourhood
-                                                        if(d.polygon.intersects(dsString)) {
-                                                            nbrcount++;
-                                                            var intersection = dsString.intersection(d.polygon);
-                                                            nbrhoods[d.area_name] = (nbrhoods[d.area_name] || 0) + intersection.getLength();
-                                                        }
-                                                    });
-                                                } catch (err) { // for some rows JSTS throws ambiguous error
-                                                    logger.info(err);
-                                                }
-                                            }
-
-                                            onComplete.requestComplete();
-                                        });
-                                    } else if ( (docs[0].lat != undefined && docs[0].lng != undefined) ||                   
-                                                (docs[0].latitude != undefined && docs[0].longitude != undefined) ||
-                                                (docs[0].geometry != undefined && docs[0].geometry.type == 'Point')) {   /** --- POINT --- */
-
-                                        docs.forEach(function (row) {
-                                            var check = true;
-
-                                            var objCoordinates = [];
-                                            // Different longitude & latitude representations
-                                            if (docs[0].geometry != undefined && docs[0].geometry.type == 'Point') {
-                                                check = row.geometry;
-                                                if (check) { 
-                                                    objCoordinates = row.geometry.coordinates;
-                                                }
-                                            } else if (docs[0].lat != undefined && docs[0].lng != undefined ) {
-                                                objCoordinates = [ row.lng , row.lat ];
-                                            } else if (docs[0].latitude != undefined && docs[0].longitude != undefined) {
-                                                objCoordinates = [ row.longitude , row.latitude ];
-                                            } 
-
-                                            for (var i = 0; i < nbrBorders.length && check; i++) {
-                                                if (inside(objCoordinates, nbrBorders[i].geometry.coordinates[0])) {
-                                                    nbrcount++;
-                                                    nbrhoods[nbrBorders[i].area_name] = (nbrhoods[nbrBorders[i].area_name] || 0) + 1;
-                                                    break;
-                                                }
-                                            }
-                                            onComplete.requestComplete();
-                                        });
-
-                                    } else {
-                                        logger.error("X-- Could not recoginze location field for dataset  ('" + collinfo.name + "')");
-                                    } 
-                            });
-                        }
-                    });
-                });
-
-                cursor.on('close', function() {
-                    logger.info("+-- Total number of datasets : " + count);
-                    res.send('Check logs for progress information');
-                });
-            });
+        cursor.on('close', function() {
+            res.send('Check logs for progress information');
         });
     }
 

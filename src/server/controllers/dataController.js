@@ -4,7 +4,7 @@ var connection = mongoose.createConnection(dbConnect.getDbConnectionString(), {a
 //Logger
 var logger = require('../config/logger');
 
-var optionsController = function() {
+var dataController = function() {
  
     /* Get Categories and datasets */
     var getCategories = function (req, res) {
@@ -22,8 +22,6 @@ var optionsController = function() {
                     }
                 }
             ]).toArray(function (err, docs) {
-                res.header("Access-Control-Allow-Origin", "*");
-                res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
                 return res.status(200).json(docs);
             });
         });
@@ -33,14 +31,12 @@ var optionsController = function() {
     var getDemo = function (req, res) {
         connection.db.collection('Toronto Population by Age (2014)', function (err, collection) {
              collection.find({}).toArray(function (err, docs) {
-                res.header("Access-Control-Allow-Origin", "*");
-                res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
                 return res.json(docs);
             });
         });
     }
 
-    /* Get statistics for dataset : sample usage : getStat*/
+    /* Get statistics for datasets  */
     var getStat = function (req, res) {
 
         connection.db.collection('SumDs', function (err, collection) {
@@ -62,8 +58,6 @@ var optionsController = function() {
                 // }}
 
             ).toArray( function (err, docs) {
-                res.header("Access-Control-Allow-Origin", "*");
-                res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
                 return res.status(200).json(docs);
             });
         });
@@ -77,4 +71,4 @@ var optionsController = function() {
   };
 }
 
-module.exports = optionsController;
+module.exports = dataController;

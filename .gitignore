@@ -5,4 +5,5 @@ dist/
 .vscode/
 .jscsrc
 .jshintrc
+.env
 src/server/config/db_config.json

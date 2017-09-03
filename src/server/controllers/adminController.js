@@ -208,12 +208,11 @@ var adminController = function() {
                                     (docs[0].latitude != undefined && docs[0].longitude != undefined) ||
                                     (docs[0].geometry != undefined && geoType == 'Point')) {   /** --- POINT --- */
 
-                            var countrow = 0;
                             docs.forEach(function (row) {
-                                countrow ++;
+
                                 var objCoordinates = [];
                                 // Different longitude & latitude representations
-                                if (docs[0].geometry != undefined && docs[0].geometry.type == 'Point') {
+                                if (docs[0].geometry != undefined && geoType == 'Point') {
                                     objCoordinates = row.geometry.coordinates;
                                 } else if (docs[0].lat != undefined && docs[0].lng != undefined ) {
                                     objCoordinates = [ row.lng , row.lat ];
@@ -234,9 +233,7 @@ var adminController = function() {
                                 
                                 onComplete.requestComplete();
                             });
-                        }                         
-                        
-                        else {
+                        } else {
                             logger.error("X-- Could not recoginze location field for dataset  ('" + collinfo.name + "')");
                         } 
                     });

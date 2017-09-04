@@ -1,12 +1,13 @@
 var http = require('http');
-//Logger
 var logger = require('../config/logger');
+
+require('dotenv').config()
 
 var dataService = function () {
 
-    var api_key = "98c561bd55188933cb81609c0ae4541e87f3f2eb5e86e4e5678bf6a4d8da0fd8";
-    var organization = "58090332de44093525000062";
-    var host    = 'api.namara.io';
+    var api_key      = process.env.DS_KEY;
+    var organization = process.env.DS_ORG;
+    var host         = 'api.namara.io';
 
     /**
      *  Wrapper function for http request
@@ -37,7 +38,7 @@ var dataService = function () {
      *  Get Info about one dataset, to get title - > ['data_set_metas']['title']
      *  
      *  e.g. :
-     *  https://api.namara.io/v0/data_sets/b746b8d5-8149-4681-83ca-3688227f2406?api_key=98c561bd55188933cb81609c0ae4541e87f3f2eb5e86e4e5678bf6a4d8da0fd8
+     *  https://api.namara.io/v0/data_sets/b746b8d5-8149-4681-83ca-3688227f2406?api_key={key}
      */
     var getDataSetInfo = function (dataSetId, cb) {
 
@@ -54,7 +55,7 @@ var dataService = function () {
      *  To get category title -> [i]['title']
      * 
      *  e.g. :
-     *   http://api.namara.io/v0/organizations/58090332de44093525000062/projects?api_key=98c561bd55188933cb81609c0ae4541e87f3f2eb5e86e4e5678bf6a4d8da0fd8
+     *   http://api.namara.io/v0/organizations/{organization_id}/projects?api_key={key}
      */
     var getListOfCategories = function (cb) {
     
@@ -70,7 +71,7 @@ var dataService = function () {
      *  Gets list of datasets within a category 
      * 
      *  e.g. :
-     *   http://api.namara.io/v0/organizations/58090332de44093525000062/projects/591260693bba8a000a000280/items?api_key=98c561bd55188933cb81609c0ae4541e87f3f2eb5e86e4e5678bf6a4d8da0fd8
+     *   http://api.namara.io/v0/organizations/{organization_id}/projects/{project_id}/items?api_key={key}
      */
     var getCategoryItems = function (categoryId, cb) {
         var options = {
@@ -85,7 +86,7 @@ var dataService = function () {
      * Fetch data from a particular dataSet
      *  
      *  e.g. :
-     *  https://api.namara.io/v0/data_sets/ea23ff2c-cc42-4fea-8df3-1677b35538cf/data/en-1?api_key=98c561bd55188933cb81609c0ae4541e87f3f2eb5e86e4e5678bf6a4d8da0fd8
+     *  https://api.namara.io/v0/data_sets/ea23ff2c-cc42-4fea-8df3-1677b35538cf/data/en-1?api_key={key}
      */
     var selectDataFromDataSet = function (dataSetId, dataSetVersion, cb) {
 

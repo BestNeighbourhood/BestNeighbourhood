@@ -1,9 +1,9 @@
-var configValues = require('./db_config');
+require('dotenv').config()
 
 module.exports = {
     
     getDbConnectionString: function() {
-        return 'mongodb://' + configValues.uname + ':' + configValues.pwd + '@127.0.0.1:27017/' + configValues.db;
+        return 'mongodb://' + process.env.DB_USER + ':' + process.env.DB_PASS + '@127.0.0.1:27017/' + process.env.DB;
     }
     
 }

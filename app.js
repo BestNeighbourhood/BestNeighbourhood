@@ -16,7 +16,7 @@ var routesFolder = './src/server/routes';
 
 // pull out Routers
 var adminRouter   = require(routesFolder + '/adminRoutes')();
-var optionsRouter = require(routesFolder + '/optionsRoutes')();
+var dataRouter    = require(routesFolder + '/dataRoutes')();
 var authRouter    = require(routesFolder + '/authRoutes')();
 
 // webpack hot load, development only
@@ -69,7 +69,7 @@ app.set('views', './src/client'); /* TEST CLIENT */
 ////////////////
 
 app.use('/admin', adminRouter);
-app.use('/data', optionsRouter);
+app.use('/data', dataRouter);
 app.use('/auth', authRouter);
 
 app.get('/', function(req, res) {

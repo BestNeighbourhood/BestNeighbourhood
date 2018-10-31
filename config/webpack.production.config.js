@@ -5,7 +5,7 @@ var CompressionPlugin = require('compression-webpack-plugin');
 module.exports = {
   devtool: 'cheap-module-source-map',
   entry: [
-    path.resolve(__dirname, '../src/app/components/AppContainer.jsx')
+    path.resolve(__dirname, '../src/client/components/AppContainer.jsx')
   ],
   output: {
     path: path.resolve(__dirname, '../dist'),

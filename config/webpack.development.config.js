@@ -4,7 +4,7 @@ var webpack = require('webpack');
 module.exports = {
   entry: [
     'webpack-hot-middleware/client?path=/__webpack_hmr&reload=true',
-    './src/app/components/AppContainer.jsx'
+    './src/client/components/AppContainer.jsx'
   ],
   output: {
     path: path.resolve(__dirname, '../dist'),

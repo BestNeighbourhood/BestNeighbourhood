@@ -1,5 +1,5 @@
 import React from 'react';
-import '../../client/styles/style.scss';
+import '../../../public/styles/style.scss';
 import PropTypes from 'prop-types';
 
 import { AppBar, FlatButton  } from 'material-ui';

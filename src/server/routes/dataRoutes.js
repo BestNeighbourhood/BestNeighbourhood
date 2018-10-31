@@ -1,25 +1,26 @@
-var express     = require('express');
-var dataRouter = express.Router();
+const express = require('express');
 
-var router = function() {
-    var dataController = require('../controllers/dataController')();
+const dataRouter = express.Router();
 
-    dataRouter.use(function (req, res, next) {
-        res.header("Access-Control-Allow-Origin", "*");
-        res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
-        next();
-    });
+const router = function () {
+  const dataController = require('../controllers/dataController')();
 
-    // /data/categories
-    dataRouter.route('/categories').get(dataController.getCategories);
+  dataRouter.use((req, res, next) => {
+    res.header('Access-Control-Allow-Origin', '*');
+    res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept');
+    next();
+  });
 
-    // /data/stat
-    dataRouter.route('/stat').get(dataController.getStat);
+  // /data/categories
+  dataRouter.route('/categories').get(dataController.getCategories);
 
-    // /data/population
-    dataRouter.route('/population').get(dataController.getDemo)
+  // /data/stat
+  dataRouter.route('/stat').get(dataController.getStat);
 
-    return dataRouter;
+  // /data/population
+  dataRouter.route('/population').get(dataController.getDemo);
+
+  return dataRouter;
 };
 
 module.exports = router;

@@ -1,30 +1,31 @@
-var mongoose = require('mongoose');
+const mongoose = require('mongoose');
 
-var dbConnect = require('../config/db_connect');
-var connection = mongoose.createConnection(dbConnect.getDbConnectionString(), {auth:{authdb:"admin"}});
+const dbConnect = require('../config/db_connect');
+
+const connection = mongoose.createConnection(dbConnect.getDbConnectionString(), { auth: { authdb: 'admin' } });
 
 // List of datasets within category
-var dsInfoSchema = new mongoose.Schema({
-    category : { type: String, default: "" },
-    title : { type: String, default: "" },
-    version : { type: String, default: "" },
-    data_set_uuid : String,
-    id    : String
+const dsInfoSchema = new mongoose.Schema({
+  category: { type: String, default: '' },
+  title: { type: String, default: '' },
+  version: { type: String, default: '' },
+  data_set_uuid: String,
+  id: String,
 });
 
 // List of categories (Transportation, education etc...)
-var catSchema = new mongoose.Schema({
-    title : String,
-    description : String,
-    items_count : Number,
-    id    : String,
-    items : [dsInfoSchema]
+const catSchema = new mongoose.Schema({
+  title: String,
+  description: String,
+  items_count: Number,
+  id: String,
+  items: [dsInfoSchema],
 });
 
-var Category = connection.model('Category', catSchema);
-var DsInfo = connection.model('DsInfo', dsInfoSchema);
+const Category = connection.model('Category', catSchema);
+const DsInfo = connection.model('DsInfo', dsInfoSchema);
 
-module.exports = { 
-    Category : Category,
-    DsInfo   : DsInfo
+module.exports = {
+  Category,
+  DsInfo,
 };

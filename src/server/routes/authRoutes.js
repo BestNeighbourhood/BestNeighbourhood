@@ -1,46 +1,42 @@
 // Logger
-var logger = require('../config/logger');
 // express
-var express     = require('express');
-var authRouter = express.Router();
-var passport = require('passport')
-var User = require('../models/userModel')
+const express = require('express');
 
-var router = function() {
+const authRouter = express.Router();
+const passport = require('passport');
+const logger = require('../config/logger');
+const User = require('../models/userModel');
 
-    // To login
-    authRouter.route('/signIn').post(passport.authenticate('local', {
-        successRedirect : '/', 
-        failureRedirect : '/', 
-    
-    }));
-    
-    // process the signup form
-    authRouter.route('/signup').post(function(req, res) {
-        
-        User.count({}, function (err, c) {
+const router = function () {
+  // To login
+  authRouter.route('/signIn').post(passport.authenticate('local', {
+    successRedirect: '/',
+    failureRedirect: '/',
 
-            // Restrist number of admin accounts
-            if (c == 2) {
-                res.redirect('/');
-            } else {
-                User.register(new User({ username : req.body.username }), req.body.password, function(err, account) {
-                    if (err) {
-                        logger.info(err);
-                    }
+  }));
 
-                    passport.authenticate('local')(req, res, function () {
-                        res.redirect('/');
-                    });
-                });
-            }
+  // process the signup form
+  authRouter.route('/signup').post((req, res) => {
+    User.count({}, (err, c) => {
+      // Restrist number of admin accounts
+      if (c == 2) {
+        res.redirect('/');
+      } else {
+        User.register(new User({ username: req.body.username }), req.body.password, (err, account) => {
+          if (err) {
+            logger.info(err);
+          }
+
+          passport.authenticate('local')(req, res, () => {
+            res.redirect('/');
+          });
         });
-        
+      }
+    });
   });
 
 
-
-    return authRouter;
+  return authRouter;
 };
 
 module.exports = router;

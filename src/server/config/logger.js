@@ -1,44 +1,45 @@
-var winston = require('winston');
-var path = require('path');
+const winston = require('winston');
+const path = require('path');
 
-var transports = [];
-var level;
+const transports = [];
+let level;
 
-if(process.env.NODE_ENV === "production") {
+if (process.env.NODE_ENV === 'production') {
   transports.push(new winston.transports.File({
     filename: path.join(__dirname, '../../../logs/production.log'),
     handleExceptions: true,
     humanReadableUnhandledException: true,
     prettyPrint: true,
-    json: false
+    json: false,
   }));
 
-  //max log level displayed
+  // max log level displayed
   level = 'info';
-
 } else {
   transports.push(new winston.transports.File({
     filename: path.join(__dirname, '../../../logs/development.log'),
     handleExceptions: true,
     humanReadableUnhandledException: true,
     prettyPrint: true,
-    json: false
+    json: false,
   }));
 
   transports.push(new winston.transports.Console({
     prettyPrint: true,
     humanReadableUnhandledException: true,
     colorize: true,
-    handleExceptions: true
+    handleExceptions: true,
   }));
 
-  //max log level displayed
+  // max log level displayed
   level = 'debug';
 }
 
-var logger = new (winston.Logger)({
-  transports: transports,
-  levels: { error: 0, warn: 1, info: 2, verbose: 3, debug: 4, },
+const logger = new (winston.Logger)({
+  transports,
+  levels: {
+    error: 0, warn: 1, info: 2, verbose: 3, debug: 4,
+  },
   colors: {
     error: 'red',
     warn: 'yellow',
@@ -46,9 +47,9 @@ var logger = new (winston.Logger)({
     verbose: 'cyan',
     debug: 'magenta',
   },
-  level: level,
+  level,
 });
 
-logger.debug("Initialized Logger");
+logger.debug('Initialized Logger');
 
 module.exports = logger;

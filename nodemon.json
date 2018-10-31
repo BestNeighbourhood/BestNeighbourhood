@@ -1,4 +1,4 @@
 {
-    "ignore": "/src/client/**/*",
-    "ignore": "/src/app/**/*"
+    "ignore": "/public/**/*",
+    "ignore": "/src/client/**/*"
 }

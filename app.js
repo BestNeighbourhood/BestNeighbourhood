@@ -62,7 +62,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(cookieParser());
 
 // set up views 
-app.set('views', './src/client'); /* TEST CLIENT */
+app.set('views', './public/'); /* TEST CLIENT */
 
 ////////////////
 // Set up Routes
@@ -73,7 +73,7 @@ app.use('/data', dataRouter);
 app.use('/auth', authRouter);
 
 app.get('/', function(req, res) {
-    res.sendFile(path.join(__dirname, 'src/client/index.html'));
+    res.sendFile(path.join(__dirname, 'public/index.html'));
 });
 
 app.listen(3000, function(err) {

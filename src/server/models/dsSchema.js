@@ -1,6 +1,6 @@
-var mongoose = require('mongoose');
+const mongoose = require('mongoose');
 
-var dsSchema = new mongoose.Schema({ }, { strict: false });
+const dsSchema = new mongoose.Schema({ }, { strict: false });
 
-var ds = dsSchema; // connection.model('DataSets', dsSchema);
+const ds = dsSchema; // connection.model('DataSets', dsSchema);
 module.exports = ds;
